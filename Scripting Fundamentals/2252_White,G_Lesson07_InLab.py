@@ -14,8 +14,21 @@ lines = file.read().splitlines()
 teams = lines[0::2]
 years = lines[1::2]
 
-print("Git test")
+print(len(teams), len(years))
+team = input("Enter team name, or type 'No Winner':\n>")
 
+#Display num of times team won, and list the years they won
+numWins = 0
+winYears = []
+for i in range(len(teams)):
+    if teams[i].lower().strip() == team.lower():
+        numWins += 1
+        winYears.append(years[i])
 
-print(teams)
-print(years)
+if team.lower() == "no winner":
+    print("Here are the years where there was no winner in the World Series:")
+else:
+    print(f"This team won {numWins} times in the following years:")
+
+for i in winYears:
+    print (i)
