@@ -14,6 +14,7 @@ lines = file.read().splitlines()
 teams = lines[0::2]
 years = lines[1::2]
 
+print("Git test")
 
 
 print(teams)
