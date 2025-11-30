@@ -1,0 +1,69 @@
+What does “HTTP” stand for?
+HyperText Transfer Protocol
+HyperText Transmission Protocol
+HighText Transfer Protocol
+Hyperlink Transfer Text Protocol
+a
+
+Who co-founded Microsoft?
+Steve Jobs
+Bill Gates
+Mark Zuckerberg
+Elon Musk
+b
+
+What is the main language used for Android app development?
+Swift
+Kotlin
+Ruby
+PHP
+b
+
+What does CPU stand for?
+Central Performance Unit
+Central Processing Unit
+Computer Processing Unit
+Central Program Unit
+b
+
+What year was the first iPhone released?
+2005
+2007
+2008
+2010
+b
+
+Which company created the search engine Google?
+Yahoo
+Microsoft
+Google
+Apple
+c
+
+What is the name of Apple’s operating system for Macs?
+Windows
+macOS
+Linux
+Unix
+b
+
+What is the most popular programming language for data science?
+Python
+Java
+C++
+Ruby
+a
+
+Which company makes the PlayStation console?
+Microsoft
+Sony
+Nintendo
+Sega
+b
+
+What does “Wi-Fi” stand for?
+Wireless Fidelity
+Wide Fidelity
+Wired Fidelity
+Wireless File
+a

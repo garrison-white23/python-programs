@@ -2,7 +2,7 @@
 # NAME: Random number generator
 # AUTHOR(s): Garrison White
 # DATE: 11/29/2025
-# PURPOSE: User enters a number, then generate that many random integers in a list. Display a summary of the list of numbers including min, max, sum, and average.
+# PURPOSE: User enters a number, then generate that many random integers and store in a txt file. Display a summary of the numbers including min, max, sum, and average.
 
 import random
 
@@ -43,13 +43,21 @@ def number_generator():
         except ValueError:
             print("Invald input. Please enter a whole number between 1 and 100.")
 
-    #Create an empty list, then append random numbers to the list with for loop.
-    numbers = []
-    for num in range(num_of_nums):
-        numbers.append(random.randint(0,999))
-
     print("\nGenerating numbers...\n ")
 
+    #Open new txt file and write random numbers into it.
+    fout = open("output.txt", "w")
+    for i in range(num_of_nums):
+        fout.write(f"{random.randint(0,999)}\n")
+    fout.close()
+
+    #Open txt file again to read it, and put each number in a list.
+    fin = open("output.txt")
+    numbers = []
+    for line in fin:
+        numbers.append(int(line.strip()))
+    fin.close()
+    
     #Display numbers with a for loop.
     for i in range(len(numbers)):
         if i == len(numbers) - 1:
@@ -57,11 +65,11 @@ def number_generator():
         else:
             print(f"{numbers[i]}", end = ', ')
 
-        if (i + 1) % 25 == 0:  #This starts a new line for every 25 numbers printed (for readability).
+        if (i + 1) % 20 == 0:  #This starts a new line for every 20 numbers printed (for readability).
             print()
 
     #Print a summary  using list functions.
-    print()
+    print("\n\n*** Your numbers can be found in 'output.txt'")
     print("---------------------")
     print("       SUMMARY       ")
     print("---------------------")
