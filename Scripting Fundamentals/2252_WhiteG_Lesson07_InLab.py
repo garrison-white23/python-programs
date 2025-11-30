@@ -18,8 +18,8 @@ def main():
     teams_upper = lines[0::2]
     teams = []
     for i in teams_upper:  #Convert teams to lowercase
-        teams.append(i.lower().strip())
-    years = lines[1::2]
+        teams.append(i.lower().strip())                 
+    years = lines[1::2]                                     
     
     choice = "1"
     while choice == "1":

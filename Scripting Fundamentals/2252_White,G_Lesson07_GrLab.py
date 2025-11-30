@@ -26,7 +26,6 @@ def number_generator():
     # User enters the number of numbers they would
     # like to make. If a whole number 1-1,000 is entered,
     # create a list of random numbers and display summary.
-
     num_of_nums = 0  
     
     #Ask user how many numbers to generate. Validate input with while loop. 
