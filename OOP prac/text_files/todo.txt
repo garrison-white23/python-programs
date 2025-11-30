@@ -1,0 +1,4 @@
+- Learn Python file handling
+- Buy groceries
+- Play with pathlib
+- Build a small automation script

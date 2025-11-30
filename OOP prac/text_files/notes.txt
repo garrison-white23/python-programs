@@ -1,0 +1,3 @@
+Python is fun.
+This is a practice file.
+You can read and write to files using Python.

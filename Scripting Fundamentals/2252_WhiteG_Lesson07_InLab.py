@@ -20,7 +20,7 @@ def main():
     for i in teams_upper:  #Convert teams to lowercase
         teams.append(i.lower().strip())
     years = lines[1::2]
-
+    
     choice = "1"
     while choice == "1":
         team = get_team(teams)
@@ -56,13 +56,13 @@ def result(team, teams, years):
 
     #Display num of times team won, and list the years they won
     if team.lower() == "no winner":
-        print("Here are the years where there was no winner in the World Series:")
+        print("\nHere are the years where there was no winner in the World Series:")
         for i in years_won:
             print (i)
     elif len(years_won) == 1:
-        print(f"This team won 1 time in the year {years_won[0]}")
+        print(f"\nThis team won 1 time in the year {years_won[0]}")
     else:
-        print(f"This team won {num_wins} times in the following years:")
+        print(f"\nThis team won {num_wins} times in the following years:")
         for i in years_won:
             print (i)
 
@@ -70,11 +70,11 @@ def result(team, teams, years):
 def playagain():
     choice = ""
     while choice not in ["1", "2"]:
-        choice = input("Select an options:\n[1]New baseball team\n[2]Quit\n>")
+        choice = input("\nSelect an options:\n[1]New baseball team\n[2]Quit\n>")
         if choice in ["1", "2"]:
             break
         else:
-            print("Invalis response. Try again.")
+            print("Invalid response. Try again.")
 
     return choice
 
