@@ -8,7 +8,7 @@ There is a .txt file for each category, and the questions come from a database o
 found on the GitHub repository 'OpenTriviaQA' by user uberspot (link: https://github.com/uberspot/OpenTriviaQA).
 
 For each category, I pasted the entire list of 1k+ questions into a temporary txt file, 
-and then made  a temporary Python script (making_questions.py) to sort them into questions 
+and then made a temporary Python script (making_questions.py) to sort them into questions 
 with 4 multiple choice answers. I then pulled 250 random questions from the list, and put 
 them into a .txt file under 'triviaQuestions' to be used in the game. '''
 
@@ -32,7 +32,7 @@ def main():
 
 def welcome():
     print("-------------------------")
-    print("     TRIVIA GAMESHOW     ")
+    print("       TRIVIA GAME       ")
     print("-------------------------\n")
 
     print("Choose a category, and answer 10 trivia questions")
@@ -80,8 +80,8 @@ def get_questions():
     #List of each question containing ALL components such as the question, answer choices, and the answer. 
     full_questions = fin.read().split("\n\n")
     
-    #A new list is made to split up the questions into their components with a dictionary.
-    #This way each individual component can be accessed later on.
+    # A new list is made to split up the questions into their components with a dictionary.
+    # This way each individual component can be accessed later on.
     questions = []
     for i in full_questions:
         q_parts = i.split("\n")
