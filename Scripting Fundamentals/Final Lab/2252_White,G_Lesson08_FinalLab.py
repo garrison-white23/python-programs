@@ -132,7 +132,8 @@ def quiz(questions, num_questions):
             else:
                 print("\nInvalid input. Try again.")
 
-        #This variable is equal to the 'q' value of the key equal to the user's answer (a, b,  c, d), to check against the real answer.
+        # This variable is equal to a question value using the user's answer (a, b, c, d) 
+        # as the key, in order to check against the real answer.
         answer_check = q[f"{answer.lower()}"][2:]
         
         #Check if answer is correct.
