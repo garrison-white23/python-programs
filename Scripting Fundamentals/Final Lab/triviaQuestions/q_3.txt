@@ -1,69 +1,1749 @@
-What is the largest continent by land area?
-Africa
-Asia
-Europe
-North America
-b
+#Q This volcano, which is the largest in Europe, is located on the largest island in the Mediterranean Sea.
+^ Mount Etna
+A Mount Etna
+B Hekla
+C El Misti
+D Santorini
 
-What is the capital of France?
-Rome
-Madrid
-Paris
-Berlin
-c
+#Q Which US state is nicknamed The Pine Tree State?
+^ Maine
+A New Hampshire
+B Missouri
+C Massachusetts
+D Maine
 
-Which river is the longest in the world?
-Nile
-Amazon
-Yangtze
-Mississippi
-a
+#Q The term death zone refers to high altitudes, where the amount of oxygen cannot sustain human life and altitude acclimatization becomes impossible.  While this definition still applies, mount Everests death zone is significantly more difficult to survive.  Why?
+^ Extremely low temperatures result in quick freezing of body parts
+A Visibility is decreased due to constant snowstorms
+B Extremely low temperatures result in quick freezing of body parts
+C High wind velocity causes deadly avalanches
+D Polar bears pose a serious threat to climbers
 
-Mount Everest is located in which mountain range?
-Alps
-Andes
-Himalayas
-Rockies
-c
+#Q What river flows through the central part of the French capital, Paris?
+^ Seine
+A Seine
+B Loire
+C Charente
+D Rhine
 
-Which country has the largest population?
-India
-USA
-China
-Russia
-c
+#Q Glenwood Springs, Colorado was known for its hot springs and hospital. What famous outlaw and gun slinger expired from Tuberculosis there?
+^ Doc Holliday
+A Billy The Kid
+B Jesse James
+C Doc Holliday
+D Wyatt Earp
 
-Which desert is the largest in the world?
-Sahara
-Gobi
-Kalahari
-Arabian
-a
+#Q Phoenicia was an ancient civilization that spread maritime trade over the Mediterranean Sea. From where did the Phoenicians originate?
+^ Modern day Liban (Sidon, Tyre)
+A North Africa (Tunis, Algier)
+B Sicily (Syracuse)
+C Greek islands on the Aegean Sea
+D Modern day Liban (Sidon, Tyre)
 
-What ocean is on the east coast of the USA?
-Pacific
-Atlantic
-Indian
-Arctic
-b
+#Q The name of this US state means flat water and is derived from the name of the Platte River that flows through the state.
+^ Nebraska
+A Montana
+B Nebraska
+C Utah
+D Oklahoma
 
-Which country is famous for the fjords?
-Norway
-Sweden
-Finland
-Iceland
-a
+#Q The locals of Nepal call the highest mount in the world - Mount Everest -  Sagarmatha. What is the meaning of this name in Sanskrit?
+^ Head of the Sky
+A Holy Mountain
+B Ice Zone
+C Leader Among the Others
+D Head of the Sky
 
-What is the smallest country in the world?
-Monaco
-Vatican City
-San Marino
-Liechtenstein
-b
+#Q The longest river in Europe is Volga. But do you know which is the second longest one? It flows through several major European cities, such as Ulm, Vienna, Bratislava, Budapest and Belgrade. The river empties in the Black Sea on the terrirories of Romania and Ukraine.
+^ Danube
+A Don
+B Dniepr
+C Danube
+D Emba
 
-Which city is known as the “Big Apple”?
-Los Angeles
-New York City
-Chicago
-Boston
-b
+#Q What is the currency of Russia?
+^ ruble
+A franc
+B ruble
+C dollar
+D peso
+
+#Q Which saltwater lake, bordered on the west by Azerbaijan and Russia, is the largest inland body of water in the world?
+^ Caspian Sea
+A Tanganyika
+B Victoria
+C Baikal
+D Caspian Sea
+
+#Q These knee-breeches made of leather are a traditional Bavarian garment.
+^ Lederhosen
+A Kilt
+B Lederhosen
+C Kisen
+D Wrestlers
+
+#Q What river, draining into the Caspian Sea, is the longest in Europe?
+^ Volga
+A Danube
+B Ural
+C Dnieper
+D Volga
+
+#Q What legendary American frontiersman commanded a major fort in Colorado?
+^ Kit Carson
+A Daniel Boone
+B Kit Carson
+C Wild Bill Cody
+D Jim Bowie
+
+#Q USA is considered to be one of the most popular destinations, where thousands of immigrants come to seek asylum. Just one of these four states is similar in to USA in this respect.
+^ France
+A France
+B Finland
+C Japan
+D Portugal
+
+#Q What city boasts the most parks in the US?
+^ Denver, Colorado
+A Colorado Springs, Colorado
+B Golden, Colorado
+C Denver, Colorado
+D Aspen, Colorado
+
+#Q Which of these musicians became the first US musical group ever to perform in North Korea?
+^ The New York Philharmonic Orchestra
+A The Black Eyed Peas
+B The New York Philharmonic Orchestra
+C The Helen Henderson Choir of Victory Baptist Church
+D Linkin Park
+
+#Q What is the state animal of Colorado and the symbol of Rocky Mountain National Park?
+^ Big Horned Sheep
+A Mustang
+B Big Horned Sheep
+C White Tailed Deer
+D Buffalo
+
+#Q Montgomery is the capital city of this US state, and its largest city is Birmingham.
+^ Alabama
+A Arizona
+B Alaska
+C Arkansas
+D Alabama
+
+#Q The capital city of what country is called Quito?
+^ Ecuador
+A Bolivia
+B Macedonia
+C Ecuador
+D Yemen
+
+#Q Who is given credit  for being the first person to reach the North Pole?
+^ Peary
+A Peary
+B Bering
+C Amundsen
+D Scott
+
+#Q Mount Vesuvius, that is notorious for the destruction of two Roman cities in the year 79, was linked most closely to which hero and demigod?
+^ Hercules
+A Asclepius
+B Apollo
+C Zeus
+D Hercules
+
+#Q Albuquerque is the largest city of which U.S. state?
+^ New Mexico
+A Ohio
+B Kansas
+C Oklahoma
+D New Mexico
+
+#Q The Black Sea city of Sukhumi is the capital of this republic that proclaimed its independence from Georgia in the 90s.
+^ Abkhazia
+A Ajaria
+B Iberia
+C Ossetia
+D Abkhazia
+
+#Q The famous department store Harrods that occupies an entire block is located on which road in London?       
+^ Brompton Road
+A Abbey Road
+B Threadneedle Street
+C Brompton Road
+D Fleet Street
+
+#Q What is the largest island in the Mediterranean Sea?
+^ Sicily
+A Crete
+B Corsica
+C Sicily
+D Cyprus
+
+#Q The huge grain industry in Colorado gives rise to breweries. Which of the following owns the biggest single site brewery located in Golden, Colorado?
+^ Molson Coors Brewing Company
+A Anheuser-Busch
+B Molson Coors Brewing Company
+C Jacob Leinenkugel Brewing Company
+D Highfalls Brewing Company
+
+#Q What type of meal is the godro-godro, which is very popular in the Madagascar cuisine?
+^ Pudding
+A Seafood meal
+B Rice meal
+C Pudding
+D Vegetable stew
+
+#Q What US state is known as the Peach State?
+^ Georgia
+A Louisiana
+B Georgia
+C Montana
+D Connecticut
+
+#Q In which city was the Shinsengumi group founded?
+^ Kyoto
+A Kyoto
+B Tokyo
+C Nagasaki
+D Osaka
+
+#Q What is the meaning of the name of Spain according to a popular theory?
+^ All of these
+A Land of rabbits
+B All of these
+C Edge
+D Land of the setting sun
+
+#Q These islands were the original spice islands, which have drawn traders from all over the world for thousands of years, and were a major factor in causing the European age of exploration, as explorers set out to find the fabled East Indies.
+^ Ternate, Tidore and Banda
+A Ternate, Tidore and Banda
+B Timor, Flores and Sumba
+C Celebes and New Guinea
+D Sumatra and Borneo
+
+#Q The Pacific Ocean is the largest of the Earths oceanic divisions. Its name is derived from the Latin name Mare Pacificum which has the following meaning.
+^ The Peaceful Sea
+A The Peaceful Sea
+B The Lonely Sea
+C The Smooth Sea
+D The Lonely Sea
+
+#Q What is the longest river in France?
+^ Loire
+A Loire
+B Maine
+C Odet
+D Erdre
+
+#Q In what country is Virginia Falls located?
+^ Canada
+A United States
+B Austarlia
+C Wales
+D Canada
+
+#Q What sport is rated as the most popular sport among Egyptians?
+^ Football (soccer)
+A Football (soccer)
+B Baseball
+C Handball
+D Tennis
+
+#Q Which of the characteristics below is typical for the buildings on the Greek archipelago of Santorini?      
+^ The white-and-blue colouring
+A The white-and-blue colouring
+B The huge balconies
+C The red-tiled roofs
+D The arched doors
+
+#Q Which country held the record for the highest birth rate in the 2005 world statistics?
+^ Niger
+A Niger
+B Uganda
+C Mali
+D Vatican City
+
+#Q What is the capital city of the Netherlands?
+^ Amsterdam
+A Amsterdam
+B Amersfort
+C The Hague
+D Zwolle
+
+#Q Which of the following countries is the worlds smallest continent, and can also be considered an island since it is surrounded by water?
+^ Australia
+A India
+B Africa
+C Madagascar
+D Australia
+
+#Q Which country borders both Slovenia and Slovakia?
+^ Austria
+A Serbia
+B Austria
+C Poland
+D Germany
+
+#Q Which of these statements is true about the division of Korea into two parts?
+^ All of these
+A Korea was divided at the 38th parallel.
+B North Korea was to be administered by the Soviet union.
+C All of these
+D It followed the end of World War II.
+
+#Q This freshwater-lake island, with a surface area of 2,766 km², is the biggest on Earth.
+^ Manitoulin Island
+A Islandlake
+B Ainslie
+C Manitoulin Island
+D Isle of Wight
+
+#Q It has been found that the black mineral soil from the Dead Sea area of Israel helps maintain a good, young complexion. What is the name of the Israeli company that exports beauty products from the Dead Sea area?       
+^ Ahava
+A Naot
+B Kfar Gideon
+C Rafaele
+D Ahava
+
+#Q Despite being the largest in the world, this island is sparsely populated, due to its unfavourable climate. 
+^ Greenland
+A Greenland
+B New Guinea
+C Victoria Island
+D Madagascar
+
+#Q In what country is the active volcano Sakurajima located?
+^ Japan
+A India
+B Peru
+C Japan
+D South Africa
+
+#Q Kainji Lake and Lake Chad are considered lakes of this country.
+^ Nigeria
+A Niger
+B Nigeria
+C Cameroon
+D Chad
+
+#Q Which Indonesian island is shared by four Indonesian provinces and two other nations: the eastern half of Malaysia and the tiny oil-rich sultanate of Brunei?
+^ Borneo
+A New Guinea
+B Sumatra
+C Borneo
+D Flores
+
+#Q Many countries held national referenda before joining the European Union. Which of the following nations showed the highest support for joining (92% in favour)?
+^ Slovakia
+A Poland
+B Ireland
+C Lithuania
+D Slovakia
+
+#Q What iconic world landmark, sometimes called the Crossroads of the World, was formerly named Longacre Square?
+^ Times Square
+A Grosvenor Square
+B Times Square
+C Madison Square
+D St Jamess Square
+
+#Q What is the name of the largest city and capital of Sweden?
+^ Stockholm
+A Helsinki
+B Stockholm
+C Oslo
+D Gothenburg
+
+#Q Which is the largest group of Greek islands?
+^ The Cyclades
+A The Cyclades
+B The Sporades
+C The Ionian
+D The East Aegean
+
+#Q Which EU member was the largest country in Europe in XIV century, but now has land area of just 65 000 sq. km?
+^ Lithuania
+A Denmark
+B Lithuania
+C Austria
+D Netherlands
+
+#Q North to the Future is the official motto of this US state, which is the largest in area.
+^ Alaska
+A Texas
+B Alaska
+C Nevada
+D Colorado
+
+#Q Which nation claims ownership of the South Pole?
+^ No nation does.
+A Russia
+B No nation does.
+C France
+D The USA
+
+#Q What animal is depicted on Egypts national emblem, which is featured on the national flag of Egypt, adopted in 1984?
+^ Eagle
+A Bear
+B Jackal
+C Eagle
+D Lion
+
+#Q The Holy Roman Empire of the German Nation was a loosely coupled union of mostly German speaking principalities. Which part of the union was the driver of the 19th century unification of Germany?
+^ Prussia
+A Austria
+B Prussia
+C Saxony
+D Bavaria
+
+#Q Which central European countrys all pre-1989 neighbors do not exist any more? The country is now bordered by 7 states.
+^ Poland
+A Austria
+B Poland
+C Hungary
+D Romania
+
+#Q The term Death Zone refers to what altitude?
+^ above 8,000 m
+A above 8,100 m
+B above 8,000 m
+C above 7,900 m
+D above 7,500 m
+
+#Q Where is the third-tallest waterfall on the planet, Ramnefjellsfossen, located?
+^ Norway
+A Norway
+B Finland
+C Switzerland
+D Denmark
+
+#Q Which member of the European Union completely surrounds two countries that are outside of the club?
+^ Italy
+A Austria
+B France
+C Spain
+D Italy
+
+#Q Finish this Irish saying: Often has the likely failed and the unlikely _________.
+^ succeeded
+A failed too
+B wrote a novel about the failure
+C laughed at the failure
+D succeeded
+
+#Q What term refers to the horizontal line, 23.5 degrees S, which passes through South America, Africa, and Australia?
+^ Tropic of Capricorn
+A Tropic of Cancer
+B Prime Meridian
+C Tropic of Capricorn
+D Equator
+
+#Q This Australian desert of nearly 600,000 square kilometres is famous for its spectacular land and rock formations, such as Uluru and Kata Tjuta, its estimated 1,100 parallel dunes running north-south, and the fresh water lake, Rainbow Valley.
+^ Simpson Desert
+A Tanami Desert
+B Simpson Desert
+C Great Victoria Desert
+D Great Sandy Desert
+
+#Q Which Indonesian island was in the news in 2003 when the remains of an extinct variety of small hominids (popularly referred to as Hobbits), measuring about 3 feet in height, were found there?
+^ Flores
+A Sumatra
+B New Guinea
+C Timor
+D Flores
+
+#Q This dormant volcano, which is 66 km northeast of Tehran, is the symbol of Iranian resistance against foreign rule.
+^ Mount Damavand
+A Mount Hood
+B Krakatoa
+C Mount Damavand
+D Krafla
+
+#Q Huang He is the second-longest river in China. Its source is in the Kunlun Mountains at 4,500m (14,764 feet) above sea level. Due to the silts that the river carries, the color of its waters becomes so unnatural that it gave the name of the river . What is the color of the waters of Huang He?
+^ Yellow
+A Brown
+B Orange
+C Yellow
+D Red
+
+#Q The national motto of what country is A Mari Usque Ad Mare, meaning From Sea to Sea in Latin?
+^ Canada
+A Jamaica
+B Spain
+C Canada
+D Haiti
+
+#Q Valletta is the capital city of this island country in the Mediterranean.
+^ Malta
+A Majorca
+B Malta
+C Corsica
+D Cyprus
+
+#Q The Black Sea drains into the Atlantic Ocean via the Sea of Marmara and the Mediterranean Sea on the South West. On the other, North East side of the Black Sea, there is a small sea which is connected to the Black Sea via the Strait of Kerch. Name this sea.
+^ The Sea of Azov
+A The White Sea
+B The Caspian Sea
+C The Aral Sea
+D The Sea of Azov
+
+#Q This US President was born in South Carolina although he lived in Tennessee when he became president.       
+^ Andrew Jackson
+A William Henry Harrison
+B Zachary Taylor
+C Andrew Jackson
+D Jimmy Carter
+
+#Q What is the longest river in Poland and the ninth longest in Europe?
+^ Vistula
+A Wda
+B Nogat
+C Vistula
+D Dunajec
+
+#Q Which of these peaks is the highest?
+^ McKinley (Alaska)
+A Grossglockner (Austria)
+B McKinley (Alaska)
+C Mont Blanc (France)
+D Mount Elbert (Colorado)
+
+#Q The name of which American state means red people in the Choctaw language?
+^ Oklahoma
+A Ohio
+B Oklahoma
+C North Dakota
+D Oregon
+
+#Q This North American river is also called Kaniatarowanenneh, which means big waterway in Mohawk.
+^ Saint Lawrence River
+A Saint Lawrence River
+B Rio Grande
+C Colorado
+D Ohio River
+
+#Q What is the largest river on the planet by volume?
+^ The Amazon
+A The Mississippi
+B The Amazon
+C The Nile
+D The Ganges
+
+#Q Which of these oceans has the greatest depth?
+^ Pacific Ocean
+A Pacific Ocean
+B Indian Ocean
+C Atlantic Ocean
+D Arctic Ocean
+
+#Q The islands of the Pacific are collectively termed Oceania. Oceania is divided into several sub-groupings. In which of these is New Guinea located?
+^ Melanesia
+A Polynesia
+B None of these
+C Melanesia
+D Micronesia
+
+#Q Which countrys capital city is considered de facto capital of the European Union?
+^ Belgiums
+A UKs
+B Hollands
+C Belgiums
+D Frances
+
+#Q The Old Royal Observatory, which is a part of the National Maritime Museum in London, was built in what year?
+^ 1675
+A 1675
+B 1765
+C 1567
+D 1657
+
+#Q What is the literal translation of the title of the national anthem of Egypt, Bilady, Bilady, Bilady?       
+^ My country, my country, my country
+A Amazing, amazing, amazing
+B Sing, sing, sing
+C My country, my country, my country
+D Blessed, blessed, blessed
+
+#Q The Cross Channel Euroregion includes France, the UK and what other country?
+^ Belgium
+A Belgium
+B Ireland
+C Spain
+D Netherlands
+
+#Q The summit ridge of Mount Everest marks the border between which two Asian countries?
+^ China and Nepal
+A India and China
+B Nepal and India
+C China and Georgia
+D China and Nepal
+
+#Q This river flows through the southern part of England and passes through the capital of the country.        
+^ The Thames
+A The Avon
+B All of these
+C The Thames
+D The Mersey
+
+#Q How many US states border the Pacific Ocean?
+^ 5
+A 11
+B 4
+C 5
+D 3
+
+#Q Who was the first person to reach the South Pole?
+^ Amundsen
+A Scott
+B Amundsen
+C Henson
+D Peary
+
+#Q On which of the islands of Papua New Guinea is the active volcano Ulawun located?
+^ New Britain
+A New Britain
+B New Guinea
+C Bougainville
+D New Ireland
+
+#Q What is the largest city in Switzerland?
+^ Zurich
+A Geneva
+B Zurich
+C Bern
+D Munich
+
+#Q Which scenic US valley was described by conservationist John Muir in the following way: (...) None can escape its charms. Its natural beauty cleans and warms like a fire, and you will be willing to stay forever in one place like a tree.?
+^ Yosemite Valley
+A Willamette Valley
+B Yosemite Valley
+C Sun Valley
+D Yakima Valley
+
+#Q The Grand Valley is an extended populated agricultural valley located along which US river?
+^ Colorado River
+A Alabama River
+B Mississippi River
+C Colorado River
+D Missouri River
+
+#Q This Russian volcano, located on the Kamchatka Peninsula, is one of the most active volcanoes on the planet.
+^ Avachinsky
+A Elbrus
+B Anik Mountain
+C Sikhote-Alin
+D Avachinsky
+
+#Q Which EU country or US state is not entirely situated on (an) island(s)?
+^ Rhode Island
+A UK
+B Hawaii
+C Rhode Island
+D Cyprus
+
+#Q Which of these rivers is longest?
+^ Huang
+A Lena
+B Huang
+C Amur
+D Ob-Irtysh
+
+#Q This is the longest river in Asia and its Chinese name, Chang Jiang, is literally translated to Long River. The critically endangered Chinese River Dolphin and Chinese paddlefish live only in this river. It takes its source in the Qinghai Province, flows for 6,380km (3964miles) and finally empties into the East China Sea. What is the name of this river?
+^ Yangtze
+A Irtysh
+B Huai River
+C Yangtze
+D Mekong
+
+#Q Towards the beginning of the new millennium, three of these four countries had a population of approximately 32 million people. Which is the odd one?
+^ Colombia
+A Algeria
+B Kenya
+C Colombia
+D Morocco
+
+#Q What phrase means I love you in Russian?
+^ Ya lyublyu tebya
+A Eu te amo
+B Ya lyublyu tebya
+C Te iu besc
+D Volim te
+
+#Q According to the Shinsengumi rules, if the leader of a unit is mortally wounded in a fight, what should the rest of the group do?
+^ All members of the unit must fight and die on the spot.
+A Run away
+B Take the body and run away
+C Commit Seppuku
+D All members of the unit must fight and die on the spot.
+
+#Q This island is the third largest in Indonesia, and is probably known for its coffee. It is also home to unique (and endangered) species of elephants, tigers, and rhinoceroses. It is also one of two islands which have indigenous orangutans.
+^ Sumatra
+A Timor
+B Sumatra
+C New Guinea
+D Celebes
+
+#Q What is the name of the river in which Jesus Christ was baptized by John the Baptist?
+^ The Jordan
+A The Tigris
+B The Jordan
+C The Euphrates
+D The Nile
+
+#Q Malcolm X, the founder of the Organization of Afro-American Unity,  was born in what US city?
+^ Omaha
+A Kansas City
+B Omaha
+C Saint Louis
+D Belleville
+
+#Q What is the popular Norwegian delicacy called Smalahove made from?
+^ Lamb head
+A Pork intestines
+B Fish liver
+C Chicken popes nose
+D Lamb head
+
+#Q Of the 10,000 plants native to Madagascar, what percent are found nowhere else in the world?
+^ 90%
+A 49%
+B 13%
+C 90%
+D 72%
+
+#Q Which one of these Mediterranean islands is the smallest in area?
+^ Corfu
+A Corsica
+B Cyprus
+C Crete
+D Corfu
+
+#Q Who is the first American to ascend all fourteen peaks over 8,000m without oxygen?
+^ Ed Viesturs
+A Reinhold Messner
+B Peter Habeler
+C Ed Viesturs
+D George Mallory
+
+#Q The first college in The Bronx, known as this today, was built in 1884.
+^ Fordham University
+A Mercy College
+B Manhattan College
+C Fordham University
+D Lehman College
+
+#Q Not counting Istanbul, which of these cities is located on Bosphorus on the side of the Sea of Marmara and is the biggest city on the coast of the Black Sea?
+^ Odessa, Ukraine
+A Trabzon, Turkey
+B Sukhumi, Georgia
+C Varna, Bulgaria
+D Odessa, Ukraine
+
+#Q What is the official name of Luxembourg?
+^ Grand Duchy of Luxembourg
+A The Peoples Republic of Luxembourg
+B Grand Duchy of Luxembourg
+C The Luxembourg Democratic Republic
+D The Kingdom of Luxembourg
+
+#Q Rangipo Desert in the central part of New Zealands North Island, does not have its barren and lifeless appearance because of the lack of rain, but rather, due to which of these?
+^ Soil structure
+A Intense use of pesticides
+B Constant powerful winds
+C Soil structure
+D Frequent destructive storms
+
+#Q What is the national motto of the Federative Republic of Brazil, also featured in the national flag of the country?
+^ Order and Progress
+A Faith and Honesty
+B Freedom Above All
+C Order and Progress
+D Unity and Strength
+
+#Q What is the English name of the Mosi-oa-Tunya waterfall located between Zambia and Zimbabwe?
+^ Victoria Falls
+A Virginia Falls
+B Veronica Falls
+C Valeria Falls
+D Victoria Falls
+
+#Q Finish this Irish saying: The far off hills are _______.
+^ the greenest
+A covered with clouds
+B alive with the sound of music
+C the farthest away
+D the greenest
+
+#Q The southern region of what US state is known as Little Egypt?
+^ Illinois
+A Virginia
+B Illinois
+C Ohio
+D Maryland
+
+#Q Wichita, the county seat of Sedgwick County, is nicknamed what?
+^ Air Capital
+A Air Capital
+B Mountain Capital
+C Plain Capital
+D River capital
+
+#Q This is the largest island in the Mediterranean Sea, famous for one of the worlds most active volcanoes - Etna.
+^ Sicily
+A Sicily
+B Crete
+C Sardinia
+D Corse
+
+#Q Addis Ababa is the capital of what country?
+^ Ethiopia
+A Samoa
+B Paraguay
+C Ghana
+D Ethiopia
+
+#Q Which of these seas is largest?
+^ Mediterranean
+A Bering
+B Arabian Sea
+C Mediterranean
+D Gulf of Mexico
+
+#Q Which of these statements is true about Madagascar?
+^ None of these
+A It is slightly smaller than France.
+B It is the worlds 56th-largest country in terms of area.
+C None of these
+D It is the fifth largest island in the world.
+
+#Q What is the official language spoken in Egypt?
+^ Arabic
+A Arabic and French
+B Arabic
+C Arabic, English and French
+D Arabic and English
+
+#Q The African kingdom of Dahomey was powerful in the XVIII century. Which modern day country did it cover?    
+^ Benin
+A Burma
+B Burkina Faso
+C Benin
+D DR Congo
+
+#Q Maryland Day is celebrated every year on what date?
+^ March 25th
+A The first day of crab season
+B Preakness Saturday
+C March 25th
+D March 1st
+
+#Q Who was Shinsengumi Commander from 1863 to 1868?
+^ Kondō Isami
+A Nagakura Shinpachi
+B Harada Sanosuke
+C Tōdō Heisuke
+D Kondō Isami
+
+#Q Which one of these mountains is not a volcano?
+^ Mount Aspiring
+A Mauna Kea
+B Mount St. Helens
+C Mount Vesuvius
+D Mount Aspiring
+
+#Q On what day of the week does the parade of the famous Rio Carnival traditionally start?
+^ Sunday
+A Sunday
+B Thursday
+C Wednesday
+D Friday
+
+#Q Name the largest of the Canary Islands.
+^ Tenerife
+A Tenerife
+B Gran Canaria
+C La Palma
+D Montana Clara
+
+#Q This famous Latin maxim, which is the official motto of South Carolina, means While I breathe, I hope.      
+^ Dum spiro spero
+A Si quaeris peninsulam amoenam circumspice
+B Nil sine numine
+C Salus populi suprema lex esto
+D Dum spiro spero
+
+#Q The name of this US state means great river and its symbol is the magnolia tree.
+^ Mississippi
+A Missouri
+B Massachusetts
+C Mississippi
+D Minnesota
+
+#Q Rokko island, constructed between 1973 and 1992, is an artificial island situated in which country?
+^ Japan
+A France
+B China
+C The Netherlands
+D Japan
+
+#Q How tall is Mount Everest?
+^ 8,849 m
+A 8,859 m
+B 8,849 m
+C 8,850 m
+D 8,840 m
+
+#Q What is the meaning of the national motto of the Republic of Indonesia, Bhinneka Tunggal Ika?
+^ Unity in Diversity
+A Unity in Diversity
+B Past Present Future
+C Progress and Stability
+D We Are Strong Together
+
+#Q Which is the smallest ocean?
+^ The Arctic Ocean
+A The Atlantic Ocean
+B The Indian Ocean
+C The Southern Ocean
+D The Arctic Ocean
+
+#Q When did Ireland join the European Union?
+^ 1973
+A 1995
+B 1973
+C 1960
+D 1986
+
+#Q This African desert, famous for its enormous sand dunes, is considered the oldest desert in the world, having endured its current arid conditions for at least 80 million years.
+^ Namib Desert
+A Libyan Desert
+B Kalahari Desert
+C Namib Desert
+D Kara Kum Desert
+
+#Q What is the capital and largest city of Hawaii, the 50th US state?
+^ Honolulu
+A Little Rock
+B Dover
+C Frankfort
+D Honolulu
+
+#Q Switzerland is often associated with this product which is produced at the highest quality in the country.  
+^ All of these
+A Chocolate
+B Watches
+C All of these
+D Cheese
+
+#Q The famous Île Notre-Dame, an artificial island built from earth excavated for a metropolitan railway, is located in which country?
+^ Canada
+A England
+B Canada
+C France
+D Switzerland
+
+#Q Where were the Boer Republics located?
+^ Across South Africa
+A In the Netherlands
+B Across South Africa
+C They were early Puritan settlements in the eastern North America
+D Minor British isles
+
+#Q The name of which US state means large creek in the Seneca language?
+^ Ohio
+A Idaho
+B Ohio
+C Texas
+D Wisconsin
+
+#Q Where does the Freedom Trail begin and end?
+^ Boston Common, Charlestown Navy Yard
+A Kings Chapel, Bunker Hill Monument
+B Trinity Church, Long Wharf
+C Boston Public Gardens, Old North Church
+D Boston Common, Charlestown Navy Yard
+
+#Q What motto do North Carolina license plates carry?
+^ First In Flight
+A The Old North State
+B First In Flight
+C Nothing Finer
+D Tarheel State
+
+#Q The official motto of this state in the Pacific Northwest of the United States comes from Chinook Jargon.   
+^ Washington
+A Wisconsin
+B Washington
+C Pennsylvania
+D New York
+
+#Q What is the name of the capital city of Latvia?
+^ Riga
+A Reykjavik
+B Port Vila
+C Porto-Novo
+D Riga
+
+#Q In what country is Gocta Waterfall located?
+^ Peru
+A Venezuela
+B Peru
+C Spain
+D Nicaragua
+
+#Q What does the Filipino word lungsod mean in English?
+^ city
+A market
+B city
+C island
+D province
+
+#Q Three of the enlisted national garments are African, while the fourth one is Norwegian. Which one?
+^ Bunad
+A Sanafil
+B Bunad
+C Dashiki
+D Boubou
+
+#Q Which one of the following national costumes is not Chinese?
+^ Kente cloth
+A Kente cloth
+B Qipao
+C Cheongsam
+D Mao suit
+
+#Q Why was Egypt called Kemet, or black land, back in the ancient times?
+^ Because of the black soils
+A Because of the coal
+B Because of the black soils
+C Because of the petrol
+D All of these
+
+#Q What is the The Rio Grande river called in Mexico?
+^ Rio Bravo
+A All of these
+B Rio Bravo
+C Rio Rojo
+D Rio del Fuego
+
+#Q This island, sometimes called island of inspiration, is part of a very large country, and has a unique fauna.
+^ Tasmania
+A Hawaii
+B Tasmania
+C Madagascar
+D Greenland
+
+#Q What is the meaning of the name of the Mississippi River, which originated from the Ojibwe word misi-ziibi? 
+^ Great river
+A Holy water
+B Fast river
+C River of life
+D Great river
+
+#Q What city in Eastern Europe, often associated with the story of Dracula, is also famous for Revolution Square, which was the site of a 1989 revolt?
+^ Bucharest
+A Bucharest
+B Warsaw
+C Budapest
+D Prague
+
+#Q Which country is the only member of the European Union that is partly located in Africa?
+^ Spain
+A France
+B UK
+C Spain
+D Malta
+
+#Q Who is the first President of the Russian Federation?
+^ Boris Yeltsin
+A Mikhail Kasyanov
+B Viktor Khristenko
+C Boris Yeltsin
+D Vladimir Putin
+
+#Q What is the capital of Italy?
+^ Rome
+A Venice
+B Rome
+C Naples
+D Milan
+
+#Q I am a primate endemic to Madagascar. I have large, reflective eyes. I have a long tail. I have long toes, and opposable thumbs, useful for grasping tree branches. What am I?
+^ A lemur
+A An iguana
+B An ape
+C A monkey
+D A lemur
+
+#Q The Colorado River, the major river of the American southwest, flows through which national landmark?       
+^ All of these
+A The Hoover Dam
+B The Grand Canyon
+C Arches National Park
+D All of these
+
+#Q Which independent country was not a Soviet republic?
+^ Albania
+A Georgia
+B Armenia
+C Lithuania
+D Albania
+
+#Q In which section of Israel is Eilat located?
+^ South
+A East
+B West
+C South
+D North
+
+#Q What sea borders Egypt to the east?
+^ Red Sea
+A Black Sea
+B Yellow Sea
+C Mediterranean Sea
+D Red Sea
+
+#Q Which of these describes best the location of the volcanic island of Krakatau (sometimes erroneously called Krakatoa), which had a well-known and devastating eruption on August 23, 1883?
+^ Between Java and Sumatra
+A West of New Guinea
+B East of Java
+C Between Java and Sumatra
+D Off the coast of Borneo
+
+#Q Which of the following is NOT located in the country of Madagascar?
+^ Bodrum
+A Nosy-Be
+B Antananarivo
+C Antsirabe
+D Bodrum
+
+#Q Which country is the youngest independent state to be a member of the European Union? (It has been an independent country only since 1993.)
+^ Slovakia
+A Montenegro
+B Slovenia
+C Slovakia
+D Cyprus
+
+#Q Which of the following is a traditional Vietnamese clothing, worn primarily by women?
+^ Áo dài
+A Qipao
+B Áo dài
+C Nhu
+D Raglan
+
+#Q The valleys of the Yellow River and the Pearl River are two of the seven main national valleys in this country.
+^ China
+A Burma
+B China
+C Thailand
+D India
+
+#Q Which artificial island is situated in San Francisco Bay, between San Francisco and Oakland?
+^ Treasure Island
+A Hulhumalé
+B Treasure Island
+C Port Island
+D Flakfortet
+
+#Q Complete the following Irish saying: If you want ______, always carry the back tooth of a horse with you.   
+^ money
+A to go swimming
+B beauty
+C money
+D to be the life of the party
+
+#Q In what U.S. state is the famous Bridalveil Fall located?
+^ California
+A California
+B Florida
+C Colorado
+D Hawaii
+
+#Q What major geographical feature is located at 23.5 degrees North latitude?
+^ The Tropic of Cancer
+A The Equator
+B The Arctic Circle
+C The Tropic of Capricorn
+D The Tropic of Cancer
+
+#Q The national motto of the Republic of the Fiji Islands is Rerevaka na Kalou ka Doka na Tui. What does this mean?
+^ Fear God and honor the Queen
+A Fear God and honor the Queen
+B God bless our beautiful motherland
+C We kneel before you, blessed land
+D Hard work comes before prosperity
+
+#Q The name of this volcano, located on the Alaska Peninsula, means new eruption.
+^ Novarupta
+A Newatsa
+B Mount Rainier
+C Novarupta
+D Mount Hood
+
+#Q The national motto of what island country is Ever Conscious of God We Aspire, Build and Advance as One People?
+^ Grenada
+A Grenada
+B New Zealand
+C Papua New Guinea
+D Micronesia
+
+#Q What song is used as a de facto anthem of Sweden?
+^ Thou Ancient, Thou Free
+A Beautiful Sweden
+B The Song of the King
+C We Bow Before Thee
+D Thou Ancient, Thou Free
+
+#Q What does the name of the U.S. state of Utah mean in the Ute language?
+^ People of the mountains
+A Spirits of the rivers
+B Children of the winds
+C People of the mountains
+D Land around the great lake
+
+#Q What is the largest island on the planet in terms of territory?
+^ Greenland
+A Madagascar
+B Sumatra
+C Greenland
+D New Guinea
+
+#Q What large mountain range is located entirely within the territory of Italy?
+^ Apennines
+A Alps
+B Andes
+C Apennines
+D Carpathians
+
+#Q Near what sea was the ancient city of Troy located ?
+^ Aegean
+A Aegean
+B Mediterranean
+C Ionian
+D Adriatic
+
+#Q New Guinea is the most linguistically diverse area in the world. Approximately how many separate languages are spoken there?
+^ 1000
+A 80
+B 20
+C 650
+D 1000
+
+#Q What is the name of the capital city of India?
+^ New Delhi
+A Jaipur
+B Mumbai
+C Calcutta
+D New Delhi
+
+#Q This active volcano, whose name means long mountain in Hawaiian, is one of the five peaks that form the Island of Hawaii.
+^ Mauna Loa
+A Cotopaxi
+B Mauna Loa
+C Mount Kea
+D Hekla
+
+#Q After World War II, this country was split into two states which were not reunited until 1990.
+^ Germany
+A France
+B Spain
+C Austria
+D Germany
+
+#Q What does the Mohawk name of the Saint Lawrence River, Kaniatarowanenneh, mean?
+^ Big waterway
+A Female river
+B Murmur of the gods
+C Burning water
+D Big waterway
+
+#Q What is the title of the national anthem of Madagascar, written by Norbert Raharisoa and composed by Rahajason?
+^ Oh, Our Beloved Fatherland
+A Dear Motherland
+B Blessed Island
+C Oh, Our Beloved Fatherland
+D Rise, Oh, Rise
+
+#Q Which of the following metropolitan areas is the largest in terms of population?
+^ New York City
+A London
+B New York City
+C Paris
+D Los Angeles
+
+#Q Kaskaspakte, Akka and Sielmmacohkka are three mountains in this country.
+^ Sweden
+A Norway
+B Finland
+C Denmark
+D Sweden
+
+#Q What other name is commonly used to refer to the Colorado River in North America?
+^ Red River
+A Black River
+B Yellow River
+C Blue River
+D Red River
+
+#Q What country gained independence from the British Mandate for Palestine in 1948?
+^ Israel
+A Syria
+B Sierra Leone
+C Jordan
+D Israel
+
+#Q What Canadian lake is the largest in the world, located on an island?
+^ Nettilling Lake
+A Nettilling Lake
+B Aral
+C Winnipeg
+D Michigan
+
+#Q The volcanoes - Akan, Aso, Mount Fuji and Rausu are located in this country.
+^ Japan
+A Japan
+B Malaysia
+C North Korea
+D Indonesia
+
+#Q The Navagio Bay (also known as the Shipwreck) is the most popular beach of which Greek island?
+^ Zakynthos
+A Mykonos
+B Zakynthos
+C Lefkada
+D Thasos
+
+#Q Riga is the capital of which Baltic country?
+^ Latvia
+A Estonia
+B Lithuania
+C Belarus
+D Latvia
+
+#Q The Arabic name of Mount Etna, the second-largest active volcano in Europe, was Jebel Utlamat. What does this mean in English?
+^ Mountain of Fire
+A The Edge of the World
+B Mountain of Fire
+C Home of the Devil
+D Breathing Mountain
+
+#Q What is the main ingredient of the traditional Swiss dish Rosti?
+^ Potatoes
+A Cheese
+B Cabbage
+C Fish
+D Potatoes
+
+#Q Which of the following flags doesnt include a cross?
+^ the flag of Alaska
+A the flag of Mississippi
+B the flag of the UK
+C the flag of Denmark
+D the flag of Alaska
+
+#Q Which Nordic country was first to enter the European Union?
+^ Denmark
+A Denmark
+B Sweden
+C Finland
+D Norway
+
+#Q What does the name of the U.S. state of Texas literally mean in Caddo?
+^ Friends
+A Vast
+B Buffalo
+C Wilderness
+D Friends
+
+#Q What are the colors of the national flag of Sweden?
+^ Blue and yellow
+A Blue and yellow
+B White and blue
+C White and red
+D Red and yellow
+
+#Q This country has more than 60% of worlds lakes due to its special drainage system.
+^ Canada
+A Australia
+B Russia
+C Canada
+D The USA
+
+#Q Which country is not a member of the Adriatic Euroregion?
+^ Serbia
+A Montenegro
+B Albania
+C Serbia
+D Italy
+
+#Q Which body of water, situated in Southern Siberia, is the deepest and oldest freshwater lake on Earth?      
+^ Baikal
+A Onega
+B Ladoga
+C Huron
+D Baikal
+
+#Q What island is shared by the nations of Indonesia and Papua New Guinea?
+^ New Guinea
+A Bougainville
+B New Guinea
+C Timor
+D Borneo
+
+#Q The TriRhena Euroregion is spans these three countries crossed by the Rhine River.
+^ France, Germany and Switzerland
+A France, Germany and Switzerland
+B Belgium, Germany and Luxembourg
+C Austria, Germany and Switzerland
+D France, Germany and Holland
+
+#Q Which of the following organizations is Luxembourg a member of?
+^ All of these
+A OECD
+B United Nations
+C European Union
+D All of these
+
+#Q The capital city of this US state is Trenton, and its largest city is Newark.
+^ New Jersey
+A Montana
+B New Hampshire
+C New Mexico
+D New Jersey
+
+#Q In what European country are the Rhine Falls located?
+^ Switzerland
+A Germany
+B Switzerland
+C Austria
+D Belgium
+
+#Q Maryland derives its name from its Catholic founders, who named the state after which historic person?      
+^ Queen Henrietta Maria of France
+A Mary, Queen of Scots
+B Mary Magdalene
+C The Virgin Mary
+D Queen Henrietta Maria of France
+
+#Q Which of these European countries shares a land border with Sweden?
+^ Norway
+A Switzerland
+B Denmark
+C Lithuania
+D Norway
+
+#Q What is the name of the active volcano situated in Skamania County, Washington, USA, 50 miles (80 km) northeast of Portland, Oregon?
+^ Mount St. Helens
+A Mount St. Augustus
+B Mount St. Paul
+C Mount St. Georges
+D Mount St. Helens
+
+#Q More than half of the Yukon River is located within this American state.
+^ Alaska
+A North Dakota
+B Kansas
+C Alaska
+D Texas
+
+#Q Which country, Slovakia or Slovenia, used to be part of Yugoslavia?
+^ Slovenia
+A Slovenia
+B Both
+C Slovakia
+D None of them
+
+#Q What island, located in the North Pacific Ocean, is also known as the Big Island?
+^ Hawaii
+A Cuba
+B Haiti
+C Hawaii
+D Maui
+
+#Q What U.S. interstate runs east and west through Colorado?
+^ I-70
+A I-40
+B I-80
+C I-90
+D I-70
+
+#Q What is the name of the tallest waterfall in Asia?
+^ Hannoki Falls
+A Midagahara Falls
+B Hannoki Falls
+C Shomyo Falls
+D Toyama Falls
+
+#Q Where is the southernmost point in all 50 states?
+^ Hawaii
+A Texas
+B Hawaii
+C Florida
+D California
+
+#Q What mountain covers about 65% of the territory of Switzerland?
+^ the Alps
+A the Apennines
+B the Andes
+C Ararat
+D the Alps
+
+#Q Italy is a major world exporter of which of the following?
+^ All of these
+A All of these
+B Sport and luxury vehicles
+C Motor vehicles
+D Fashion items
+
+#Q Which country, Slovakia or Slovenia, borders a country that did not join the European Union in the period 1951-2007?
+^ Both share borders with countries that did not became EU members during this period.
+A Only Slovakia borders a country that did not join the EU during this period.
+B Both share borders only with countries that became EU members during this period.
+C Both share borders with countries that did not became EU members during this period.
+D Only Slovenia borders a country that did not join the EU during this period.
+
+#Q Because of its spectacular nature forms, one of this insular countrys islands has been a set for the filming of many movie productions, including the highly successful, Lord of the Rings and The Chronicles of Narnia.   
+^ New Zealand
+A The Philippines
+B New Zealand
+C Indonesia
+D New Guinea
+
+#Q Complete this Irish saying: The whole world cannot make a ________ out of a donkey.
+^ race horse
+A poet
+B race horse
+C nobleman
+D artist
+
+#Q This world famous building opened in The Bronx in 1923.
+^ Yankee Stadium
+A The Top of the Sixes
+B Yankee Stadium
+C The Louis Morris Building
+D The Shlump Towers
+
+#Q In 1838 the Federal Indian Removal Policy was forced into effect by The Treaty of New Echota. Twenty Cherokee Indians, none elected officials of the Cherokee Nation, signed over all Cherokee Territory east of the Mississippi for five million dollars. The Cherokee Indians were then forced to march from their home in the mountain of North Carolina to Okalahoma. This journey became know by what name?
+^ Trail of Tears
+A Journey of No Return
+B Trail of Tears
+C Cherokee Death March
+D March of Sorrow
+
+#Q What is the name of the capital and largest city of Norway?
+^ Oslo
+A Reykjavik
+B Bergen
+C Oslo
+D Helsinki
+
+#Q The names of three large rivers flowing into the Black Sea begin with a letter D. Danube, the largest of the three, flows through ten European countries and enters the Black Sea in Romania. The other two end their flow in this country.
+^ Ukraine
+A Bulgaria
+B Turkey
+C Ukraine
+D Russia
+
+#Q What nationality was Junko Tabei - the first woman to reach the peak of Mount Everest?
+^ Japanese
+A Japanese
+B Chinese
+C Indian
+D Nepalese
+
+#Q In what country is Jurong Falls, the tallest artificial waterfall in the world, located?
+^ Singapore
+A Indonesia
+B Singapore
+C Vietnam
+D North Korea
+
+#Q This is the twelfth-longest river in the world. It runs through China, Myanmar, Thailand, Laos, Cambodia and Vietnam. There are various theories about the source and the exact length of the river because there are several effluents of it that are too difficult to explore. Due to the many rapids and waterfalls, as well as the extreme changes in the flow of the river, sailing is extremely difficult. What is the name of this river?
+^ Mekong
+A Mekong
+B Saskatchewan
+C Angara
+D Brahmaputra
+
+#Q Which tiny lake located in Tibet is the highest lake on Earth?
+^ Lhagba Pool
+A Lhagba Pool
+B Rush Lake
+C Laguna Lobato
+D Poquentica Lake
+
+#Q Francis Marion fought the British in the swamps of South Carolina during the Revolutionary War, using guerrilla tactics, that the communist Vietcong in Vietnam would have understood well. For this Marion was given the following nickname.
+^ The Swamp Fox
+A The Swamp Fox
+B The Yankee Ghost
+C The Carolina Gamecock
+D The Fighting Gator
+
+#Q On which continent is the famous active volcano Mount Nyiragongo located?
+^ Africa
+A Asia
+B Australia
+C South America
+D Africa
+
+#Q This island is located in the Indian Ocean and is also known as Ceylon.
+^ Sri Lanka
+A Borneo
+B Taiwan
+C Sumatra
+D Sri Lanka
+
+#Q Which U.S. state is nicknamed The Natural State?
+^ Arkansas
+A Alabama
+B Alaska
+C Arizona
+D Arkansas
+
+#Q Being the most populous in the world, with bigger population than Australia and Antarctica, the density of this islands inhabitants forced the countrys government to start transmigration programs, aimed at resettling people to other, less-crowded parts of the country.
+^ Java
+A Java
+B Sumatra
+C Borneo
+D Sulawesi
+
+#Q What does the name of the Iguazu Falls, located in South America, mean in English?
+^ Big water
+A Way to heaven
+B River storm
+C Devils waterfall
+D Big water
+
+#Q Which of these events is regularly performed only in North Korea?
+^ Mass games
+A Mass games
+B Senior citizens beauty pageant
+C Politicians athletics
+D Binoculars football games
+
+#Q Which US state has been nicknamed The First State, The Small Wonder, Blue Hen State, and The Diamond State? 
+^ Delaware
+A Pennsylvania
+B Virginia
+C Delaware
+D New York
+
+#Q The ore and coal rich region of Silesia (pol.: Ślask, ger.: Schliesien, cz.: Slezsko) was ruled by Germans, Poles, Czechs and Austrians. To which country does it mostly belong today?
+^ Poland
+A Slovakia
+B Germany
+C Poland
+D Czech Republic
+
+#Q Which one of these ski resorts is not located in the Alps?
+^ Mont-Tremblant
+A Kitzbuhel
+B Zermatt
+C Mont-Tremblant
+D Chamonix-Mont-Blanc
+
+#Q The Egyptian territory is calculated to be roughly twice as large as the territory of this European country.
+^ Spain
+A Poland
+B Spain
+C France
+D United Kingdom
+
+#Q The national motto of what country is Peace at Home, Peace in the World?
+^ Turkey
+A Afghanistan
+B Somalia
+C Nigeria
+D Turkey
+
+#Q What is the title of the national anthem of Switzerland?
+^ Swiss Psalm
+A Swiss Vow
+B Swiss Song
+C Swiss Anthem
+D Swiss Psalm
+
+#Q What is the name of the most active volcano in Mexico, located mostly in the Mexican state of Jalisco?      
+^ Colima
+A Nevado de Toluca
+B Barcena
+C Colima
+D Las Cumbres
+
+#Q Which medieval monument is an essential part of the archaeological sites of the Greek island Rhodes?        
+^ The Palace of the Grand Master
+A The Palace of the Grand Master
+B The White Tower
+C The Venice Castle of Naoussa
+D The Odeon
+
+#Q What is the capital of Greece?
+^ Athens
+A Ankara
+B Athens
+C Sofia
+D Thessaloniki
+
+#Q What animal is depicted on the Coat of Arms of Norway?
+^ Lion
+A Lion
+B Bear
+C Deer
+D Wolf
+
+#Q From the 1600s to the 1800s, the British and Dutch were interested in Borneo because they wanted control of this resource.
+^ Pepper
+A Pepper
+B Salt
+C Coffee
+D Tea
+
+#Q What is the name of the second-tallest waterfall on the planet?
+^ Tugela Falls
+A Temola Falls
+B Tugela Falls
+C Tierra Falls
+D Tamilla Falls
+
+#Q The word volcano comes from the name of the Roman god of fire, Vulcan. Who is the analogue of Vulcan in Greek mythology?
+^ Hephaestus
+A Hephaestus
+B Helios
+C Hermes
+D Zeus
+
+#Q What is the official language that is spoken in North Korea?
+^ Korean
+A All of these
+B Russian
+C Korean
+D Japanese
+
+#Q The Ganges river is considered to be a holy in India. There is a Hindu legend that the river was created from the sweat of the feet of Vishnu, collected by Brahma. According to Hindu beliefs, if you bathe in the waters of Ganges, it will wash away your sins. However this is not very hygienic, as the river is badly polluted by cremated corpses, carcasses, waste from factories and more.  Where does this river empty?
+^ The Bay of Bengal
+A The Bay of Bengal
+B Lop Nur
+C The Quarry Bay
+D Kara Sea
+
+#Q What is the state sport of Maryland?
+^ Jousting
+A Steeplechase
+B Jousting
+C Lacrosse
+D Horse racing
+
+#Q Which EU member is divided into a Greek and a Turkish part?
+^ Cyprus
+A Greece
+B Slovenia
+C Cyprus
+D Bulgaria
+
+#Q Chauvet Cave and Meyrieres Cave are two caves located in this European state.
+^ France
+A France
+B Netherlands
+C Spain
+D Belgium

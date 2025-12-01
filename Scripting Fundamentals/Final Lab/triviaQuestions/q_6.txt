@@ -1,69 +1,1749 @@
-What does “HTTP” stand for?
-HyperText Transfer Protocol
-HyperText Transmission Protocol
-HighText Transfer Protocol
-Hyperlink Transfer Text Protocol
-a
+#Q Everyone in the town of Rock Ridge, featured in Blazing Saddles, had the same surname. What was it ?
+^ Johnson
+A Johnson
+B Smith
+C Peters
+D Taylor
 
-Who co-founded Microsoft?
-Steve Jobs
-Bill Gates
-Mark Zuckerberg
-Elon Musk
-b
+#Q Which of the following actors has not appeared in an adaptation of Akira Kurosawas film Yojimbo?
+^ Kurt Russell
+A Clint Eastwood
+B Bruce Willis
+C Christopher Walken
+D Kurt Russell
 
-What is the main language used for Android app development?
-Swift
-Kotlin
-Ruby
-PHP
-b
+#Q What does to blave mean according to the movie The Princess Bride?
+^ To bluff
+A To raise
+B To bluff
+C To cheat
+D To fold
 
-What does CPU stand for?
-Central Performance Unit
-Central Processing Unit
-Computer Processing Unit
-Central Program Unit
-b
+#Q What Academy Award-winning actress voiced Grendels Mother in the 2007 performance capture movie Beowulf?    
+^ Angelina Jolie
+A Penelope Cruz
+B Julia Roberts
+C Angelina Jolie
+D Halle Berry
 
-What year was the first iPhone released?
-2005
-2007
-2008
-2010
-b
+#Q Which actor plays the main character Tony Camonte in the original Scarface movie, directed by Howard Hawks in 1932.
+^ Paul Muni
+A Purnell Pratt
+B Vince Barnett
+C Edwin Maxwell
+D Paul Muni
 
-Which company created the search engine Google?
-Yahoo
-Microsoft
-Google
-Apple
-c
+#Q Smokey and the Bandit, the characters from the self-titled movie, had to take beer from Texarkana, Texas and to deliver it to which city?
+^ Atlanta, GA
+A Atlanta, GA
+B None of these
+C Mobile, AL
+D Conyers, GA
 
-What is the name of Apple’s operating system for Macs?
-Windows
-macOS
-Linux
-Unix
-b
+#Q What popular Texas city was The Texas Chainsaw Massacre filmed in?
+^ Austin
+A San Antonio
+B Houston
+C Austin
+D Dallas
 
-What is the most popular programming language for data science?
-Python
-Java
-C++
-Ruby
-a
+#Q What is the name of Bruce Willis character in the 1988 movie Die Hard?
+^ John McClane
+A Harry Ellis
+B Richard Thornburg
+C John McClane
+D Al Powell
 
-Which company makes the PlayStation console?
-Microsoft
-Sony
-Nintendo
-Sega
-b
+#Q He wrote the screenplay for Batman Begins (2005), but hes probably more famous for writing the Blade movies (Blade, Blade II, and Blade: Trinity).
+^ David S. Goyer
+A David S. Goyer
+B Shinobu Hashimoto
+C David Benioff
+D Joss Whedon
 
-What does “Wi-Fi” stand for?
-Wireless Fidelity
-Wide Fidelity
-Wired Fidelity
-Wireless File
-a
+#Q What actor received the Razzie Award for Worst Actor for 1982?
+^ Laurence Olivier for Inchon
+A Christopher Atkins The Pirate Movie
+B Arnold Schwarzenegger for Conan the Barbarian
+C Laurence Olivier for Inchon
+D Luciano Pavarotti Yes, Giorgio
+
+#Q What characteristic sound does Darth Vader from the Star Wars movie series produce?
+^ Heavy breathing
+A Buzzing
+B Screeching
+C Heavy breathing
+D Hissing
+
+#Q What year did the hilarious movie Wedding Crashers first hit the movie theatres in the United States?       
+^ 2005
+A 2006
+B 2004
+C 1999
+D 2005
+
+#Q In the hit comedy movie Airplane!, air traffic controller Steve McCroskey (played by Lloyd Bridges) was under severe stress trying to bring the airplane in safely. Each time he was placed under stress, he would medicate himself and exclaim, that he had picked the wrong week to quit his various addictions. To which of the following was McCroskey not addicted?
+^ shooting heroin
+A sniffing glue
+B alcohol
+C amphetamines
+D shooting heroin
+
+#Q Louis Armstrong sings this great, old, romantic song on the Sleepless in Seattle soundtrack.
+^ A Kiss to Build a Dream On
+A Saint Louis Blues
+B When Its Sleepy Time, Down South
+C My Heart Is Yours Forever
+D A Kiss to Build a Dream On
+
+#Q Which member of the Balboa household was celebrating a birthday at the beginning of the movie Rocky IV?     
+^ Paulie
+A Adrian Balboa
+B Rocky Senior
+C Paulie
+D Rocky Junior
+
+#Q What 1992 comedy film is the following quote from: A gun rack... a gun rack. I dont even own *a* gun, let alone many guns that would necessitate an entire rack. What am I gonna do... with a gun rack??
+^ Waynes World
+A Night at the Rocksbury
+B Waynes World
+C Tommy Boy
+D Superstar
+
+#Q In which of these movies did Scarlett Johansson have a minor role in 1997?
+^ Home Alone 3
+A Home Alone 4
+B Home Alone 3
+C Home Alone 2
+D Home Alone 1
+
+#Q What does Mick Dundee say when he sees the thief holding a knife in the 1986 movie Crocodile Dundee?        
+^ Thats not a knife.
+A Thats not a knife.
+B Holly cow, were going to die!
+C What the hell is this?
+D Good Lord, Im so scared!
+
+#Q Which of these artists appears in the  Carmen: A Hip Hopera?
+^ Bow Wow
+A Bow Wow
+B Chris Brown
+C Soulja Boy
+D Sean Kingston
+
+#Q What crime is Randall Bragg, played by Jeremy Irons in Appaloosa, accused of?
+^ Murder
+A Armed Bank Robbery
+B Murder
+C Stealing horses
+D Rape
+
+#Q This is silent movie is also the oldest on the American Film Institute (AFI) list of the Top 100 American films, and its ranked # 44.
+^ The Birth of a Nation
+A Wings
+B The Jazz Singer
+C The Birth of a Nation
+D It Happened One Night
+
+#Q As we learn during a meeting of S.P.E.C.T.R.E. agents, this is the villains codename in James Bonds, Thunderball.
+^ Number 2
+A Number 5
+B Number 1
+C Number 2
+D Number 6
+
+#Q The 1979 movie Breaking Away, listed as the 8th best sports movie in history by the American Film Institute in 2008, focuses on this sport.
+^ Bicycling
+A Tennis
+B Baseball
+C Bicycling
+D Rugby
+
+#Q James Camerons Titanic was nominated for how many Academy Awards?
+^ 14
+A 14
+B 10
+C 12
+D 16
+
+#Q Why was Officer Albrecht from The Crow demoted from Detective to Beat Cop?
+^ He stuck his nose in too deep to the case when Eric and Shelly were murdered.
+A He was caught ogling children at a school crosswalk.
+B He was a loose cannon, and just broke the rules too many times.
+C He stuck his nose in too deep to the case when Eric and Shelly were murdered.
+D He beat up another detective after catching him in bed with his wife.
+
+#Q What was the name of Craigs love interest in the movie Next Friday?
+^ Karla
+A Karla
+B Pinky
+C Lisa
+D Dwana
+
+#Q Blazing Saddles was a comedy western about  the first Black sheriff in the west. Do you know who played the role of Sheriff Bart?
+^ Cleavon Little
+A Mel Brooks
+B Cleavon Little
+C Pat McCormick
+D Samuel Jackson
+
+#Q Which movie of the Lethal Weapon franchise became the 6th highest-grossing film of 1989?
+^ Lethal Weapon 2
+A Lethal Weapon 4
+B Lethal Weapon 3
+C Lethal Weapon 2
+D Lethal Weapon
+
+#Q In what 1993 sci-fi movie does Jeff Goldblum portray mathematician and chaos theorist, Dr. Ian Malcolm?     
+^ Jurassic Park
+A Jurassic Park
+B The Fly
+C Independence Day
+D Holy Man
+
+#Q What is Ralphies fathers first name in the film A Christmas Story?
+^ None of these
+A Ralph Senior
+B Walter
+C Franklin
+D None of these
+
+#Q After they saved their lives The Goonies are seen walking on what beach?
+^ Goat Rock State Beach, CA.
+A Goat Rock State Beach, CA.
+B Rock State Beach, CA.
+C Ecola State Park, OR.
+D Cannon Beach, OR.
+
+#Q To what character from the 2004 movie Troy does this line belong: This war will never be forgotten. Nor will the heroes who fight in it?
+^ Odysseus
+A Achilles
+B Helen
+C Odysseus
+D Agamemnon
+
+#Q What sport is the subject of the 1986 movie Hoosiers, ranked the 4th best sports movie by the American Film Institute?
+^ Basketball
+A Basketball
+B Baseball
+C Rugby
+D Football
+
+#Q What is Rocky Balboas daytime occupation in the 1976 movie Rocky?
+^ Debt collector
+A Taxi driver
+B Salesman
+C Debt collector
+D Electrician
+
+#Q What was the name of the Amish Bowler in Kingpin that Roy recruited to play in the Reno Open?
+^ Ishmael Boorg
+A Ishmael Boorg
+B Hiram Miller
+C Max Yoder
+D Jonas Salk
+
+#Q What is the name of Sam Witwickys best friend in the movie Transformers?
+^ Myles
+A Mike
+B Mark
+C Mulder
+D Myles
+
+#Q What is Andrews last name in the movie The Breakfast Club?
+^ Clark
+A Clay
+B Clark
+C Dickinson
+D Sutherlin
+
+#Q In the live action film Casper what was the last name of the family that befriended Casper?
+^ Harvey
+A Smith
+B Harvey
+C Reinhold
+D McEvoy
+
+#Q Which Academy Award did the 2007 movie Pirates of the Caribbean: At Worlds End win?
+^ None of these
+A None of these
+B Academy Award for Best Visual Effects
+C Academy Award for Best Makeup
+D Academy Award for Best Director
+
+#Q What popular singer appeared in the 2003 action movie Once Upon a Time in Mexico?
+^ Enrique Iglesias
+A Enrique Iglesias
+B Shakira
+C Christina Aguilera
+D Ricky Martin
+
+#Q This movie released in 2004 has the following tag:  Whats the worst thing you ever did?  It stars Kevin Bacon and Kyra Sedgwick.
+^ The Woodsman
+A Tremors
+B Where The Truth Lies
+C Footloose
+D The Woodsman
+
+#Q What was the tagline from the theatrical release poster of the 1994 movie Speed?
+^ Get ready for rush hour.
+A Sometimes speed saves lives.
+B As fast as you can.
+C Things are gonna get racy.
+D Get ready for rush hour.
+
+#Q Ray Walston, who plays Mr. Hand in Fast Times at Ridgemont High, was a regular cast member on which TV show?
+^ My Favorite Martian
+A My Three Sons
+B The Rockford Files
+C Lost In Space
+D My Favorite Martian
+
+#Q Which is NOT a course served at the banquet in which Indiana Jones and company take part in Indiana Jones and the Temple of Doom?
+^ Elephant tail shish-cabob
+A Eye Ball Soup
+B Chilled Monkey Brains
+C Snake Suprise
+D Elephant tail shish-cabob
+
+#Q In Back to the Future, what did Goldie Wilson do in 1955, before becoming mayor?
+^ Worked in the diner
+A Played in Marvin Berrys rock and roll group
+B He was a drifter
+C Pumped gas at the filling station
+D Worked in the diner
+
+#Q What 2003 horror movie contains the following quote: Howdy Folks! You like blood? Violence? Freaks of nature? Well then, come on down to Captain Spauldings Museum of Monsters and Mad-Men.?
+^ House of 1000 Corpses
+A Planet Terror
+B The Devils Rejects
+C House of 1000 Corpses
+D Halloween
+
+#Q Which of these female singers appeared in the 2006 film Eragon?
+^ Joss Stone
+A Joss Stone
+B Fergie
+C Macy Gray
+D Shakira
+
+#Q What is the year of the coin Chigurh tosses with the proprietor of the gas station in No Country for Old Men?
+^ 1958
+A 1968
+B 1958
+C 1956
+D 1966
+
+#Q In what year was the movie The Wild Bunch released?
+^ 1969
+A 1967
+B 1971
+C 1969
+D 1968
+
+#Q What is the relationship between the talking beaver and the faun in the 2007 parody film Epic Movie?        
+^ They really, really like each other.
+A None of these
+B They are friends.
+C They really, really like each other.
+D They hate each other.
+
+#Q Marco Antonio Muniz is the real name of this actor.
+^ Marc Antony
+A Miguel A. Nunez
+B Emelio Estevez
+C Antonio Banderas
+D Marc Antony
+
+#Q What revelation is made about Pamela, played by Teri Polo, in the 2004 move Meet the Fockers?
+^ All of these
+A She has a disease.
+B She doesnt love Greg.
+C All of these
+D She is pregnant.
+
+#Q In the Empire Strikes Back, Darth Vader captures Han Solo and Chewbacca on what planet?
+^ Bespin
+A Alderaan
+B Hoth
+C Bespin
+D Tatooine
+
+#Q What year did the events in the fictional film The Blair Witch Project take place?
+^ 1994
+A 1994
+B 1990
+C 1984
+D 1987
+
+#Q When she modeled as a teenager, Angelina Jolie appeared in a music video of this artist.
+^ Lenny Kravitz
+A Sting
+B Bryan Adams
+C Lenny Kravitz
+D Chris Isaak
+
+#Q Why did Willy Wonka fire all of his workers, including Charlies grandpa, in the 2005 movie Charlie and the Chocolate Factory?
+^ He was afraid of spies.
+A He accused them of being lazy.
+B He hated to see people around him.
+C He was afraid of spies.
+D All of these
+
+#Q Which one of these movies starred George Clooney, Brad Pitt and Frances McDormand?
+^ Burn After Reading
+A Oceans Eleven
+B Burn After Reading
+C Thelma and Louise
+D Oceans Twelve
+
+#Q Where are Butch Cassidy and the Sundance Kid when the mayor is trying organize a group to get out and kill them?
+^ On a balcony watching
+A Behind him
+B On a balcony watching
+C We dont know.
+D Australia
+
+#Q In this 2003 horror movie Kyle Walsh must confront his troubled past and save his childhood sweetheart and her younger brother from an unrelenting evil.
+^ Darkness Falls
+A The Island of Dr. Moreau
+B The House on the Edge of the Park
+C Darkness Falls
+D The Funhouse
+
+#Q What were Anthony, Skip and Jose delivering at the beginning of the movie Dead Presidents?
+^ milk
+A milk
+B newspapers
+C mail
+D packages
+
+#Q After the interview, Dr. Marvin from the movie What About Bob? tries to get rid of Bob by calling a fellow psychiatrist and convincing her to have Bob committed. When she calls Dr. Marvin back to the institution to pick up Bob, after just a few minutes of being there, what is Bob doing with the doctors?
+^ telling jokes
+A wrestling
+B telling jokes
+C watching TV and laughing
+D discussing certain medicines and their effects
+
+#Q This 1981 film was Jack Albertsons final film and included a scene with a dissolving head.
+^ Dead  Buried
+A The Aftermath
+B Dead Alive
+C Dead  Buried
+D Waxwork
+
+#Q Corruption scandals and false allegations affect a New York City policeman and his family in Pride and Glory. It stars Edward Norton, Colin Farrell and this great actor from Seinfeld.â€
+^ Jon Voight
+A Reni Santoni
+B Jon Voight
+C Gene Hackman
+D Wayne Knight
+
+#Q Which of the following films was not directed by Mel Brooks?
+^ The Jerk
+A Robin Hood: Men in Tights
+B High Anxiety
+C Silent Movie
+D The Jerk
+
+#Q In Saw III, the classroom trap, the first trap we see, involves which character?
+^ Troy
+A Troy
+B Jeff
+C Amanda
+D Kerry
+
+#Q Fill in the missing word in this line from the movie Rocky IV: Its ....................! Youve seen him, you know how strong he is. You cant win!
+^ Suicide
+A Suicide
+B Dumb
+C Craziness
+D Stupidity
+
+#Q What character from the movie Wedding Crashers said, Death, you are my bitch lover?
+^ Todd Cleary
+A Todd Cleary
+B Jon Ryan
+C William Cleary
+D Zach Lodge
+
+#Q What actor took the award for Best Actor in a Leading Role at the 72nd Academy Awards 2000?
+^ Kevin Spacey
+A Denzel Washington
+B Russell Crowe
+C Kevin Spacey
+D Sean Penn
+
+#Q What 1983 movie, starring Robert Duvall, was about a recovering alcoholic country singer who reaches out to a widow and her son and manages to turn his life around?
+^ Tender Mercies
+A Terms of Endearment
+B Ghostbusters
+C Tender Mercies
+D Ordinary People
+
+#Q What character did actor and comedian Rowan Atkinson voice in the 1994 animated movie The Lion King?        
+^ Zazu
+A Zazu
+B Pumbaa
+C Timon
+D Mufasa
+
+#Q What is the name of the 1941 movie starring Humphrey Bogart and Mary Astor in which a private eye is searching for a murderer and a jewelled bird?
+^ The Maltese Falcon
+A Shanghai Express
+B Duck Soup
+C Sabotage
+D The Maltese Falcon
+
+#Q What is the destiny (not goal) of Damien Thorn in the 1976 movie The Omen?
+^ To become the Antichrist
+A To find the fountain of youth
+B To invent a medicine that prolongs human life
+C To become President of the united States
+D To become the Antichrist
+
+#Q In Its a Mad, Mad, Mad, Mad World, what were the professions of the five people who witnessed Smiler Grogans death?
+^ edible seaweed company owner, dentist, two comedy writers, and truck driver
+A teacher, nurse, dentist, foreman, and professional sports player
+B edible seaweed company owner, dentist, two comedy writers, and truck driver
+C doctor, lawyer, Indian chief, vagabond, and secretary
+D business manager, stunt man, scientist, movie producer, and psychiatrist
+
+#Q Name the mall where Marty and Doc meet at the beginning of the movie Back to the Future?
+^ Twin Pines Mall
+A Lone Pine Mall
+B Twin Pines Mall
+C Pine Mall
+D Hill Valley Pine Mall
+
+#Q In the movie Scarface, this actress played Tonys love interest who later becomes his wife.
+^ Michelle Pfeiffer
+A Michelle Cruz
+B Madonna
+C Eva Longoria
+D Michelle Pfeiffer
+
+#Q What actor won the Academy Award for Best Supporting Actor for his performance in the 1997 movie Good Will Hunting?
+^ Robin Williams
+A Casey Affleck
+B Ben Affleck
+C Matt Damon
+D Robin Williams
+
+#Q Name Obi Wan Kenobis mentor who died in the first Star Wars movie duelling Darth Maul.
+^ Qui Gon Jin
+A Anakan Skywalker
+B Luke Skywalker
+C Yoda
+D Qui Gon Jin
+
+#Q What is the first name of Dan Akroyds character in the 1988 movie The Great Outdoors?
+^ Roman
+A Gene
+B Roger
+C Roman
+D Richard
+
+#Q What 1996 horror movie is this quote from: So sad... how it can only be ruined... the rest of your life can only spoil what weve made... the idea that every second theyre just... rotting away. Can you live with that? I dont think you can.?
+^ The Dentist
+A Lord of Illusions
+B Basket Case
+C The Dentist
+D Childs Play
+
+#Q In the movie The Wizard of Oz, the part of Dorothy was played by Hollywood legend Judy Garland. How old was Judy during the making of the movie?
+^ 16
+A 22
+B 18
+C 15
+D 16
+
+#Q What type of birds are the villains in Alfred Hitchcocks 1963 movie The Birds?
+^ Seagulls and crows
+A Sparrows and robins
+B Seagulls and crows
+C Parrots and canaries
+D Falcons and hawks
+
+#Q In the movie Napoleon Dynamite, what was the name of the farmer who shot the cow and lives across from Napoleon?
+^ Lyle
+A Jeb
+B Mike
+C Lyle
+D Tucker
+
+#Q What was the name of Jake LaMottas wife in the movie Raging Bull?
+^ Vicki
+A Tracy Mc
+B Patty
+C Vicki
+D Jennifer
+
+#Q In the movie by the same name, what part of the African Queen gets severely damaged in the trip down the rapids?
+^ The propeller and shaft
+A The propeller and shaft
+B The steam rotor
+C The tiller rod
+D The boiler
+
+#Q The first rule of eye make-up is that you can never wear enough blue eyeshadow is a quote from which film?  
+^ My Girl
+A My Girl
+B High School Musical 2
+C Hair Spray
+D High School Musical
+
+#Q In the movie Dodgeball, Coach Patches OHoulihan was a big believer in the five Ds of dodgeball which were dodge, duck, dip, dive and _____________.
+^ dodge
+A dink
+B dodge
+C deliver
+D dunk
+
+#Q What kind of animals does the G-force team primarily consist of?
+^ Guinea pigs
+A Moles
+B Rats
+C Guinea pigs
+D Hamsters
+
+#Q Roger Allers took what part in the making of the Disney classic, The Lion King (1994).
+^ Director
+A He provided Simbas voice
+B Script writer
+C Director
+D Cameraman
+
+#Q Who played the part of Sam Bowdens daughter in Cape Fear?
+^ Juliette Lewis
+A None of these
+B Juliette Lewis
+C Drew Barymore
+D Christina  Applegate
+
+#Q When Ricky Wild Thing Vaughn, played by Charlie Sheen in Major League, tries out for the team he is clocked using a radar gun. How hard was he throwing when manager Lou Brown turned and asked the scout?
+^ 96 mph
+A 96 mph
+B 100 mph
+C 98 mph
+D 94 mph
+
+#Q What actor uttered the popular phrase Keep your friends close, but your enemies closer in the 1974 movie The Godfather Part II?
+^ Al Pacino
+A Al Pacino
+B Robert Duvall
+C Robert De Niro
+D Marlon Brando
+
+#Q Which three movies have won the Top Five Awards i.e. for Best Picture, Best Director, Best Actor, Best Actress and Best Screenplay?
+^ It Happened One Night, One Flew Over the Cuckoos Nest, and The Silence of the Lambs
+A The Nuns Story, Gangs of New York and Peyton Place
+B Ben-Hur, Titanic, and The English Patient
+C Gigi, The Last Emperor  and The Color Purple
+D It Happened One Night, One Flew Over the Cuckoos Nest, and The Silence of the Lambs
+
+#Q What Police song does Reggie Hammond sing while he is in prison in the movie 48 Hrs.?
+^ Roxanne
+A Walking on The Moon
+B Roxanne
+C Every Breath You Take
+D Message in a Bottle
+
+#Q This character, played by Swedish actress Britt Ekland in The Man with the Golden Gun, is James Bonds female ally.
+^ Mary Goodnight
+A Cindy Shortskirt
+B Mary Goodnight
+C Amy Hotbath
+D Jenny Trueheart
+
+#Q In the movie Back to the Future, when Marty is in the diner in 1955, he asks for what kind of drink?        
+^ All of these
+A something without sugar
+B All of these
+C Tab
+D Pepsi free
+
+#Q Who said You got it in the movie The Goonies?
+^ Andi
+A Mikey
+B Mouth
+C Stef
+D Andi
+
+#Q What is the name of the fast-food joint where Sue Ellen worked in Dont Tell Mom the Babysitters Dead?       
+^ Clown Dog
+A McDonalds
+B Clown Burgers
+C Chick-Fil-A
+D Clown Dog
+
+#Q Which fictional character stated, I dont mind flying, but what youre doing is suicide.?
+^ Obi Wan Kenobi
+A Anakin Skywalker
+B Padme
+C Obi Wan Kenobi
+D Mace Windu
+
+#Q What important aspect did the townspeople of Rock Ridge forget to put in the fake town they built in Blazing Saddles?
+^ People
+A Horses
+B People
+C Cattle
+D The Town Hall
+
+#Q Which of these actresses did not appear in the 1997 horror movie I Know What You Did Last Summer?
+^ Brandy
+A Sarah Michelle Gellar
+B Jennifer Love Hewitt
+C Anne Heche
+D Brandy
+
+#Q What type of aircraft do the Crumps charter to get to Santa Rosita in Its a Mad, Mad, Mad, Mad World?       
+^ World War I era biplane
+A hot air balloon
+B Lear jet
+C helicopter
+D World War I era biplane
+
+#Q What singer and actress starred in the 1981 comedy movie Arthur?
+^ Liza Minnelli
+A Madonna
+B Barbra Streisand
+C Liza Minnelli
+D Cher
+
+#Q What actor was offered a role in the 2001 animated movie Shrek but turned it down?
+^ Robin Williams
+A Ben Stiller
+B Adam Sandler
+C Robin Williams
+D Robert De Niro
+
+#Q Who directed the film Over Her Dead Body?
+^ Jeff Lowell
+A Judd Apatow
+B James Benning
+C None of these
+D Jeff Lowell
+
+#Q Which jazz musician sang  Weve Got  All The Time In The World, in On Her Majestys Secret Service?
+^ Louis Armstrong
+A Louis Armstrong
+B Nat King Cole
+C Perry Como
+D Smokey Robinson
+
+#Q What is Napoleons favorite animal to draw from the comedy hit Napoleon Dynamite?
+^ a liger (a lion and tiger mix )
+A a liger (a lion and tiger mix )
+B a unicorn
+C a T-Rex
+D a dragon
+
+#Q The 2001 Spanish movie Y Tu Mama Tambien translates into what?
+^ And Your Mother Too
+A You and Your Mother
+B And Your Mother Too
+C Mother Too
+D Mom and Me
+
+#Q This actor, who portrayed Mr. McCardle, Juror #9 in 12 Angry Men, passed away in 1964 after a brilliant career in early television and motion pictures.
+^ Joseph Sweeney
+A Joseph Sweeney
+B John Fiedler
+C Ed Begley
+D Jack Warden
+
+#Q Name the two characters speaking in the audio soundbite from the movie Airplane!.
+^ Dr. Rumak and Elaine
+A Randy and Steve McCroskey
+B Dr. Rumak and Elaine
+C Ted Striker and Randy
+D Steve McCroskey and Elaine
+
+#Q In which of these movies does Jennifer Anistons character fall in love with her gay best friend?
+^ The Object of My Affection
+A Along Came Polly
+B The Object of My Affection
+C Friends with Money
+D The Good Girl
+
+#Q Which British movie won 8 Oscars?
+^ Gandhi
+A Mrs. Miniver
+B Gandhi
+C A Room With A View
+D Oliver!
+
+#Q In the parody Epic Movie, which character comes from the movie Snakes on a Plane?
+^ Susan
+A Peter
+B Rachel
+C Edwardo
+D Susan
+
+#Q Where and when does the opening scene of The Last Crusade take place?
+^ Utah, 1912
+A New Mexico, 1910
+B New Mexico, 1913
+C Utah, 1912
+D Utah, 1911
+
+#Q In the movie The Notebook, when Allies mother comes and takes Allie from Noahs house, the two have a talk as a result of which Allie finds out what?
+^ Her mother had the same impossible love when she was young.
+A Her mother had the same impossible love when she was young.
+B Her mother intends to leave her father for her first love.
+C Her mother does not love her father anymore.
+D Her mother has been unfaithful to her father.
+
+#Q Carol Connelly and Melvin Udall were Oscar-winning roles in this 1997 film.
+^ As Good as it Gets
+A Braveheart
+B Chicago
+C As Good as it Gets
+D Th Last Emperor
+
+#Q Nicole Kidman starred as Satine in this directors production of Moulin Rouge. Yet it was in this directors film for Chanel # 5 that Nicole Kidman became the highest paid per minute actress in the world.  What director filmed the 3-minute Chanel # 5 spot with Nicole Kidman?
+^ Baz Luhrmann
+A Steven Shainberg
+B Lars Von Trier
+C Anthony Minghella
+D Baz Luhrmann
+
+#Q Which actor delivered the following movie line: I reckon Im looking at a tin star with a drunk pinned on it!?
+^ John Wayne to Robert Mitchum
+A John Wayne to Robert Mitchum
+B Clint Eastwood to Eli Wallach
+C John Wayne to Eli Wallach
+D Will Geer to John Wayne
+
+#Q Which of these is not among the tattoos the main character of Memento has on his body?
+^ I loved her very much
+A find him and kill him
+B I loved her very much
+C â€œJohn G. Raped and Murdered My Wife.â€
+D Ive done it
+
+#Q Which of these actors voices Diego, the saber-tooth tiger from Ice Age 3?
+^ Denis Leary
+A Denis Leary
+B Rowan Atkinson
+C Mike Myers
+D Justin Timberlake
+
+#Q What town do they take Ben Wade to catch the 3:10 train in the western movie 3:10 to Yuma?
+^ Contention
+A Contention
+B Dodge City
+C Yuma
+D Sweet Water
+
+#Q After having the huge row after the family meal what does Gary purchase on the 2006 film The Break-Up?      
+^ Pool Table
+A Art Museum
+B Car
+C Pool Table
+D Strip Club
+
+#Q Who directed the 2006 movie The Pursuit of Happyness?
+^ Gabriele Muccino
+A Will Wang
+B Gabriele Muccino
+C James Brooks
+D Tim Robbins
+
+#Q What actress won the Academy Award for Best Actress for her performance in the 1978 drama movie Coming Home?
+^ Jane Fonda
+A Maggie Smith
+B Barbra Streisand
+C Jane Fonda
+D Sophia Loren
+
+#Q Tony Shalhoub provided the voice of which of these characters from the animated film Cars?
+^ Luigi
+A Ramone
+B Lightning McQueen
+C Guido
+D Luigi
+
+#Q Which of these couples is wed at the end of the movie Journey to the Center of the Earth?
+^ Alec McEwen and Jenny
+A Oliver S. Lindenbrook and Claire Burke
+B Alec McEwen and Jenny
+C The Laird of Glendarach and  Rose Weir
+D Guide Hans Belke and Sigrid
+
+#Q What actor starred as Jake in Roman Polanskis 1974 movie Chinatown?
+^ Jack Nicholson
+A Marlon Brando
+B Dustin Hoffman
+C Jack Nicholson
+D Robert De Niro
+
+#Q Godzilla (1984) was released in the U.S. as Godzilla 1985 and revived the series after nearly a decade.  What conection did this film have with the original U.S. release of Godzilla?
+^ Raymond Burr returned as the American reporter.
+A Both films feature new American scores by composer John Barry.
+B They are the only two films in the series in which Godzilla is shown dead.
+C Raymond Burr returned as the American reporter.
+D The same American voice actors returned thirty years later to overdub the Japanese dialogue.
+
+#Q This character, who chased villains in Live and Let Die, is the short-tempered U.S. sheriff in The Man with the Golden Gun?
+^ J.W. Pepper
+A J.W. Pepper
+B J.W. Salt
+C J.W. Vinegar
+D J.W. Mustard
+
+#Q What year did the  great movie A Few Good Men first hit the theatres?
+^ 1992
+A 1990
+B 1991
+C 1994
+D 1992
+
+#Q The portrayal of what Shakespearean character brought Laurence Olivier an Academy Award for Best Actor in 1948?
+^ Hamlet
+A Hamlet
+B Othello
+C Henry V
+D Romeo
+
+#Q Which Academy Award-winning actress voiced the dragon in the film Eragon?
+^ Rachel Weisz
+A Gweneth Paltrow
+B Julia Roberts
+C Rachel Weisz
+D Dame Judi Dench
+
+#Q What movie earned Sean Penn his first Academy Award for Best Actor?
+^ Mystic River
+A Mystic River
+B Dead Man Walking
+C Sweet and Lowdown
+D I Am Sam
+
+#Q In the film Point Break, during a stake out, agent Pappas orders Utah to get some take out food. What does he want him to get?
+^ Meatball sub
+A Meatball sub
+B Hamburger, all the way
+C Meat loaf
+D Meat lovers pizza
+
+#Q What was the name of the character portrayed by Nick Nolte in the hit movie 48 Hrs.?
+^ Jack Cates
+A Jack Bates
+B Jack Cates
+C Jack Tors
+D Jack Lynsmith
+
+#Q Why does Peter get beaten up by a bar owner in the movie Forgetting Sarah Marshall?
+^ He took a picture off the wall in the restroom.
+A He threw a glass at the bar owner.
+B He tried to pick up one of the girls that worked at the bar
+C He took a picture off the wall in the restroom.
+D He puked all over the bar owner.
+
+#Q In spite of his friendsâ€™ objections, Earnest runs to the phone booth, preparing to give Clara a call, stating â€œShes a dog. And Im a fat, ugly man. Well, all I know is I had a good time last night. Im gonna have a good time tonight. If we have enough good times together, Im gonna get down on my knees. Im gonna beg that girl to marry me!â€ Name this low-budget adaptation of a Paddy Chayefsky teleplay.
+^ Marty
+A Marty
+B Gigi
+C The Apartment
+D All About Eve
+
+#Q Complete the name of Ron Whites first solo one-hour comedy special: They Call Me _____ _____.
+^ Tater Salad
+A Tater Salad
+B Your Excellency
+C Mr. White
+D Johnnie Walker
+
+#Q In what year was the movie Mirrors with Kiefer Sutherland released?
+^ 2008
+A 2001
+B 2007
+C 2005
+D 2008
+
+#Q What Sin City character saves Hartigan from dying of multiple gunshot wounds?
+^ Senator Roark
+A Becky
+B Nancy Callahan
+C Senator Roark
+D His partner, Bob
+
+#Q What kind of company did Lillian found after the death of her husband Oscar in the 1992 comedy movie Brain Donors?
+^ Ballet company
+A Charitable foundation
+B Donor foundation
+C Law firm
+D Ballet company
+
+#Q The first rule of the fictional Fight Club is you do not talk about Fight Club. What is the second rule of Fight Club?
+^ You DO NOT talk about Fight Club
+A Only two guys to a fight
+B One fight at a time
+C If its your first night at Fight Club, you have to fight.
+D You DO NOT talk about Fight Club
+
+#Q In Steel Magnolias, during which holiday did Shelby announce she was expecting a baby?
+^ Christmas
+A Christmas
+B Fourth of July
+C Halloween
+D Easter
+
+#Q In this1990 film Lt. John J. Dunbar is accepted as an honorary member of the Sioux tribe and helps them locate a herd of buffalo.
+^ Dances with Wolves
+A At Play in the Fields of the Lord
+B Grey Owl
+C Dances with Wolves
+D The Worlds Fastest Indian
+
+#Q What 1995 movie was awarded with the Oscar for Best Picture at the 68th Academy Awards ceremony in 1996?    
+^ Braveheart
+A Sense and Sensibility
+B Babe
+C Braveheart
+D Apollo 13
+
+#Q What is Gaylord M. Fockers unusual profession in the 2000 comedy Meet the Parents?
+^ Nurse
+A Nurse
+B Pet mortician
+C Kindergarten teacher
+D Beautician
+
+#Q This character actor was always the authoritative, bespectacled, bald pompous guy in TV sitcoms. He was Lumpys father in Leave It to Beaver, Mel Cooley on The Dick Van Dyke Show and Elmer Zellerbach on I Love Lucy. He played a newscaster in Rabbit Test.
+^ Richard Deacon
+A Richard Deacon
+B Bill Barty
+C Larry Gelman
+D Norman Fell
+
+#Q What animals are raining from the sky at the end of the 1999 drama movie Magnolia?
+^ Frogs
+A Fish
+B Mice
+C Frogs
+D Cats and dogs
+
+#Q What has happened to Kelly during the four years of Chucks Cast Away?
+^ She got married
+A She waited for Chuck and they married
+B She couldnt take the pain and passed away
+C She committed suicide
+D She got married
+
+#Q What is Freddy Kruegers middle name?
+^ Charles
+A Robert
+B Johnathan
+C William
+D Charles
+
+#Q Yippee-Ki-Yay  *#%^#%  is a quote used by Det. John McClane in which series of police thrillers?
+^ Die Hard
+A Die Hard
+B Legal Weapon
+C Dirty Harry
+D The Naked Gun
+
+#Q What computer-animated film is this line taken from: One minute youre defending the whole galaxy, and, suddenly, you find yourself sucking down Darjeeling with... Marie Antoinette and her little sister.?
+^ Toy Story
+A DuckTales the Movie: Treasure of the Lost Lamp
+B Toy Story
+C Enchanted
+D Hercules
+
+#Q In the Disney animated feature Bambi, after the mother is shot, Bambis father leads him away into the thicker parts of the woods. What is  the name of Bambis father?
+^ The Prince of the Woods
+A The Prince of the Woods
+B Redding
+C The Stag
+D The Alpha Stag
+
+#Q In what African country was the 1950 movie The Black Rose mostly filmed?
+^ Morocco
+A Morocco
+B Egypt
+C Algeria
+D All of these
+
+#Q What Dirty Dancing character said, Shes with me. She came with me.?
+^ Billy
+A Robbie
+B Billy
+C Neil
+D Johnny
+
+#Q Jack Butler
+^ Mr. Mom
+A Pretty in Pink
+B Class Reunion
+C Mr. Mom
+D European Vacation
+
+#Q This 1999 movie was written and directed by M. Night Shyamalan.
+^ The Sixth Sense
+A Signs
+B American Beauty
+C The Sixth Sense
+D Unbreakable
+
+#Q Which of these actors was not a student of Stella Adler?
+^ Richard Dreyfuss
+A Michael  Imperioli
+B Vincent DOnoffrio
+C Richard Dreyfuss
+D Mark Ruffalo
+
+#Q I am someone else when Im with you, someone more like myself. (2001)
+^ Original Sin
+A Sunrise: A Song of Two Humans
+B Trouble in Paradise
+C In America
+D Original Sin
+
+#Q Who directed the classic movie The Sound of Music?
+^ Robert Wise
+A Robert Wise
+B Fred Zinnemann
+C Billy Wilder
+D Frank Capra
+
+#Q What actor played the role of Paul Rayburn, Johns old CIA sidekick, in the 2004 action movie Man on Fire?   
+^ Christopher Walken
+A Christopher Walken
+B Mickey Rourke
+C Giancarlo Giannini
+D Mario Zaragoza
+
+#Q In the movie Adventures in Babysitting Chris is accused of being a centerfold from what mens magazine?      
+^ Playboy
+A Hustler
+B Maxim
+C Playboy
+D Penthouse
+
+#Q What does killer Jame Gumb do with the skins taken from his victims in the 1991 movie The Silence of the Lambs?
+^ He intends to make a suit out of them.
+A He intends to make a suit out of them.
+B He keeps them as trophies on his walls.
+C He makes furniture from them.
+D He eats them.
+
+#Q In the movie The Goonies, Mouth denies Chunk access into the Walsh house unless he does what?
+^ Shakes his fat belly
+A Shakes his fat belly
+B Tells a story
+C Says Mouth is the Master
+D Does 1 push up
+
+#Q What does Andy collect in the comedy The 40-Year-Old Virgin?
+^ action figures
+A comic books
+B movie paraphernalia
+C action figures
+D video games
+
+#Q From what 1999 movie is the quote I see dead people?
+^ The Sixth Sense
+A Armageddon
+B The Silence of the Lambs
+C Psycho
+D The Sixth Sense
+
+#Q Which of these actors did not appear in Woody Allens 1977 comedy movie Annie Hall?
+^ Jack Nicholson
+A Diane Keaton
+B Woody Allen
+C Jack Nicholson
+D Sigourney Weaver
+
+#Q What was Forrests favorite book in the movie Forrest Gump?
+^ Curious George
+A Cat in the Hat
+B Alice in Wonderland
+C The Chronicles of Narnia
+D Curious George
+
+#Q In Transformers 2, what kind of car is Sideswipe?
+^ Chevrolet Corvette
+A Lamborghini
+B Audi R8
+C Chevrolet Corvette
+D Ferrari
+
+#Q What 1985 movie won the Academy Award for Best Picture at the 58th Academy Awards in 1986?
+^ Out of Africa
+A The Color Purple
+B Prizzis Honor
+C Witness
+D Out of Africa
+
+#Q John Bender
+^ The Breakfast Club
+A Weird Science
+B Class Reunion
+C The Breakfast Club
+D Sixteen Candles
+
+#Q What kind of machine does Kip hook Napoleon up to in the comedy hit movie Napoleon Dynamite?
+^ time machine
+A microwave
+B exercise machine
+C time machine
+D clothes dryer
+
+#Q He said, You look better than Veronica Lake. She said,  Some men get the world. Others get ex-hookers and a trip to Arizona. Kim Basinger played Lynn Bracken. What actor played Wendell Bud White?
+^ Russell Crowe
+A Guy Pearce
+B Russell Crowe
+C Simon Baker
+D Kevin Spacey
+
+#Q In Pulp Finction, when Butch frees himself from Zeds basement and goes upstairs to the pawn shop, he picks up several items before deciding on the samurai sword.  Which of the following items did Butch not pick up?     
+^ Bowie Knife
+A Big Hammer
+B Chainsaw
+C Bowie Knife
+D Louisville Slugger
+
+#Q Of what nationality is the actor who plays Pontius Pilate in the 2004 movie The Passion of the Christ?      
+^ Bulgarian
+A Bulgarian
+B Greek
+C Russian
+D Italian
+
+#Q Borodin, Captain Ramius Executive Officer in The Hunt for Red October, tells Ramius of his future plans once they have defected to America. He wants to buy an RV and travel to his future homes in what two U.S. states?  
+^ Arizona and Montana
+A California and Florida
+B Arizona and Montana
+C Arizona and Florida
+D Montana and California
+
+#Q Which 2004 movie is this audio clip from?
+^ Meet the Fockers
+A Father of the Bride
+B American Wedding
+C Surviving Christmas
+D Meet the Fockers
+
+#Q In a 1993 comedy/drama, Johnny Depp starred as the son of a morbidly obese woman with this last name.       
+^ Grape
+A Grape
+B Appleby
+C Orange
+D Pearson
+
+#Q Which character from the movie American Pie joins the choir in hopes of meeting a girl?
+^ Oz
+A Jim
+B Oz
+C Kevin
+D Finch
+
+#Q Brandon Lee was killed during the shooting of the film The Crow while doing what scene?
+^ a flashback scene
+A a guns blazing scene
+B a police chase scene
+C a flashback scene
+D a roof stunt
+
+#Q What is the title of MaryAnns song in The Fighting Temptations 2003 movie which Paulina points out to the church members as improper and devils music
+^ Do It To Me Again
+A Do It To Me Again
+B Turn Me On
+C You Make Me Hot
+D Yours From Head To Toe
+
+#Q What is the length of the 2007 movie Ghost Rider?
+^ 114 minutes
+A 122 minutes
+B 91 minutes
+C 114 minutes
+D 100 minutes
+
+#Q What is the name of the guy B-Rabbits mother is dating in the movie 8 Mile?
+^ Greg Bhuel
+A DJ Iz
+B Greg Bhuel
+C Future
+D Cheddar Bob
+
+#Q In the movie Whats Love Got to Do With It, what was the name of the song that Ann Marie Bullook sang for Ike Turner at the lounge where they first met?
+^ (Darlin) You Know I Love You
+A Down Home Blues
+B (Darlin) You Know I Love You
+C Hail Mary
+D Crazy Blues
+
+#Q For the 1994s massive movie hit The Lion King Rowan Atkinson gave his voice to this bird character.
+^ Zazu
+A Pumbaa
+B Rafiki
+C Timon
+D Zazu
+
+#Q Which of these movie characters based on real people was not portrayed by Robert De Niro?
+^ Don Michael Corleone
+A Vito Corleone
+B Jimmy Conway
+C Don Michael Corleone
+D Jake LaMotta
+
+#Q I shall call him squishy and he shall be mine and he shall be my squishy. is a quote from what Disney animated film?
+^ Finding Nemo
+A Pocahontas
+B Finding Nemo
+C The Fox and the Hound
+D A Bugs Life
+
+#Q How many times did Laurence Fishburne turn down the role of Ike Turner in Whats Love Got to Do With It?     
+^ Five
+A Two
+B Zero
+C Five
+D Seven
+
+#Q Name the director of the successful Pirates of the Caribbean movies.
+^ Gore Verbinski
+A Gore Verbinski
+B Don Siegel
+C Spike Jonze
+D Nora Ephron
+
+#Q What is the name of the pirate that the Goonies are searching for in the self-titled movie?
+^ One-Eyed Willie
+A Boot-strapped Billie
+B One-Eyed Billie
+C Boot-Strapped Willie
+D One-Eyed Willie
+
+#Q This trio of talented ladies starred in the 2000 movie Chocolat.
+^ Juliette Binoche, Lena Olin, Judi Dench
+A Kathy Bates, Sharon Stone, Carrie-Anne Moss
+B Cher, Susan Sarandon, Julia Roberts
+C Kate Blanchet, Judi Dench, Juliette Binoche
+D Juliette Binoche, Lena Olin, Judi Dench
+
+#Q This 2008 comedy, produced by Judd Apatow, stars Owen Wilson as a bodyguard, hired by a couple of high-school boys.
+^ Drillbit Taylor
+A Year One
+B Step Brothers
+C Pineapple Express
+D Drillbit Taylor
+
+#Q What famous landmark is featured in the beginning of the movie A View to a Kill?
+^ The Eiffel Tower in Paris
+A The Eiffel Tower in Paris
+B The Brandenburg Gate in Berlin
+C The Colosseum in Rome
+D The Taj Mahal in India
+
+#Q Who directed The Battleship Potemkin, one of the first great political movies?
+^ Sergei Eisenstein
+A Andrej Munk
+B Sergei Eisenstein
+C Andrei Tarkovsky
+D Stefano Murkovsky
+
+#Q What 1978 movie received the Oscar for Best Picture at the 51st Academy Awards ceremony?
+^ The Deer Hunter
+A Coming Home
+B Midnight Express
+C Heaven Can Wait
+D The Deer Hunter
+
+#Q In Godzilla vs. Hedorah (1971), a socially conscious entry in the series, what ecological problem was addressed by the storyline?
+^ Pollution
+A Nuclear Power Accidents
+B Strip Mining
+C Deforestation
+D Pollution
+
+#Q Who did Lilly want to marry back when she was a little girl in the 2003 movie The Fighting Temptations?     
+^ Michael Jackson
+A Michael Jackson
+B Darrin
+C Michael Jordan
+D Stevie Wonder
+
+#Q This actor played Deke Thornton, the man trying to capture The Wild Bunch. He was also the  pessimistic Colonel in The Dirty Dozen.
+^ Robert Ryan
+A Ernest Borgnine
+B Lee Marvin
+C William Holt
+D Robert Ryan
+
+#Q What does John Candys character do for a living in the film Planes, Trains  Automobiles?
+^ Shower curtain ring salesman
+A Insurance salesman
+B Plumbing supply salesman
+C Lingerie salesman
+D Shower curtain ring salesman
+
+#Q Which President of the United States did Ben Stiller voice in the animated television series Libertys Kids? 
+^ Thomas Jefferson
+A None of these
+B John Adams
+C Abraham Lincoln
+D Thomas Jefferson
+
+#Q Which of the Wayans brothers starred in the 1996 movie The Glimmer Man?
+^ Keenen
+A Keenen
+B Damon
+C Marlon
+D Dwayne
+
+#Q What speed must the time machine in Back to the Future achieve in order to travel through time?
+^ 88mph
+A 88mph
+B 80mph
+C 100mph
+D 108mph
+
+#Q Who played Mrs. Powers, the music teacher, in the movie Lean on Me?
+^ Sandra Reaves-Phillips
+A Della Reese
+B Halle Berry
+C Loretta Divine
+D Sandra Reaves-Phillips
+
+#Q Whose face appears at the very end of the film, after the credits roll?
+^ Rick Chance
+A Eric Masters
+B Ruth Lanier
+C Jimmy Harts
+D Rick Chance
+
+#Q In Raiders of the Lost Ark, Indiana Jones leaves for Nepal to get the Headpiece to the Staff of Ra from Abner Ravenwood. What route does his plane take to get to Nepal?
+^ San Francisco, Hawaii, Wake Island, Philippines, Nepal
+A Los Angeles, Anchorage, Tokyo, Hong Kong, Nepal
+B New York, Paris, Cairo, Nepal
+C San Francisco, Hawaii, Wake Island, Philippines, Nepal
+D Chicago, San Diego, Hawaii, Jakarta, Delhi, Nepal
+
+#Q Who directed the 2006 movie Talladega Nights: The Ballad of Ricky Bobby?
+^ Adam McKay
+A Will Smith
+B Paul Weitz
+C Will Ferrell
+D Adam McKay
+
+#Q Which movie featured the line I had a partner, I would have taken a bullet for him. You Im having a hard time not shooting?
+^ National Security
+A Bad Boys II
+B Bad Boys
+C National Security
+D Bluestreak
+
+#Q What is the name of the last human city on the planet in the 2003 movie The Matrix Reloaded?
+^ Zion
+A Xerx
+B Zion
+C Eden
+D Seraph
+
+#Q Dead Mans Party was a modest hit for this new wave band, known for their Halloween concerts and horror genre image which tended to be more off-beat than scary.
+^ Oingo Boingo
+A Wall of Voodoo
+B Oingo Boingo
+C Talking Heads
+D Bow Wow Wow
+
+#Q Alfred Hitchcock was known as the master of suspense and for his use of cool elegant blonds actresses. One blonde actress he hired after spotting her on a commercial for Sega diet drink. Although he made her the star of his movies The Birds and Marnie he became very controlling. What actress bought back her contract rather than star in any other Hitchcock films?
+^ Tippi Hedren
+A Grace Kelly
+B Tippi Hedren
+C Kim Novak
+D Janet Leigh
+
+#Q In the 1987 movie Dirty Dancing, Baby says she was named after whom?
+^ the first woman in the cabinet
+A the first woman to walk on the moon
+B her mother
+C the first woman to become president
+D the first woman in the cabinet
+
+#Q Saturday Night Fever, a movie about the troubled Brooklyn youth, Toni Manero, helped to popularize disco music. In what year did the movie come out?
+^ 1977
+A 1979
+B 1978
+C 1977
+D 1976
+
+#Q Who portrays Carter in the Disney movie Princess Protection Program?
+^ Selena Gomez
+A Jason Earles
+B Selena Gomez
+C Demi Lovato
+D Jason Dolly
+
+#Q In photography and cinematography, this type of light, sometimes called hair or shoulder light, provides separation between the subject and its background.
+^ Back Light
+A Motivated light
+B Back Light
+C Practical light
+D Key light
+
+#Q Where does Cheech work for a short time in Cheech and Chongs Next Movie, released in 1980?
+^ A movie studio
+A A nightclub
+B A movie studio
+C A gas station
+D A taco shop
+
+#Q By what other name is Star Wars character Darth Tyrannus known?
+^ Count Dooku
+A Anakin Skywalker
+B General Grievous
+C Shalamagalagatamaga
+D Count Dooku
+
+#Q In which of these movies has Bruce Willis made cameo appearances as himself?
+^ All of these
+A Oceans Twelve
+B The Player
+C Thats Adequate
+D All of these
+
+#Q In which film can you hear the following line? All right you proved your point. You broke into my vault. Congratulations, youre a dead man.
+^ Oceans 11
+A The Usual Suspects
+B Oceans 13
+C Oceans 12
+D Oceans 11
+
+#Q What musical instrument did Richard Gere study when he was a student?
+^ Trumpet
+A Organ
+B Trumpet
+C Violin
+D Guitar
+
+#Q What is the name of the popular ship from the ultraexpensive 2006 movie Pirates of the Caribbean: Dead Mans Chest?
+^ Black Pearl
+A Old Ramshackle
+B Dead Mans Chest
+C Black Pearl
+D Sparrow
+
+#Q What character from the movie Wedding Crashers said,You shut your mouth when your talking to me?
+^ Mrs. Kroeger
+A Mrs. Kroeger
+B Mrs. Davis
+C Mrs. Jones
+D Mrs. Cleary
+
+#Q In the movie The Great Escape, James Garner played Lt. Hendley. What was the character referred to as?      
+^ The Scrounger
+A Big K
+B The Scrounger
+C Intelligence
+D The Forger
+
+#Q In 2001, a Godzilla film was released, subtitled Giant Monsters All-Out Attack, which is considered one of the best of the series.  While many monsters appear in this movie, which monster is NOT featured in the film?   
+^ Anguirus
+A Mothra
+B King Ghidrah
+C Baragon
+D Anguirus
+
+#Q Who directed the blockbuster movie Forrest Gump?
+^ Robert Zemeckis
+A Steven Soderbergh
+B Robert Zemeckis
+C Tony Scott
+D John Hughes
+
+#Q Who directed the cult comedy Anchorman: The Legend of Ron Burgundy, produced by Judd Apatow?
+^ Adam McKay
+A Adam McKay
+B Will Ferrell
+C Harold Ramis
+D Ben Stiller
+
+#Q In the movie Miracle, what causes Rob McClanahan and Jack Oâ€™Callahan to have a fight during an early practice?
+^ An old college rivalry
+A They were trying to impress Herb Brooks.
+B A lost bet
+C An old college rivalry
+D A woman
+
+#Q What year did the war film The Dirty Dozen hit the big screen?
+^ 1967
+A 1968
+B 1969
+C none of these
+D 1967
+
+#Q William Katt starred in this 1980s movie with George Wendt of Cheers fame.
+^ House
+A The Toxic Avenger
+B Evil Dead
+C Reanimator
+D House
+
+#Q Which Nazi from the movie Shindlers List was ranked #15 on the American Film Institutions list of the top movie villains?
+^ Amon Goeth
+A Adolph Hitler
+B Amon Goeth
+C Wilhelm List
+D Josef Gobbels
+
+#Q What was the address of the museum in which Mickeys dad works in the movie The Goonies?
+^ 441 -8th Street
+A 448 -8th Street
+B 444 -8th Street
+C 442 -8th Street
+D 441 -8th Street
+
+#Q Who won the award for best actor in a leading role at the 78th Academy Awards?
+^ Philip Seymour Hoffman
+A George Clooney
+B Philip Seymour Hoffman
+C Joaquin Phoenix
+D Terrence Howard
+
+#Q Which musical act performed at the charity event at the end of the movie Rat Race?
+^ Smashmouth
+A Hot Chocolate
+B Better Than Ezra
+C The Four Tops
+D Smashmouth
+
+#Q This film, directed by Alfred Jackson, was released by Disney on December 21, 1937 and featured Billy Gilbert as Sneezy.
+^ Snow White and the Seven Dwarfs
+A Snow White and the Seven Dwarfs
+B Song of the South
+C Rose Red and Rose White
+D Gullivers Travels
+
+#Q This 1967 Roman Polanski film has been produced as a musical called  Dance of the Vampires.
+^ The Fearless Vampire Killers
+A The Fearless Vampire Killers
+B Blood for Dracula
+C Repulsion
+D Blood and Roses
+
+#Q What kind of animal character did Jada Pinkett Smith voice in the 2008 comedy movie Madagascar: Escape 2 Africa?
+^ Hippopotamus
+A Aye-aye
+B Giraffe
+C Hippopotamus
+D Penguin
+
+#Q George Lucas makes a cameo appearance in Episode 3 of Star Wars as which character?
+^ Baron Papanoida
+A Count Vallorum
+B Baron Onasi
+C Baron Papanoida
+D Atton Rand
+
+#Q Who played Jor-El, the biological father of Superman in the 1978 Superman movie?
+^ Marlon Brando
+A Glenn Ford
+B Ned Beatty
+C Nelson Leigh
+D Marlon Brando
+
+#Q In what movie did Jennifer Aniston star alongside Jim Carrey as his girlfriend Grace?
+^ Bruce Almighty
+A The Cable Guy
+B Man on the Moon
+C Bruce Almighty
+D Ace Ventura: When Nature Calls
+
+#Q If he loved you with all the power of his soul for a whole lifetime, he couldnt love you as much as I do in a single day. (1992)
+^ Wuthering Heights
+A Romeo and Juliet
+B Wuthering Heights
+C Shakespeare in Love
+D Sideways
+
+#Q What movie directed by Alfred Hitchcock tells the story of an actress who has been wrongly accused of the murder of her colleague?
+^ Murder!
+A The Skin Game
+B Murder!
+C Sabotage
+D Stage Fright
+
+#Q As a child Darth Vader was from what desert planet?
+^ Tatooine
+A Alderaan
+B Hot
+C Endor
+D Tatooine
+
+#Q This movie about an alien visiting our planet starred Jeff Bridges, Karen Allen and Robert Phalen.
+^ Starman
+A K-Pax
+B Close Encounters of the 3rd Kind
+C Starman
+D E.T.
+
+#Q What do the villains from the War of the Worlds, ranked #27 on the AFIs list of the 50 top villains, have in common with the villain at #14 from the same list?
+^ They both come from outer space.
+A They both are Nazis,
+B They both are gang leaders,
+C They both are women,
+D They both come from outer space.
+
+#Q What was Angelina Jolie mostly teased about by her classmates when she was a student?
+^ All of these
+A Her braces
+B Her extremely thin body
+C Her glasses
+D All of these
+
+#Q In the movie The Crow, who says the line Childhoods over the moment you know youre gonna die.?
+^ Top Dollar
+A Officer Albrecht
+B T-Bird
+C Top Dollar
+D Grange
+
+#Q Rodrigo Santoro played King Xerxes in the 2007 film hit 300. What TV show did he appear in at the same time?
+^ Lost
+A Lost
+B Heroes
+C Desperate housewives
+D ER
+
+#Q Where was the 2000 comedy Big Mommas House, starring Martin Lawrence, filmed?
+^ California, USA
+A Paris, France
+B Dusseldorf, Germany
+C Sidney, Australia
+D California, USA
+
+#Q In The Hunt for Red October, Seaman Jones, the sonar expert on the American submarine sent to track the Red October, was a student at what university before joining the Navy?
+^ Cal Tech
+A M.I.T.
+B Stanford
+C Cal Tech
+D Yale
+
+#Q In this movie an English auctioneer unwittingly gets involved with his fiances mob family.
+^ Mickey Blue Eyes
+A Eyes Wide Shut
+B Notting Hill
+C The Talented Mr. Ripley
+D Mickey Blue Eyes
+
+#Q What British film director, born in Shanghai, China, directed three, including the first in the series of James Bond movies - Dr. No (1962), From Russia with Love (1963), and Thunderball (1965)?
+^ Terence Young
+A Guy Hamilton
+B John Glen
+C Lewis Gilbert
+D Terence Young
+
+#Q Where was the local shooting done for the movie Jaws?
+^ Marthas Vineyard, Massachusetts
+A Brooklyn, New York
+B Marthas Vineyard, Massachusetts
+C New Jersey
+D Junction City, Kansas

@@ -2,7 +2,15 @@
 # NAME: Final Exam Lab 
 # AUTHOR(s): Garrison White
 # DATE: 
-# PURPOSE:
+''' PURPOSE: Play a trivia game with multiple choice questions with a variety of categories.
+
+There is a .txt file for each category, and the questions come from a database of trivia questions
+found on the GitHub repository 'OpenTriviaQA' by user uberspot (link: https://github.com/uberspot/OpenTriviaQA).
+
+For each category, I pasted the entire list of 1k+ questions into a temporary txt file, 
+and then made  a temporary Python script (making_questions.py) to sort them into questions 
+with 4 multiple choice answers. I then pulled 250 random questions from the list, and put 
+them into a .txt file under 'triviaQuestions' to be used in the game. '''
 
 import random
 
@@ -10,19 +18,21 @@ def main():
     playagain = welcome()
     if playagain == "1":
         while playagain == "1":
-            questions = get_questions()
-            num_correct, num_wrong = quiz(questions)
-            results(num_correct, num_wrong)
+            questions, num_questions = get_questions()
+            num_correct = quiz(questions, num_questions)
+            results(num_correct, num_questions)
             playagain = play_again()
         
         print("\nThanks for playing!")
+        print(input('Hit Enter to Close\n'))
     else:
         print("\nGoodbye!")
+        print(input('Hit Enter to Close\n'))
 
 
 def welcome():
     print("-------------------------")
-    print("     TRIVIA GAMESHOW")
+    print("     TRIVIA GAMESHOW     ")
     print("-------------------------\n")
 
     print("Choose a category, and answer 10 trivia questions")
@@ -39,7 +49,7 @@ def welcome():
 
 
 def get_questions():
-    '''User selects a cateogry 1-7. Then a text file is opened from 'triviaQuestions' 
+    '''User selects a cateogry 1-8. Then a text file is opened from 'triviaQuestions' 
     with the corresponding number in the file name. A list of questions is made, each 
     question being a dictionary with 6 attributes: the question itself, the 4 answer
     choices, and the correct answer letter. Return the list of questions to be used.'''
@@ -48,23 +58,24 @@ def get_questions():
     category = ""
     while category not in ["1", "2", "3", "4", "5", "6", "7"]:
         category = input('''\nSelect a trivia category:
-[1] Science
+[1] Science & Technology
 [2] History
 [3] Geography
-[4] Movie & TV
+[4] Music
 [5] Literature
-[6] Technology
-[7] General Knowledge
+[6] Movies
+[7] TV
+[8] General Knowledge                         
 >''').strip()
-        if category in ["1", "2", "3", "4", "5", "6", "7"]:
+        if category in ["1", "2", "3", "4", "5", "6", "7", "8"]:
             break
         else:
             print("\nInvalid input. Try again.")
 
     #Open file for correct category. Each txt file is named 'q_x' where x is the number category.
     fin = open(f"triviaQuestions/q_{category}.txt", encoding="utf-8")  
-                                                    # Note: I could not get this open function to work
-                                                    # without adding this 'encoding' parameter. 
+                                                    # Note: I could not get this open() function to work
+                                                    # without adding this 'encoding' parameter.   
     
     #List of each question containing ALL components such as the question, answer choices, and the answer. 
     full_questions = fin.read().split("\n\n")
@@ -74,44 +85,74 @@ def get_questions():
     questions = []
     for i in full_questions:
         q_parts = i.split("\n")
-        question = {"q": q_parts[0],
-                    "a": q_parts[1],
-                    "b": q_parts[2],
-                    "c": q_parts[3],
-                    "d": q_parts[4],
-                    "ans": q_parts[5]}
+        question = {"q": q_parts[0][3:],    # These strings are sliced to cut off characters at the beginning
+                    "ans": q_parts[1][2:],  # that are included in the OpenTriviaQA database.
+                    "a": q_parts[2],
+                    "b": q_parts[3],
+                    "c": q_parts[4],
+                    "d": q_parts[5],}
         questions.append(question)
-    
-    return questions
 
-
-def quiz(questions):
     random.shuffle(questions)  #Randomize order of questions
+    
+    #User chooses how many question the quiz will be.
+    quizlen = 0
+    while quizlen not in [1, 2, 3]:
+        try:
+            quizlen = int(input("\nChoose the length of your game:\n[1] Short (10 questions)\n[2] Medium (20 questions)\n[3] Long (30 questions)\n>"))
+            if quizlen not in [1, 2, 3]:
+                print("\nPlease enter 1, 2, or 3.")
+            else:
+                break
+        except ValueError:
+            print("\nInvalid input. Please enter 1, 2, or 3.")
+    if quizlen == 1:
+        num_questions = 10
+    elif quizlen == 2:
+        num_questions = 20
+    else:
+        num_questions = 30
+
+    return questions, num_questions
+
+
+def quiz(questions, num_questions):
     num_correct = 0
-    num_wrong = 0
     question_num = 1
+    questions_answered = 0
+
+    #Display the question and 4 multiple choice options, and prompt for user answer.
     for q in questions:
         answer = ""
         print(f"\nQuestion {question_num}: \n{q["q"]}")
         while answer.lower() not in ["a", "b", "c", "d"]:
-            answer = input(f"A) {q["a"]}\nB) {q["b"]}\nC) {q["c"]}\nD) {q["d"]}\n\nAnswer: ")
+            answer = input(f"\n{q["a"]} \n{q["b"]} \n{q["c"]} \n{q["d"]} \n\nAnswer: ")
             if answer in ["a", "b", "c", "d"]:
                 break
             else:
                 print("\nInvalid input. Try again.")
-        
-        question_num += 1
 
-        if answer.lower() == q["ans"]:
+        #This variable is equal to the 'q' value of the key equal to the user's answer (a, b,  c, d), to check against the real answer.
+        answer_check = q[f"{answer.lower()}"][2:]
+        
+        #Check if answer is correct.
+        if answer_check == q["ans"]:
             print("Correct!")
             num_correct += 1
         else:
-            print(f"Wrong, the answer was {q["ans"].upper()}")
-            num_wrong += 1
+            print(f"Wrong, the answer is: {q["ans"]}")
+
+        question_num += 1
+        questions_answered += 1
+        if questions_answered == num_questions:  #Break loop when user answers enough questions.
+            break
+
+    return num_correct
 
 
-def results(num_correct, num_wrong):
-    print()
+def results(num_correct, num_questions):
+    print("\n-------- RESULTS --------")
+    print(f"Score: {num_correct}/{num_questions}")
 
 
 def play_again():
