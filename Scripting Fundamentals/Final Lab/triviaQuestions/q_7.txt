@@ -1,345 +1,93 @@
-#Q How many television series, starring Bill Cosby in the period 1967-2007, have his name or part of his name in the title?
-^ seven
-A seven
-B four
-C two
-D five
+#Q What is Georges favorite drink on Seinfeld?
+^ Bosco and milk
+A Pepsi with lemon
+B Bosco and milk
+C Seven-Up and tomato juice
+D Gin and tonic
 
-#Q The show Julia starring Diahann Carroll made its television debut in what year?
-^ 1968
-A 1970
-B 1968
-C 1971
-D 1969
-
-#Q What was the real name of the chimpanzee that portrayed Lancelot Link in the TV series of the same name?    
-^ Tonga
-A Moe
-B Sidney
-C Tonga
-D Sam
-
-#Q Stephen Peacock was the floorwalker (floor manager) on Are You Being Served?. What was his other title?     
-^ Captain
-A Sergeant
-B Captain
-C Corporal
-D Major
-
-#Q In Highlander: The Series, the character of MacLeods girlfriend, played by French actress Alexandra Vandernoot, was killed in the second season. What was her name?
-^ Tessa Noel
-A Noel Neal
-B Amanda
-C Tessa Noel
-D Tessa Neal
-
-#Q What is the favorite catchphrase of Janice, Chandlers ex-girlfriend from the TV show Friends?
-^ Oh, my God!
-A Okie dokie!
-B Whatever!
-C Oh, my God!
-D Holy cow!
-
-#Q What was Carries job on the TV sitcom The King of Queens?
-^ legal secretary
-A mechanic
-B legal secretary
-C manicurist
-D massage therapist
-
-#Q What did Turk do with his removed testicle during JDs daydream on Scrubs?
-^ Buried it
-A Flew it to Cancun
-B Drove it to Chicago
-C Burned it
-D Buried it
-
-#Q What year did the hit television show Wings  leave the air-waves?
-^ 1997
-A 1999
-B 1998
-C 2000
-D 1997
-
-#Q What was the name of the high school the gang of Saved by the Bell attended?
-^ Bayside
-A School of Rock
-B Bayside
-C Portside
-D Belmont
-
-#Q In what year was the last episode of  The Avengers broadcast in Britain?
-^ 1969
-A 1967
-B 1969
-C 1972
-D 1974
-
-#Q In the Friends episode TOW All the Cheesecakes, what kind of cake did Rachel tell Joey she was eating?      
-^ Tofu
-A Lemon Meringue
-B Oat cake
-C Tofu
-D Cinnamon
-
-#Q During the shows 5-year run, how many episodes of Mr. Bean were made?
-^ 14
-A 12
-B 8
-C 10
-D 14
-
-#Q What was the name of Blossoms father on the TV show Blossom?
-^ Nick
-A Anthony
-B Joey
-C Nick
-D Matt
-
-#Q Some of the characters in this sitcom were Janet, Chrissy, Jack and the Ropers.
-^ Threes Company
-A Threes Company
-B My Three Sons
-C Mork and Mindy
-D Wonder Years
-
-#Q Lee Majors character, Colt Seavers, was the unknown stuntman on the show The Fall Guy. What other line of work was he in?
-^ bounty hunter
-A bodyguard
-B bounty hunter
-C undercover policeman
-D truck driver
-
-#Q On TV show, Lost, which two characters found the Hatch?
-^ Boone Carlyle and John Locke
-A Sayid Jarrah and Jack Shephard
-B Jack Shephard and John Locke
-C Boone Carlyle and  Hugo Hurley Reyes
-D Boone Carlyle and John Locke
-
-#Q What is the name of Johnny Bravos geeky neighbor whom he likes to call dweeb?
-^ Carl Chryniszzswics
-A Master Hamma
-B Pops
-C Carl Chryniszzswics
-D Suzy
-
-#Q What does Michael order at Hooters in season 2 of The Office?
-^ Chicken Breast, hold the Chicken
-A Chicken Breast, hold the Chicken
-B Milk
-C Ham and Cheese Sandwich
-D Chicken Wings
-
-#Q The popular 70s show Alice is set in which city?
-^ Phoenix, Arizona
-A Texas
-B New York
-C Phoenix, Arizona
-D New Jersey
-
-#Q In what fictional town is the soap opera Coronation Street set?
-^ Weatherfield
-A Wetfield
-B Waterfield
-C Winterfield
-D Weatherfield
-
-#Q In the Saved by the Bell episode The Gift, Screech is struck by lightning in a freak accident and as a result can see into the future. Zack uses Screechs ability to place bets with Slater, but in the end it all backfires on Zack. What price does he have to pay to Slater?
-^ He must be Slaters slave for a week.
-A He has to give Slater his cellphone.
-B He must be Slaters slave for a week.
-C He must give up chasing after Kelly.
-D He has to give Slater $100.
-
-#Q What year did the sitcom Growing Pains make its television debut?
-^ 1985
-A 1982
-B 1988
-C 1985
-D 1987
-
-#Q This 80s show, that took place in the fictional town of Glen Lawn, California, was about a black housekeeper who took care of three teenage girls, whose father was a police chief.
-^ Gimme A Break
-A The Chief
-B Gimme A Break
-C Kojak
-D Just The Ten Of Us
-
-#Q The Office character Jim Halpert pulled  this prank on Dwight when Dwight was to give a speech as the top paper salesman.
-^ He convinced Dwight to make a Mussolini-type speech.
-A He convinced Dwight to make a Mussolini-type speech.
-B He convinced Dwight  to give the speech in American Sigh Language.
-C He convinced Dwight to give the speech dressed as Ben Franklin.
-D He convinced Dwight to make the speech into a stand-up comedy routine.
-
-#Q Actor and singer Drake Bell received private guitar lessons from which Rock and Roll legend?
-^ Roger Daltrey
-A Roger Daltrey
-B Peter Frampton
-C Jimi Hendrix
-D Bob Dylan
-
-#Q What year did the show Two and a Half Men first air on television?
-^ 2003
-A 2003
-B 2005
-C 2001
-D 2008
-
-#Q What was Carlas nationality on the TV show Scrubs?
-^ Dominican
-A Puerto Rican
-B Mexican
-C Dominican
-D Jamaican
-
-#Q In what year did Yogi Bear get his own animated series?
-^ 1961
-A 1960
-B 1961
-C 1958
-D 1959
-
-#Q Which actor played the role of Uncle Petrie on the Lassie TV series?
-^ George Chandler
-A Arthur Space
-B Joey D. Vieira
-C Robert Bray
-D George Chandler
-
-#Q Which one of the Friends can speak French and attempts to teach it to Joey in Season 10, in the episode The One Where Joey Speaks French?
-^ Phoebe
+#Q Which one of the sisters on Charmed was the first to date a demon/evil entity?
+^ Piper
 A Phoebe
+B Prue
+C Piper
+D Paige
+
+#Q What team member is the good-looking, smooth-talking Ladies Man in the A-Team show?
+^ Face
+A Hannibal
+B Face
+C Murdock
+D B.A.
+
+#Q Which was the first cartoon with a fully synchronized soundtrack?
+^ Steamboat Willie
+A Steamboat Willie
+B Fantasia
+C Betty Boop
+D Looney Tunes
+
+#Q What is the name of the TV show Dick hosts in the TV series Newhart?
+^ Vermont Today
+A Good Morning Vermont
+B Vermont Today
+C Meet the Press
+D Vermonts Local Celebrities
+
+#Q What state is Peggy Hill originally from in the King of the Hill series?
+^ Montana
+A Texas
+B Nebraska
+C Wyoming
+D Montana
+
+#Q Who were the first 2 episodes of Behind the Music about?
+^ MC Hammer and Milli Vanilli
+A Teddy Pendergrass and Andy Gibb
+B Run DMC and Boy George
+C MC Hammer and Milli Vanilli
+D Fleetwood Mac and Vanilla Ice
+
+#Q Which That 70s Show character had a regular job at the Foto Hut with Leo?
+^ Steven Hyde
+A Steven Hyde
+B Michael Kelso
+C Jackie Burkhart
+D Eric Forman
+
+#Q On TV show Friends, Joey and Chandler dated this same woman.
+^ Kathy
+A Kathy
 B Monica
-C Rachel
-D Ross
+C Janice
+D Katie
 
-#Q Ross had a date with a woman called Elizabeth Hornswaggle, a name that reminded Chandler of what childrens program?
-^ Fraggle Rock
-A Sesame Street
-B The Muppets
-C Fraggle Rock
-D Lamb Chops
+#Q Which actress portrayed Mallory Keaton on the NBC sitcom Family Ties?
+^ Justine Bateman
+A Tina Yothers
+B Tracy Pollan
+C Courtney Cox
+D Justine Bateman
 
-#Q Americas Next Top Model Cycle 9s winner is one of the most controversial winners, due to her connections with Tyra Banks, the national Wendys ad campaign, and the fans general dislike of her.
-^ Saleisha Stowers
-A Saleisha Stowers
-B Jenah Doucette
-C Heather Kuzmich
-D Heather Chantal Jones
+#Q In this film Kevin Kline and Demi Moore played romantic partners.
+^ The Hunchback of Notre Dame
+A WALL-E
+B Pinocchio
+C 101 Dalmatians
+D The Hunchback of Notre Dame
 
-#Q This actor, who has played in House and Harold and Kumar Go to White Castle, portrayed a college student turned caveman in the Buffy episode titled Beer Bad?
-^ Kal Penn
-A Jesse Spencer
-B John Cho
-C Kal Penn
-D Omar Epps
+#Q On The Drew Carey Show, Drew often wears a Ghoulardi T-shirt on the show. Who is Ghoulardi?
+^ a late night horror show host
+A a Cleveland Browns football player
+B a horror movie character
+C a late night horror show host
+D a Cleveland Indians baseball player
 
-#Q Walter Cronkite was married for nearly ____ years.
-^ 65
-A 47
-B 50
-C 65
-D 70
-
-#Q When Marlena was first introduced, what was everyone afraid Mickey would do to his new shrink?
-^ Try to kill her, he was attacking blonde women.
-A Totally ignore her, he didnt think he needed a shrink.
-B Try to kill her, he was attacking blonde women.
-C Totally ignore her, she looked too much like Laura.
-D Try to fix her up with his best friend, Don Craig.
-
-#Q What is the uber-holiday that The O.C. character Seth Cohen created when he was six years old?
-^ Chrismakkah
-A Eastover
-B Passter
-C Chrismakkah
-D Hanakkrisma
-
-#Q What Pokemon species is Kakuna?
-^ bug
-A water
-B normal
-C bug
-D flying
-
-#Q In an episode of Saved by the Bell, Mr. Belding tells Zack he wants him to take his niece out on a date but Zack already had plans and told Screech to dress up like him and take the girl out. What was her name?
-^ Penny
-A Cammy
-B Peggy
-C Kimmy
-D Penny
-
-#Q Zack from Saved by the Bell made a calendar The Girls of Bayside. Who was Miss December?
-^ Mr. Belding
-A Kelly
-B Mr. Belding
-C Lisa
-D Violet
-
-#Q This  famous  TV actor  was considered a threat to John Wayne. He was supposedly taller, better looking , and more macho than The Duke.  He took the TV role and kept it for over 15 years.
-^ James Arness
-A Jack Elam
-B James Arness
-C Brett Halsey
-D James Taylor
-
-#Q Which actor, famous for his portrayal of hippies, plays Stephen Hydes boss Leo in That 70s Show?
-^ Tommy Chong
-A Tommy Chong
-B Adam Sandler
-C Cheech Marin
-D Dave Chappelle
-
-#Q This actor, who has played in House and Harold and Kumar Go to White Castle, portrayed a college student turned caveman in the Buffy episode titled Beer Bad?
-^ Kal Penn
-A Jesse Spencer
-B John Cho
-C Kal Penn
-D Omar Epps
-
-#Q Why did the character Eric Forman, played by Topher Grace, left for Africa at the end of the seventh season of the sitcom That 70s Show?
-^ to become a teacher
-A to see new places
-B to follow a love interest
-C to become a teacher
-D to find his twin brother
-
-#Q What is the special talent of Hilda Suarez from the TV show Ugly Betty?
-^ She is a talented stylist and beautician.
-A She is a talented stylist and beautician.
-B She is a gifted opera singer.
-C All of these
-D She can fix anything broken around the house.
-
-#Q In episode #13 of The Dick Van Dyke Show, titled “Empress Carlotta’s Necklace,” this guest star played Mels cousin.
-^ Gavin MacLeod
-A Marty Ingels
-B Allan Melvin
-C Gavin MacLeod
-D Bob Denver
-
-#Q The actors who portray these characters on The Office went to high school together in Atlanta, Georgia.     
-^ Kevin and Andy
-A Kelly and Ryan
-B Angela and Jan
-C Kevin and Andy
-D Stanley and Kevin
-
-#Q On The Andy Griffith Show, Opie Taylor was played by which of these actors?
-^ Ron Howard
-A Ken Berry
-B George Lindsey
-C Don Knotts
-D Ron Howard
-
-#Q The Osbournes is a popular MTV reality show. It shows the domestic life of the famous Black Sabbath star Ozzy Osbourne and his family. But this member of the family refused to participate in the show.
-^ Aimee
-A Rob
-B Jack
-C Kelly
-D Aimee
+#Q The X-Files Agent Mulder once had a brief relationship with a female who was not an ordinary person, but what?
+^ A vampire
+A A witch
+B A clairvoyant
+C A vampire
+D A voodoo priestess
 
 #Q This member of the X-Men team, who has the power to control the weather, is captured by Sauron.
 ^ Storm
@@ -348,628 +96,194 @@ B Charles Xavier
 C Cyclops
 D Storm
 
-#Q Which character from Six Feet Under said this: Well, well. The prodigal returns. This is what youve been running away from your whole life, buddy boy. Scared the crap out of you when you were growing up, didnt it? And you thought youd escape, well guess what, nobody escapes.
-^ Nathaniel Fisher
-A David Fisher
-B Claire Fisher
-C Nathaniel Fisher
-D Ruth Fisher
-
-#Q Which of these is the name of one of Colonel Blakes daughters in the series M*A*S*H?
-^ Molly
-A Molly
-B Anne
-C Catherine
-D Stephanie
-
-#Q Which one of these TV shows didnt make it to the ninth season?
-^ Diffrent Strokes
-A The Facts of Life
-B Diffrent Strokes
-C The Beverly Hillbillies
-D Alice
-
-#Q In Season three of The O.C. we are introduced to a new character who Ryan starts dating. What is her name?  
-^ Sadie
-A Taylor
-B Lindsay
-C Sadie
-D Anna
-
-#Q Of Marlenas men, who is the first one that has been portrayed by more than one actor?
-^ Roman Brady
-A Don Craig
-B Paul Whitman
-C John Black
-D Roman Brady
-
-#Q Which Full House character gave Stephanie Mr. Bear?
-^ Her mom
-A Joey
-B Her dad
-C Her mom
-D D.J.
-
-#Q According to the series Rurouni Kenshin, the first secret of the final attack Amakakeru Ryū no Hirameki is the god-like speed. What is the second secret?
-^ Additional step with the left foot
-A Utilizing the sheath
-B Additional step with the left foot
-C Additional step with the right foot
-D To draw the sword with the left arm
-
-#Q Which statement is true about Billy Preston, who wrote the song Nothing from Nothing (Leaves Nothing)?      
-^ Billy was a musical guest on the first Saturday Night Live.
-A Billy Preston invested his money in Atlantic Records and lived quite well-off  in his later years.
-B Billy was a musical guest on the first Saturday Night Live.
-C Billy played keyboards on almost every Rolling Stones album.
-D Billy never again achieved a hit record.
-
-#Q This red-haired TV character was the wife of Fred and the mother of Pebbles.
-^ Wilma Flintstone
-A Carrie Fisher
-B Betty Rubble
-C Wilma Flintstone
-D June Cleaver
-
-#Q What is Randys biggest fear in the television comedy My Name Is Earl?
-^ Birds
-A Sheep
-B Birds
-C Bugs
-D Spiders
-
-#Q Who won the Mom challenge in Project Runway, Season 3?
-^ Vincent
-A Jeffrey
-B Uli
-C Vincent
-D Angela
-
-#Q In what European city did the idiot mob nearly kill Drusilla in the second season of the TV show Buffy the Vampire Slayer?
-^ Prague
-A Prague
-B Berlin
-C Madrid
-D London
-
-#Q On the Mama’s Family show, what April Fools trick did mama play on the others one year?
-^ She tricked them into cleaning up the yard.
-A She tricked them into cleaning up the yard.
-B She tricked them into taking her out for supper.
-C She made a bet with them that she knew they would lose.
-D She tricked them into getting everything set up for a yard sale.
-
-#Q Form which Inuyasha episode is the quote If you give me the jewel now, then I wont have to start sharpening my claws on you!?
-^ episode 1
-A episode 1
-B episode 2
-C episode 3
-D episode 5
-
-#Q What was Amanda doing the first time Kyle saw her in the TV series Kyle XY?
-^ Playing the piano.
-A Kissing her boyfriend.
-B Making cookies.
-C Playing the piano.
-D Reading a book.
-
-#Q When Dwight gets fired in season 3 of The Office, where does he end up working?
-^ Staples
-A Staples
-B Office Depot
-C The Paper People
-D Office Warehouse
-
-#Q Alf from the sitcom series has very few friends outside the Tanners. One of them is the boy that lives with Trevor and Raquel Ochmonek. This is their relation to him.
-^ He is their nephew.
-A He is their adopted son.
-B He is their nephew.
-C He is their son.
-D He is their grandchild.
-
-#Q In the Laurel and Hardy comedy short Brats there is a picture of this actress on the wall.
-^ Jean Harlow
-A Jean Harlow
-B Audrey Hepburn
-C Mae West
-D Queen Victoria
-
-#Q Which widowed TV mother travelled around in a colorful bus with her children Keith, Laurie, Danny, Christopher and Tracy?
-^ Shirley Partridge
-A Marian Cunningham
-B Shirley Partridge
-C Carol Brady
-D Mortica Addams
-
-#Q Which of these sitcoms revolves around the Bluths - a wealthy family on its way down?
-^ Arrested Development
-A Arrested Development
-B Back to You
-C Bakers Dozen
-D Full House
-
-#Q Why was Betty Suarez hired at Mode magazine as Daniel Meades assistant on the TV show Ugly Betty?
-^ Because she was unattractive
-A Because she was kind-hearted
-B Because she was unattractive
-C Because they liked her outfit
-D Because she was qualified
-
-#Q Who played the down-to-earth Janet Wood on the hilarious show Threes Company?
-^ Joyce DeWitt
-A Audra Lindley
-B Suzanne Somers
-C Pricilla Barnes
-D Joyce DeWitt
-
-#Q How many Emmys did Maude win during its run?
-^ 1
-A 2
-B 0
-C 1
-D 3
-
-#Q What statement is true about Alexis Meade from the TV comedy series Ugly Betty?
-^ She was born a man.
-A She has a tail.
-B She has three kidneys.
-C She was born a man.
-D She eats dog food.
-
-#Q What kind of magic does Fairy Tail character Erza Scarlet use?
-^ Re-quip
-A Break
-B Dark
-C Bend
-D Re-quip
-
-#Q What job does George have when he first appears on Seinfeld?
-^ Real estate salesman
-A Book editor
-B Real estate salesman
-C Car parking attendant
-D Assistant to the travelling secretary of the New York Yankees
-
-#Q This grey-haired man from the sitcom The Odd Couple was Oscar and Felixs friend, who used to come over and play cards with them.
-^ Speed
-A Billy
-B Pookie
-C Johnny
-D Speed
-
-#Q Which of these is the name of one of Colonel Blakes daughters in the series M*A*S*H?
-^ Molly
-A Molly
-B Anne
-C Catherine
-D Stephanie
-
-#Q Which one of these actors/actresses never appeared on The Muppet Show?
-^ John Travolta
-A Ruth Buzzi
-B Nancy Walker
-C Elton John
-D John Travolta
-
-#Q On the TV show The Wiggles, which character is always falling asleep?
-^ Jeff
-A Jeff
-B Greg
-C Murray
-D Anthony
-
-#Q Who is the dragon that Family Guy character Peter slays to free the village?
-^ Cybill Shepherd
-A Hilary Clinton
-B Dan Rather
-C Cybill Shepherd
-D George Bush
-
-#Q Which actor played George (Gramps) Miller on the Lassie show from 1954-57?
-^ George Cleveland
-A George Cleveland
-B George Burns
-C Jon Provost
-D George Chandler
-
-#Q On the long-running daytime TV drama The Young and the Restless, Brad has been married to all of the following women except which one?
-^ Nikki Newman
-A Nikki Newman
-B Victoria Newman
-C Ashley Abbot
-D Tracy Abbot
-
-#Q What was Angels vampire name on the television show Angel?
-^ Angelus
-A Angelo
-B Angelica
-C Angel One
-D Angelus
-
-#Q Which of these actors did not appear during the first eight seasons of the show Scrubs?
-^ Carl Weathers
-A Carl Weathers
-B Jimmy Walker
-C Ken Jenkins
-D Juliana Margulies
-
-#Q Why did Michael Scott and Holly break up on the TV show The Office?
-^ She was transferred to New Hampshire.
-A She went back to Toby.
-B He wanted children,she did not.
-C She was transferred to New Hampshire.
-D He went back to Jan because she promised him a promotion.
-
-#Q This fine medical drama ran from 1994 through 2000 and starred Hector Elizondo, Christine Lahti and Mark Harmon.
-^ Chicago Hope
-A Chicago Hope
-B Side Effects
-C City of Angels
-D Doc
-
-#Q What is the half dead fat guy eating in Patricks room at the end of the Family Guy episode titled The Fat Guy Strangler?
-^ a dead fat guy
-A a sheep
-B Brian
-C a dead fat guy
-D Patrick
-
-#Q What is the name of the principal of Darias school?
-^ Angela Li
-A Timothy Oneill
-B Angela Li
-C Anthony Demartino
-D Brittany Taylor
-
-#Q How are Hope Brady and Julie Williams related?
-^ Julie is Hopes sister and stepmother
-A Julie is Hopes stepmother.
-B Julie is Hopes sister and stepmother
-C Julie and Hope are cousins
-D Julie is Hopes sister.
-
-#Q Who created the multiple award winning series The West Wing?
-^ Aaron Sorkin
-A Tommy Schalamme
-B Robert M. Silverton
-C Carl Reiner
-D Aaron Sorkin
-
-#Q What statement regarding All in the Family character, Michael Stivic, is true?
-^ He was an atheist.
-A He was Protestant.
-B He was Jewish.
-C He was Catholic.
-D He was an atheist.
-
-#Q Lessons of Life is the translation of the title of a soap opera from which country?
-^ Malaysia
-A Malaysia
-B Pakistan
-C Indonesia
-D India
-
-#Q This M*A*S*H character can be seen wearing his real-life issued set of U.S. Army dog tags in the show.      
-^ Jamie Farr
-A Larry Linville
-B Jamie Farr
-C Harry Morgan
-D Alan Alda
-
-#Q The characters Richard Chance of the 1985 movie To Live and Die in L.A., and Gil Grissom of CBSs CSI: Crime Scene Investigation have something in common. What is it?
-^ William Petersen is the lead actor in both works
-A William Petersen is the lead actor in both works
-B They take place in the same city
-C Gil Grissom is an older version of Richard Chance
-D They are both about Federal Agents
-
-#Q Chuck Connors and Johnny Crawford starred together in which classic western TV-series?
-^ The Rifleman
-A Rawhide
-B Cheyenne
-C The Rifleman
-D Maverick
-
-#Q What did Jim do for Phyllis bachelorette party on the sitcom The Office?
-^ Hired a Ben Franklin impersonator
-A Hired a Ben Franklin impersonator
-B Hired a male stripper
-C Crashed the party
-D Ordered baby food instead of adult  food
-
-#Q Name the winner of Survivor: Marquesas, the fourth installment of the reality series Survivor.
-^ Vecepia Towery
-A Neleh Dennis
-B Hunter Ellis
-C Sarah Jones
-D Vecepia Towery
-
-#Q What was the name of the Partridges dog on the show The Partridge Family?
-^ Simone
-A Simone
-B Woodstock
-C Peace
-D Nina
-
-#Q Michael J. Fox is the star of which of these sitcoms?
-^ Spin City
-A Spin City
-B The Michael Fox Show
-C Going Places
-D The Game
-
-#Q What is the name of Ravens favorite boy band on the sitcom Thats So Raven?
-^ Boyz N Motion
-A Boyz II Men
-B Boyz in Commotion
-C Boyz out of Motion
-D Boyz N Motion
-
-#Q What was the name of Blossoms best friend on the comedy-drama series Blossom?
-^ Six
-A Sax
-B Nicole
-C Jenna
-D Six
-
-#Q What are the initials of the official name of the ghost hunting group on the sci-fi reality show, Ghost Hunters?
-^ TAPS
-A TAPS
-B GH
-C GHA
-D RIP
-
-#Q Captain Hook was after this character but was always outwitted by him.
-^ Peter Pan
-A Smee
-B Nana the dog
-C Peter Pan
-D Princess Tiger Lily
-
-#Q In what year did the Batman TV series first hit airwaves?
-^ 1966
-A 1966
-B 1968
-C 1970
-D 1964
-
-#Q How does Gus die in the Lonesome Dove series?
-^ He dies from blood poisoning from an untreated arrow wound.
-A He is scalped by Indians.
-B He is bitten by a poisonous snake.
-C He dies from blood poisoning from an untreated arrow wound.
-D He dies from a bullet wound.
-
-#Q One of the most shocking whacks in the entire Sopranos series was the death of Christopher Moltisante.  Although it wasnt a usual mafia-type death, who made sure that Christopher did not walk away for the car accident? 
-^ Tony
-A Tony
-B Paulie
-C Sil
-D Phil
-
-#Q On the hit television show The Munsters, this actress played the role of homemaker Lily Munster, who wore goth-style makeup.
-^ Yvonne De Carlo
-A Yvonne De Carlo
-B Hillary Van Dyke
-C Carolyn Jones
-D Roxie Roker
-
-#Q On the sitcom Taxi, cab driver Tony Banta had what other job?
-^ Boxer
-A Actor
-B Construction Worker
-C Ventriloquist
-D Boxer
-
-#Q What is the name of the Bed and Breakfast that Tori Spelling and Dean McDermott run on their show Tori and Dean: Inn Love?
-^ Chateau La Rue
-A La Rue Bed and Breakfast
-B Spelling Manor
-C Tori and Deans Place
-D Chateau La Rue
-
-#Q This comic and member of the Sinatra Rat Pack appeared on Rowan  Martins Laugh-In 3 times and guest hosted the Tonight Show 16 times. He was a regular guest on the Dean Martin Show and the Dean Martin Roasts.  He also appeared on Match Game 73.
-^ Joey Bishop
-A Sammy Davis Jr.
-B Joey Bishop
-C Jerry Lewis
-D Peter Lawford
-
-#Q This character from the TV series The Odd Couple was Oscar and Felixs friend, who worked for the New York City Police Department.
-^ Murray
-A Murray
-B Monte
-C Mike
-D Milton
-
-#Q Who makes Dutch Wagonbaugh cry in Season One of The Shield?
-^ A serial killer
-A Vic Mackey
-B Detective Claudette Wyms
-C Detective Shane Vendrell
-D A serial killer
-
-#Q The first episode of Will  Grace began with which of the following?
-^ a phone call
-A a reunion
-B a divorce
-C a phone call
-D a fight
-
-#Q In the TV series Lost in Space, which actress played John Robinsons wife, Maureen?
-^ June Lockhart
-A June Lockhart
-B Angela Cartwright
-C Marta Kristen
-D June Kirsten
-
-#Q Which of these is NOT one of the many middle names of Cheers character Carla Tortelli?
-^ Lucia
-A Apollonia
-B Lucia
-C Angelina
-D Teresa
-
-#Q What was the name of the clone trooper captain CC-7567, who served under Anakin Skywalker?
-^ Rex
-A Fox
-B Rex
-C Cody
-D Romio
-
-#Q What is the name of the hot girl in season one of the show The Office?
-^ Katy
-A Mary
-B Elizabeth
-C Rachel
-D Katy
-
-#Q In what year did the classic show Starsky  Hutch first hit the airwaves?
-^ 1975
-A 1975
-B 1978
-C 1973
-D 1976
-
-#Q Ooga-booga!
-^ Courage the Cowardly Dog
-A Powerpuff Girls
-B Courage the Cowardly Dog
-C Cow and Chicken
-D Cramp Twins
-
-#Q What is ALFs real first name on the popular sitcom?
-^ Gordon
-A Benny
-B Norman
-C Harold
-D Gordon
-
-#Q We have buried the putrid corpse of liberty was among the possible lines for Lorelai and Maxs wedding on the show Gilmore Girls. Who is this quote attributed to?
-^ Benito Mussolini
-A Adolf Hitler
-B Joseph Stalin
-C Fidel Castro
-D Benito Mussolini
-
-#Q When was actor Rainn Wilson born?
-^ 1966
-A 1980
-B 1966
-C 1976
-D 1970
-
-#Q Where did Bill Horton meet Doug Williams?
-^ Bill met Doug in prison, they were cellmates
-A Bill met Doug in prison, they were cellmates
-B Bill met Doug after he was married to his niece.
-C Bill and Doug were college roommates.
-D Bill met Doug after he was married to his sister.
-
-#Q Which of these does fictional character Al Bundy love the most?
-^ Beer
-A Beer
-B His job
-C His family
-D The French
-
-#Q According to the blue haired lawyer in the animated series The Simpsons, which notes are owned by Disney?   
-^ G natural and A flat
-A A natural and G flat
-B E natural and A flat
-C G natural and A flat
-D A natural and E flat
-
-#Q What year was Sallys debut in the comic strip Peanuts?
-^ 1959
-A 1959
-B 1976
-C 1998
-D 1898
-
-#Q In season five of Friends, where are the friends going, when Phoebe goes into labour with the triplets?     
-^ Atlantic City
-A Central Park
-B Vermont
-C Central Perk
-D Atlantic City
-
-#Q Sandy Cheeks, the popular character from the animated series SpongeBob SquarePants, is from what state?     
-^ Texas
-A Alaska
-B Florida
-C Texas
-D Georgia
-
-#Q Which of the characters from the British series The Office has a birthday in the third episode The Quiz?    
+#Q We know him as Michael, Philippe Ferronaire and Sanford Sandy Cohen from the TV screen.
+^ Peter Gallagher
+A Peter Gallagher
+B Forest Whitaker
+C Benjamin McKenzie
+D Ossie Davis
+
+#Q Which of these actors did not appear as a guest star on the TV show M*A*S*H?
+^ Donald Sutherland
+A Donald Sutherland
+B Leslie Nielsen
+C Pat Morita
+D John Ritter
+
+#Q In which episode of The Simpsons does Homer mention all his previous occupations?
+^ Poppas Got a Brand New Badge
+A I Am Furrious Yellow
+B Poppas Got a Brand New Badge
+C Diatribe of a Mad Housewife
+D Homer the Smithers
+
+#Q Which of the characters from the British series The Office has a birthday in the third episode The Quiz?     
 ^ Tim Canterbury
 A Neil Godwin
 B Gareth Keenan
 C Tim Canterbury
 D Chris Finch
 
-#Q Which former 60 Minutes reporter was ABC co-anchor with Barbara Walters?
-^ Harry Reasoner
-A Harry Reasoner
-B Don Hewitt
-C Mike Wallace
-D Morley Safer
+#Q What was the pilot episode of The Waltons called?
+^ The Homecoming: A Christmas Story
+A The Homecoming: A Christmas Story
+B Waltons Mountain
+C The Walton Family
+D Spencers Mountain
 
-#Q How many children did Henry and Muriel Rush have on the hit television show Too Close For Comfort?
-^ 3
-A 2
-B 4
-C 0
-D 3
+#Q Which was Pepe Le Pews first movie?
+^ Odor-able Kitty
+A Little Beau Pepe
+B For Scenta-mental Reasons
+C Carrotoblanca
+D Odor-able Kitty
 
-#Q What did Peter discover in his back yard in the Family Guy episode Petergiest?
-^ an Indian skull
-A a long lost Shakespeare sonnet book
-B a necklace
-C a bone Brian had buried
-D an Indian skull
+#Q In Highlander: The Series, the character of MacLeods friend Hugh Fitzcairn was played by what British rock star?
+^ Roger Daltry
+A Roger Daltry
+B Roland Gift
+C Marcus Testory
+D Martin Kemp
 
-#Q Who tried to get rid of Lady by blaming her for all the damage they had done in Lady and The Tramp?
-^ The Siamese Cats
-A Mungojelly and Rumpleteaser
-B The Tramps
-C The Siamese Cats
-D The Mouse king and his rats
+#Q From which University did Jack Lord graduate?
+^ NYU
+A NYU
+B BYU
+C USC
+D UCLA
 
-#Q Who is Ravens best friend on the show Thats So Raven?
-^ Chelsea
-A Bianca
-B Eddie
-C Chelsea
-D Stanley
-
-#Q What is the name of the hotel in the novel The Shining?
-^ The Overlook
-A The Oakwood
-B The Overlook
-C The Woodhaven
-D The Mountain Lodge
-
-#Q What is the name of the fictional Tree Hill basketball team?
-^ Ravens
-A None of these
-B Wildcats
-C Bulldogs
-D Ravens
-
-#Q What major U.S. city was fictional character Father Mulcahy from?
-^ Philadelphia
-A Philadelphia
-B Chicago
-C New York
-D Boston
-
-#Q What year did the Waltons go off the air?
-^ 1981
+#Q What year did the show Saturday Night Live first hit the airwaves?
+^ 1975
 A 1980
-B 1981
-C 1982
-D 1979
+B 1979
+C 1975
+D 1976
+
+#Q Which statement about actor Don Adams is true?
+^ He was the only member if his platoon to survive the battle on Guadalcanal.
+A He never served in the US Military.
+B He worked as a low level officer for the OSS.
+C He served on a minesweeper during WWII.
+D He was the only member if his platoon to survive the battle on Guadalcanal.
+
+#Q On the show The A-Team, four days after the Vietnam War ended, the boys knocked off the Bank of Hanoi and took how much money?
+^ 100,000,000  yen
+A 100,000  yen
+B 100,000,000  yen
+C 600,000  yen
+D 50,000  yen
+
+#Q This character, played by Grant Show, had a romance with Kelly in the TV series BH 90210. He later appeared on Melrose Place, which was a spin-off from Beverly Hills 90210.
+^ Jake
+A Jake
+B Matt
+C Mike
+D Randy
+
+#Q Kelly Garrett, a character on TV series Charlies Angels, portrayed by Jaclyn Smith, drove what kind of car?  
+^ Ford Mustang
+A Aston Martin
+B Ford Mustang
+C Volkswagen Beetle
+D Fiat Pinto
+
+#Q What was the family name of the fictional father and son detective team based in New York during the 1940s?  
+^ Queen
+A Queen
+B Duke
+C King
+D Prince
+
+#Q What character from the NBC television show Heroes has the power of rapid cellular regeneration?
+^ Claire Bennet
+A Isaac Mendez
+B Sylar
+C Claire Bennet
+D Hiro Nakamura
+
+#Q 2006 saw which consecutive Judge Judy season?
+^ 11th
+A 11th
+B 9th
+C 10th
+D 8th
+
+#Q This term was coined by MTV.
+^ VJ
+A DJ
+B Mp3
+C VJ
+D Video
+
+#Q On the show Ugly Betty, what is the name of the employee at Mode, who wants Bettys job?
+^ Amanda
+A Sofia
+B Gina
+C Amanda
+D Christina
+
+#Q This was the first prime time TV show to center on the lives of hospital nurses.
+^ The Nurses
+A Angels in the City
+B The Ladies in White
+C Temperature!
+D The Nurses
+
+#Q In the Combat! TV series, what was Saunders’ first name?
+^ Chip
+A Nick
+B Hammer
+C Sal
+D Chip
+
+#Q This unusual American family, with members such as Grandpa and Lily, first appeared on television in 1964.   
+^ The Munsters
+A The Horribles
+B The Frank-en-stiens
+C The Munsters
+D The Addams
+
+#Q In The King of Queens, what was Dougs favorite treat that his mother always made for him?
+^ Lemon squares
+A Drakes cakes
+B Brownies
+C Lemon squares
+D Cupcakes
+
+#Q Mel Blanc joined Leon Schlesinger Studios, a subsidiary of Warner Brothers Pictures, in what year?
+^ 1936
+A 1932
+B 1936
+C 1946
+D 1956
+
+#Q Which of the following powers does Monica Dawson have on the sci-fi show Heroes?
+^ Adoptive Muscle Memory
+A Technopath
+B Adoptive Muscle Memory
+C Super Strength
+D Super Speed
+
+#Q What does Jim dress up as for Halloween in season 2 of The Office?
+^ 3-Hole Punch
+A 3-Hole Punch
+B Sith Lord
+C Vampire
+D Dunder Mifflin Man
+
+#Q There were two old firemen in the series Leave It to Beaver that Beaver used to visit. What were their names?
+^ Gus and Charlie
+A Larry and Gus
+B Gus and Charlie
+C Gus and Joe
+D Gus and Bill
+
+#Q On the TV show The White Shadow, the Coach was cut from which NBA team?
+^ Chicago Bulls
+A New York Knicks
+B Chicago Bulls
+C It was never specified.
+D Los Angeles Clippers
 
 #Q Who was trying to eliminate Duchess in The Aristocats?
 ^ The Butler did it
@@ -978,772 +292,58 @@ B The Butler did it
 C Cruella de Vil
 D The Count de Monay
 
-#Q What year did the long-running television show The Love Boat end its original run on the airwaves?
-^ 1986
-A 1980
-B 1983
-C 1986
-D 1999
-
-#Q What Fairy Tail character often uses the word man?
-^ Elfman
-A Makarov
-B Loke
-C Elfman
-D Laxus Dreyar
-
-#Q Who played  Dr. Jason Seaver on the television show Growing Pains?
-^ Alan Thicke
-A Alan Funt
-B Alan Thicke
-C Ethan Allen
-D Allen Parsons
-
-#Q This actress, who starred in the 1941 movie Citizen Kane, played Samanthas mother Endora on the popular sitcom Bewitched.
-^ Agnes Moorehead
-A Elizabeth Taylor
-B Alice Ghostley
-C Frances Gumm
-D Agnes Moorehead
-
-#Q What item does Michael make for Maria as an apology in the series Roswell?
-^ napkin holder
-A shoe tree
-B napkin holder
-C necklace
-D car bumper
-
-#Q Who did Tracy Barlow claim was the father of her child on the British soap opera Coronation Street?
-^ Roy Cropper
-A Ken Barlow
-B Stan Ogdan
-C Price Charles
-D Roy Cropper
-
-#Q What year did the TV series The Love Boat  first hit the airwaves?
-^ 1977
-A 1980
-B 1983
-C 1972
-D 1977
-
-#Q What was the name of the cruise ship on the hit television show The Love Boat?
-^ The Pacific Princess
-A Zsa Zsas Princess
-B The Pacific Princess
-C Stubings Boat
-D Little Vicki
-
-#Q Which character from TV series Prison Break helped the group of escape-planning inmates by setting the guards break room on fire?
-^ Westmoreland
-A Sara
-B Seth
-C Westmoreland
-D C.O. Bellick
-
-#Q Lt. Tanaka is the islands police chief on Magnum, P.I.and sometimes helps out Magnum in his cases.  Who plays Lt. Tanaka?
-^ Kwan Hi Lim
-A Ja Ho Nim
-B Kwan Hi Lim
-C Xan Hum Chan
-D So Ching Lee
-
-#Q What show does South Park character Cartman hate?
-^ Family Guy
-A Queer Eye for the Straight Guy
-B Family Guy
-C None of these
-D The Simpsons
-
-#Q What caused Darryl to give up protecting the sisters in the TV series Charmed?
-^ He is almost executed for a murder he didn’t commit.
-A Nothing. He was loyal to the end.
-B He is almost executed for a murder he didn’t commit.
-C His wife was killed because he was too busy helping the sisters.
-D He was killed by a demon (and brought back by Leo).
-
-#Q What was the name of the diner at which Alice Hyatt worked in the 70s television show Alice?
-^ Mels Diner
-A Alices Tasty Treats
-B Mels Diner
-C The Red Wagon
-D Cactus Jacks
-
-#Q What is Maj. Charles E. Winchester doing at the beginning of his dream in the M*A*S*H episode Dreams?       
-^ performing a magic act
-A touring a vineyard
-B performing a magic act
-C watching an opera
-D giving a medical lecture
-
-#Q Who played Father McCabe, the founder of the hospital on the show St. Elsewhere?
-^ Ed Herrmann
-A Ed Begley
-B Ed Herrmann
-C Ed Flanders
-D William Daniels
-
-#Q Who played Lieutenant Colonel Custer?
-^ Wayne Maunder
-A Dale Robertson
-B Ronald Reagan
-C Wayne Maunder
-D John Wayne
-
-#Q What year did the famous television show Just Shoot Me leave the airwaves?
-^ 2003
-A 2003
-B 1999
-C 2005
-D 2001
-
-#Q In season one of the The Brady Bunch, Carol and Mike discovered that Greg had a crush on someone named Linda. Who is the mysterious Linda?
-^ Gregs math teacher
-A Marcias new friend from Seattle
-B Gregs math teacher
-C The head cheerleader at school
-D The hair-netted lunch lady in the cafeteria
-
-#Q In the popular TV series “Get Smart,” what was Siegfrieds exact position in the organization he was part of?
-^ Vice President of Public Relations and Terror
-A Admiral of All Land Operations
-B Fearless Leader
-C Chief Operating Terror Operator
-D Vice President of Public Relations and Terror
-
-#Q The fictional Minuteman Cafe, located next door to the inn, was originally owned by Kirk Devane, but later in the Newhart series it was owned by three brothers. What were their names?
-^ Larry, Darryl and Darryl
-A Alvin, Theodore and Simon
-B Huey, Luey and Dewy
-C Larry, Darryl and Darryl
-D Darryl, David and David
-
-#Q In what year did the TV show Maude come to an end?
-^ 1978
-A 1980
-B 1981
-C 1978
-D 1975
-
-#Q What is the name of Johnny Bravos geeky neighbor whom he likes to call dweeb?
-^ Carl Chryniszzswics
-A Master Hamma
-B Pops
-C Carl Chryniszzswics
-D Suzy
-
-#Q What year did the animated series SpongeBob SquarePants first air?
-^ 1999
-A 2003
-B 2005
-C 1999
-D 2000
-
-#Q In the episode of The Simpsons, titled The Seemingly Neverending Story, the Rich Texan gets his picture with whom?
-^ Jimbo
-A Nelson
-B Dolph
-C Kearney
-D Jimbo
-
-#Q What is the first name of Mr. Peterman, Elaine Benes boss on the show Seinfeld?
-^ Jacopo
-A Jay
-B John
-C J
-D Jacopo
-
-#Q Which of these movies wasnt spoofed on the Chappelles Show sketch series Real Movies?
-^ Titanic
-A The Matrix
-B Deep Impact
-C Pretty Woman
-D Titanic
-
-#Q In the famous Jeopardy episode of Cheers, which was not one of the categories chosen by Cliff Clavin?       
-^ Useless Trivia
-A Celibacy
-B Beer
-C Stamps From Around the World
-D Useless Trivia
-
-#Q What was the family name of the fictional father and son detective team based in New York during the 1940s? 
-^ Queen
-A Queen
-B Duke
-C King
-D Prince
-
-#Q I am a Greys Anatomy character. I am one of the more popular interns at Seattle Grace, because everyone seems to know me even if I dont know them. I live in a house with two of my fellow interns. Im in love with one of our surgical residents. My mother was a well known surgeon at Seattle Grace. I almost died. Who am I?
-^ Meredith
-A Izzie
-B Callie
-C Meredith
-D Cristina
-
-#Q Which of these actresses played Mary Ann Summers in Gilligans Island?
-^ Dawn Wells
-A Tina Louise
-B Dawn Wells
-C Jean Stapleton
-D Natalie Schafer
-
-#Q What was the first episode of the animated series Family Guy called?
-^ Death Has A Shadow
-A Death Has A Shadow
-B The Man with Two Brians
-C Y2K000
-D McStroke
-
-#Q I am a Greys Anatomy character. I am the least spoken of the group of interns here at Seattle Grace. I was secretly in love with one of my fellow interns for a long time. I was part of the Syphilis outbreak at the hospital. I used to live with two women. I once performed a life-saving surgery in an elevator. Who am I?
-^ George
-A Derek
-B Preston
-C George
-D Alex
-
-#Q Name the very popular writer of screenplays who said, There is no reason to confuse television news with journalism.
-^ Nora Ephron
-A Wolf Blitzer
-B Nora Ephron
-C Mike Taibbi
-D Cokie Roberts
-
-#Q Rick Schroder played the son. Erin Gray played the girlfriend. Alfonso Rubiero and Jason Bateman played  friends. Who played the father on Silver Spoons?
-^ Joel Higgins
-A Joel Higgins
-B Franklyn Seales
-C Frank Howard
-D Jed Housemann
-
-#Q What is Frank Burns middle name on the show M*A*S*H?
-^ Marion
-A Madison
-B Marion
-C Maurice
-D Marvin
-
-#Q What could the Senator not explain in the opening newscast on WKRP in Cincinnati?
-^ His nudity
-A Life, the Universe and everything
-B His Super Pac
-C His stand on anything
-D His nudity
-
-#Q The TV show Combat! depicted action that took place in which country (countries)?
-^ France only
-A France only
-B France and Germany
-C Italy and France
-D Italy, France and Germany
-
-#Q What year did the hit television show Bosom Buddies first hit the airwaves?
-^ 1980
-A 1977
-B 1981
-C 1980
-D 1982
-
-#Q What television network carried the show Bosom Buddies”?
-^ ABC
-A CBS
-B ABC
-C WOR
-D NBC
-
-#Q In what year did the animated series Yo Yogi first hit the airwaves?
-^ 1991
-A 1995
-B 1984
-C 1991
-D 1989
-
-#Q Which of the following movies did Jennifer Aniston not have a role in?
-^ Men in Black
-A The Good Girl
-B Men in Black
-C The Breakup
-D Office Space
-
-#Q What monument stands next to the Washington Monument in the episode of Futurama, entitled A Taste of Freedom?
-^ Clinton Monument
-A Roosevelt Monument
-B Reagan Monument
-C Clinton Monument
-D MacNeille Monument
-
-#Q Charlotte Rae left the show The Facts of Life after the 1986 season and was replaced by which veteran actress?
-^ Cloris Leachman
-A Stephanie Powers
-B Valerie Harper
-C Cloris Leachman
-D Linda Lavin
-
-#Q According to the blue haired lawyer in the animated series The Simpsons, which notes are owned by Disney?   
-^ G natural and A flat
-A A natural and G flat
-B E natural and A flat
-C G natural and A flat
-D A natural and E flat
-
-#Q What was the occupation of Blossoms father on the TV show Blossom?
-^ session musician
-A He was unemployed
-B stand-up comedian
-C session musician
-D actor
-
-#Q In which US city is the Charmed TV series set?
-^ San Francisco
-A Texas
-B Las Vegas
-C Washington DC
-D San Francisco
-
-#Q What did Jesse do on his wedding day, in season 4 of Full House?
-^ Jumpped out of a plane
-A Went paragliding
-B Ran away from the church and got on a plane for Africa
-C Ran away and went skiing
-D Jumpped out of a plane
-
-#Q Who portrayed Exidor, a UFO prophet and leader of the Invisible Friends of Venus on the Mork and Mindy show?
-^ Robert Donner
-A Howie Mandel
-B Carl Reiner
-C Don Knotts
-D Robert Donner
-
-#Q What is the name of the computer that assists Sam and Al on the TV show Quantum Leap.
-^ Ziggy
-A Whopper
-B Apple
-C Iggy
-D Ziggy
-
-#Q What prop is Alex Keaton from Family Ties most associated with?
-^ Political Science test books
-A Cigarettes
-B Bible
-C Political Science test books
-D Bicycle
-
-#Q In the pilot episode of Roseanne, Roseanne had to go to Darlenes school because the teacher complained that Darlene was doing what in class?
-^ Barking
-A Farting
-B Barking
-C Snoring
-D Burping
-
-#Q Magnum, P.I. character Rick has many connections to the criminal world in Hawaii. Who is the crime lord sometimes mentioned on the show?
-^ Icepick
-A Icecrack
-B Icepick
-C Icey
-D Iceman
-
-#Q How long was Pam engaged to Roy on The Office?
-^ 3 years
-A 3 years
-B 1 year
-C 8 years
-D They were never engaged.
-
-#Q Kirk Acevedo, who plays Agent Charlie Francis on Fringe, also appeared in which of these popular shows?     
-^ Law and Order: Trial by Jury
-A Law and Order: Trial by Jury
-B Lost
-C Greys Anatomy
-D Boston Legal
-
-#Q He starred in Disneys Old Yeller (1957) and played Lucas McCain in the classic television series The Rifleman.
-^ Chuck Conners
-A James Arness
-B Clint Eastwood
-C Chuck Conners
-D Lee Van Cleef
-
-#Q What was the title of the first episode of the TV show The Dukes of Hazzard?
-^ One Armed Bandits
-A Meet the Dukes
-B The Beginning of the General Lee
-C Those Good Ol Boys
-D One Armed Bandits
-
-#Q Randall Boggs was the villain in which of the following films?
-^ Monsters, Inc
-A The Incredibles
-B The Wild
-C Monsters, Inc
-D Shark Tale
-
-#Q On the TV show Sister, Sister, when the girls annoying neighbor, Roger, comes over uninvited, what phrase do various members of the family use?
-^ Go home, Roger!
-A Go home, Roger!
-B You dont have to go home, but you cannot stay here, Roger!
-C Get the heck outta here, Roger!
-D Who invited you, Roger?
-
-#Q What does Michael order at Hooters in season 2 of The Office?
-^ Chicken Breast, hold the Chicken
-A Chicken Breast, hold the Chicken
-B Milk
-C Ham and Cheese Sandwich
-D Chicken Wings
-
-#Q Who played the role of Henry Desmond/ Hildegarde on the sitcom Bosom Buddies?
-^ Peter Scolari
-A Peter Scolari
-B Tom Hanks
-C Larry Linville
-D James Remar
-
-#Q Chris Farley played which often misunderstood down and out character on SNL from 1993-1995?
-^ Matt Foley
-A John Foley
-B Tim Matthews
-C Matt Foley
-D Robert Meadows
-
-#Q What year did the popular television show Hill Street Blues first hit the airwaves?
-^ 1981
-A 1984
-B 1981
-C 1982
-D 1980
-
-#Q In the TV series Kyle XY, why is Josh reluctant to touch Andys breasts?
-^ Because its their last day together
-A Because she has cancer
-B Because hes a good boy
-C Because hes angry with her
-D Because its their last day together
-
-#Q What is the name of Archies dysfunctional family in All in the Family?
-^ Bunker
-A Smith
-B Bunker
-C Nelson
-D Tate
-
-#Q The episode His Story in season 2 of Scrubs, is narrated from the viewpoint of which character?
-^ Dr. Cox
-A Turk
-B Janitor
-C Dr. Cox
-D Dr. Kelso
-
-#Q Where do The Simpsons live on the popular show of the same name?
-^ Springfield
-A Shelbyville
-B Springfield
-C Springfield, Illinois
-D none of these
-
-#Q In the Hindu religion, emptiness is important because nothing has a permanent, eternal identity, since everything  flows. What do Hindus call this idea of emptiness or voidness?
-^ sunyata
-A suyiapptah
-B senniagara
-C sunyata
-D suriyatta
-
-#Q In this 1964 movie, Mr. Eckland finds himself on an island during WW II. Soon he is joined by a school teacher and several of her students.
-^ Father Goose
-A Father Goose
-B Ghost Dad
-C Father of the Bride
-D American Dad
-
-#Q What was South Parks very first episode?
-^ Cartman Gets an Anal Probe
-A Weight Gain 4000
-B Cartman Gets an Anal Probe
-C South Park
-D Pinkeye
-
-#Q Who was Tess living with when she first met the gang in the TV series Roswell High?
-^ Nasedo
-A Nathan
-B Nelly
-C Noddy
-D Nasedo
-
-#Q Which actor played the part of Mrs. Margie Philbert, the foxy senior citizen in Dear John?
-^ Billie Bird
-A Jane Carr
-B Marietta DePrima
-C Wendy Talbot
-D Billie Bird
-
-#Q What is Corporal OReillys home state according to the M*A*S*H series?
-^ Iowa
-A Kansas
-B Minnesota
-C Indiana
-D Iowa
-
-#Q What late 1980s-early 1990s sitcom did Walter Cronkite appear on?
-^ Murphy Brown
-A The Office
-B Seinfield
-C Murphy Brown
-D Cheers
-
-#Q What is the name of the enchanted book in the series Charmed which contains spells, potions, and information on enemies?
-^ The Book of Shadows
-A The Demonic Files
-B The Chronicles of Fate
-C The Book of Darkness
-D The Book of Shadows
-
-#Q What store does Alton Brown visit regularly on his show to shop for kitchen utensils and small appliances?  
-^ Bed, Bath and Beyond
-A Bed, Bath and Beyond
-B Linens and Things
-C LL Bean
-D Walmart
-
-#Q This newscaster would interrupt his co-anchor and say Jane, you ignorant slut.
-^ Dan Aykroyd
-A Chevy Chase
-B John Belushi
-C Bill Murray
-D Dan Aykroyd
-
-#Q What is the name of Ross and Monicas family newsletter on the TV show Friends?
-^ The Geller Yeller
-A The Geller Yell
-B The Geller Express
-C The Geller Yeller
-D None of these
-
-#Q In Star Trek: Voyager, what name does Voyagers Emergency Medical Hologram take for himself when he is called into full-time service as the ships Chief Medical Officer?
-^ He does not take a name
-A He does not take a name
-B Albert Schweitzer
-C Harry Kim
-D Leonard McCoy
-
-#Q On this show Eddie Stratton plays a divorced dad who owns a toy company. He takes his son out of military school to come live with him.
-^ Silver Spoons
-A Eddie and the Kid
-B Me and Maxx
-C Silver Spoons
-D Star of the Family
-
-#Q On the show Eight is Enough, Susan married  a professional baseball player named Merle The Pearl  Stockwell, who played for what team?
-^ New York Mets
-A California Angels
-B New York Mets
-C San Diego Padres
-D Los Angeles Dodgers
-
-#Q What year did One Life to Live premiere?
-^ 1968
-A 1968
-B 1960
-C 1970
-D 1966
-
-#Q Who was the emcee of the show The Hollywood Squares?
-^ Peter Marshall
-A Peter Marshall
-B Paul Lynde
-C Tommy Noonan
-D Rose Marie
-
-#Q What is the name of the girls whitelighter whom Piper marries in Season 3 of the TV show Charmed?
-^ Leo Wyatt
-A Cole Turner
-B Leo Wyatt
-C Piper never got married
-D Darryl the Policeman
-
-#Q In one of the episodes of the X-Men, Morph calls the X-Men to his show, so he can talk to them. What is the name of the?
-^ Dr. Jekyll and Mr. Hyde
-A Cats
-B Dr. Jekyll and Mr. Hyde
-C Grease
-D Phantom of the Opera
-
-#Q What was the nickname of  Carol Bradys old football playing boyfriend in The Brady Bunch who ends up betting against his own alma mater?
-^ Tank
-A Bronco
-B Tank
-C Ram
-D Rhino
-
-#Q Who was Homers boss when he moved to Cypress Creek?
-^ Hank Scorpio
-A Hank Scorpion
-B The Scorpion
-C Hank Scorpio
-D Scorpio
-
-#Q In the M*A*S*H episode Dreams, Hawkeye Pierce has a classic dream of failing a test and of course, the test is medical in nature. What happens each time Hawkeye does not know an answer to a question?
-^ He loses a limb.
-A A patient dies.
-B He loses a limb.
-C The instructor raps him on the knuckles.
-D Hes demoted in rank.
-
-#Q Who played Buddy Sorrell in the pilot episode of The Dick Van Dyke Show?
-^ Morty Gunty
-A Don Knotts
-B Morty Gunty
-C Dick Martin
-D Paul Lynde
-
-#Q Whose parents lost their fortune for non-payment of income taxes on the TV show Angel?
-^ Cordelia
-A Conner
-B Loren
-C Cordelia
-D Fred
-
-#Q Spritle and his pet chimp, Chim Chim often got into trouble in this cartoon series.
-^ Speed Racer
-A The Saint
-B The Tick
-C Speed Racer
-D Speed Bump
-
-#Q I.M. Weasel is a genius and a hero, who was created by his not-so-clever counterpart, I.R. What type of animal is I.R.?
-^ Baboon
-A Baboon
-B Dog
-C Otter
-D Horse
-
-#Q Do, or do not. There is no try was a mystical phrase used in which classic film?
-^ Star Wars V: The Empire Strikes Back
-A Star Wars V: The Empire Strikes Back
-B Close Encounters of The Third Kind
-C Logans Run
-D Aliens
-
-#Q What was Sams girlfriends name in the Supernatural TV series?
-^ Jessica
-A Becka
-B Alyson
-C Jessica
-D Mary
-
-#Q Which of the following Friends episodes is not from Season 1?
-^ The One With Rachels Crush
-A The One With Rachels Crush
-B The One with the Birth
-C The One With All the Poker
-D The One With the Blackout
-
-#Q When did the hit sitcom Get Smart,” in which Don Adams starred, air on the CBS network?
-^ From September 1969 to September 1970
-A From September 1969 to September 1970
-B From September 1968 to May 1971
-C From September 1970 to September 1972
-D From September 1967 to May 1970
-
-#Q What is the name of the band, in which the character David Brent from the sitcom The Office performed?      
-^ Foregone Conclusion
-A Foregone Conclusion
-B Rocking Beats
-C Paper Route
-D The Bosses
-
-#Q What was the name of Major Nelsons best friend on the hit television show I Dream Of Jeannie?
-^ Major Roger Healey
-A Major Tom Wilcox
-B Captain Williams
-C Major Roger Healey
-D Major Tom
-
-#Q Why does Kyle from the series Kyle XY not have a belly button?
-^ Because he was not nourished by a placenta
-A Because he was not nourished by a placenta
-B Because it was removed
-C Because he isnt human
-D Because the placenta was attached elsewhere
-
-#Q Stewie, a character from the series Family Guy, breaks off what part of the body of the family dogs mom?    
-^ Her tail
-A Her ear
-B Her tail
-C Her leg
-D Her head
-
-#Q In the M*A*S*H episode Abyssinia, Henry, when Henry has said all of his goodbyes, what does Hawkeye whisper to him?
-^ that Henry should kiss Margaret
-A that Henry should salute Radar
-B that Henry should kiss Margaret
-C that hell miss Henry
-D that Henry should hit Frank
-
-#Q On the show Leave It to Beaver, the boys favorite aunt lived about an hour away from the Cleavers. What was her name?
-^ Aunt Martha
-A Aunt Gladys
-B Aunt Mary
-C Aunt Edna
-D Aunt Martha
-
-#Q We know him as Eddie Connors, Peter Burke and Scott Grainger from the TV screen.
-^ Peter Barton
-A Peter Barton
-B Ronn Moss
-C John McCook
-D Jack Wagner
-
-#Q In the animation series Avatar: The Last Airbender, what is Aangs primary element?
-^ Air
-A Water
-B Air
-C Earth
-D Fire
-
-#Q What is Miley Cyrus real first name?
-^ Destiny
-A Destiny
-B Lindsey
-C Carrie
-D Jordin
-
-#Q In an episode of The Brady Bunch, Greg appears to be sick.  Alice discovers a love note he wrote to a mysterious girl named Linda.  Mike and Carol attempt to resolve the problem by trying to find out who Linda is.  Linda is actually Gregs math teacher.  She has a famous boyfriend who is a major league baseball player.  Who is the famous guest star in this episode?
-^ Wes Parker
-A Tony Cacciolo
-B Don Drysdale
-C Tom Seaver
-D Wes Parker
-
-#Q What is the name of ex-secret agent MacGyvers son in the series MacGyver?
-^ Sam
-A Sam
-B Joe
-C Mark
-D Luke
-
-#Q This sitcom, which ran from 1982 to 1993, was almost canceled during its first season because it received the lowest program ratings.
-^ Cheers
-A Cheers
-B Captain Nice
-C Car 54, Where Are You?
-D Bustin Loose
-
-#Q In Beverly Hills, 90210, what was the name of the television show that Steves mom Samantha Sanders starred in?
-^ The Hartley House
-A The Hamptons
-B The Hortons
-C The Hansons House
-D The Hartley House
-
-#Q The sitcom, All in the Family is based on what British TV series?
-^ Till Death Do Us Part
-A Honey I Love You
-B Archibald And Edith
-C Till Death Do Us Part
-D The British Are Coming
-
-#Q What is Valleys mascot in the Saved by the Bell series?
-^ Bulldog
-A Bear
-B Bulldog
-C Lion
-D Mastiff
+#Q Which Friend always exchanges every present given to him/her for store credit in TOW Chandler in a Box from Season 4?
+^ Rachel
+A Monica
+B Rachel
+C Ross
+D Phoebe
+
+#Q What facial feature was missing from the demon Buffy killed in the third season of the series in order to gain the ability to read others minds?
+^ mouth
+A ears
+B eyes
+C mouth
+D nose
+
+#Q On the TV show Will  Grace, Jack came out to his mom on which holiday?
+^ Thanksgiving
+A Christmas
+B Halloween
+C Easter
+D Thanksgiving
+
+#Q From 1961 to 1966 Vince Edwards starred in what medical drama?
+^ Ben Casey
+A St. Elswhere
+B Dr. Kildare
+C Ben Casey
+D Eight is Enough
+
+#Q Actor MacLean Stevenson is the common bond between which two shows?
+^ MASH/Hello Larry
+A The Odd Couple/MASH
+B MASH/Hello Larry
+C MASH/After MASH
+D Hello Larry/The Odd Couple
+
+#Q Before starring on The Surreal Life, Ryan Starr appeared on what other reality show?
+^ American Idol
+A Days Of Our Lives
+B Road Rules
+C Jeopardy
+D American Idol
+
+#Q What was Carries fathers name on The King of Queens?
+^ Arthur
+A Alvin
+B Arthur
+C Edward
+D Angus
+
+#Q What was the name of Darrin Stephenss boss on Bewitched?
+^ Larry Tate
+A Larry Strait
+B Larry Tate
+C Larry Anderson
+D Larry Mac Quade

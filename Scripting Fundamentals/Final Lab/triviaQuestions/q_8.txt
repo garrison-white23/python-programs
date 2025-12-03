@@ -1,1675 +1,65 @@
-#Q Which cat is the advertising mascot for the 9Lives cat food?
-^ Morris
-A Garfield
-B Odie
-C Mermal
-D Morris
-
-#Q This woman, who was the second wife and queen consort of Henry VIII, is said to have become a headless ghost after her death.
-^ Anne Boleyn
-A Mary Magdeline
-B Anne Boleyn
-C Mary Cox
-D Anne Cox
-
-#Q Which part of the world is commonly described as Far East?
-^ East and Southeast Asia
-A All Asia
-B East and Southeast Asia
-C Oceania
-D East Siberia
-
-#Q Which of these events came first?
-^ The completion of he first standardized Italian dictionary
-A The completion of he first standardized French dictionary
-B The completion of the first standard English dictionary
-C The completion of he first standardized Italian dictionary
-D The first use of the word scientist
-
-#Q Who or what is Vinson Massif?
-^ The tallest mountain in Antarctica
-A Sanitations third cousin, twice removed
-B The third king of Sweden
-C The tallest mountain in Antarctica
-D a muscle in the human body
-
-#Q Which of these islands is the largest island in the Mediterranean Sea?
-^ Sicily
-A Malta
-B Corfu
-C Cyprus
-D Sicily
-
-#Q If you were a baker, what would you be called in Spanish?
-^ panadero
-A panadero
-B marinero
-C carpintero
-D cerrajero
-
-#Q If the world were a village of 100 people, how many would be white?
-^ 18
-A 18
-B 37
-C 32
-D 25
-
-#Q Where was the first iron bridge built?
-^ Coalbrookdale, England
-A Milton, Massachusetts
-B Paris, France
-C Coalbrookdale, England
-D Brussels, Belgium
-
-#Q Which one of these inventions hit the market in 1982?
-^ The compact disk
-A The flying auto
-B The  TV remote control
-C The wireless bra
-D The compact disk
-
-#Q This American car make was founded in 1911, and was purchased by General Motors in 1917.
-^ Chevrolet
-A Hummer
-B Ford
-C Chevrolet
-D Cadillac
-
-#Q The fastest time to eat this number of mince pies is 1 min : 52.67 seconds.
-^ 3
-A 3
-B 13
-C 21
-D 5
-
-#Q Carlton Magee invented this often-hated device.
-^ The parking meter
-A The police siren
-B The parking meter
-C The income tax short form
-D The traffic light
-
-#Q When was the Euro currency first launched?
-^ January 1999
-A January 1990
-B January 1985
-C January 1994
-D January 1999
-
-#Q Name the first NFL team to win the Super Bowl indoors.
-^ Dallas
-A Dallas
-B Tampa Bay
-C Miami
-D Pittsburgh
-
-#Q The Magna Carta went into effect in 1215.  Who signed it?
-^ nobody
-A Eleanor of Aquitaine
-B King John aka John Lackland
-C nobody
-D King Richard the Lion Hearted
-
-#Q What invention is credited to American Melville R. Bissell?
-^ The carpet sweeper
-A Indoor carpeting
-B The integrated circuit
-C The carpet sweeper
-D The vacuum cleaner
-
-#Q The Meryas were a probably Finno-Ugric tribe who lived in the region of modern Russia. This is the first historian to mention them.
-^ Jordanes
-A Eusebius of Caesarea
-B Jordanes
-C Priscus
-D Sima Guang
-
-#Q What happens to the Little Mermaid at the end of Hans Christian Andersens fairy tale The Little Mermaid?
-^ Her body turns into foam.
-A She returns to the underwater world and marries a merman.
-B Her body turns into foam.
-C She dies and is damned for eternity.
-D She marries the prince and they live happily ever after.
-
-#Q Youve been working on a job for quite a while and achieved a lot. But now fatigue has set in and you find that despite your best efforts, youre no longer getting the same high level of results. This effect is neatly expressed in which law?
-^ The law of diminishing returns
-A The law of diminishing returns
-B The law of deteriorating returns
-C The law of falling returns
-D The law of declining returns
-
-#Q This island was originally called Van Diemens Land in honor of Anthony van Diemen.
-^ Tasmania
-A Australia
-B Indonesia
-C Tasmania
-D New Zealand
-
-#Q What year did the bra first appear?
-^ 2000 BC
-A 4000 BC
-B 2000 BC
-C 1000 BC
-D 3000 BC
-
-#Q What is the meaning of dyspepsia?
-^ A recurrent  pain, hardness or ache in the upper abdomen
-A Near-sightedness
-B A disease that is characterized by difficulty in reading
-C A recurrent  pain, hardness or ache in the upper abdomen
-D A religious calendar used by several non-Western groups
-
-#Q D-Day refers to one of the biggest military operations in history that took place on June 6, 1944. What was the pass word used by the Allied Forces on that day?
-^ Mickey Mouse
-A Mickey Mouse
-B Overlord
-C Sceptre
-D Ike
-
-#Q Who was the first vice president from the Republican Party?
-^ Hannibal Hamlin
-A Thomas Jefferson
-B John Tyler
-C Hannibal Hamlin
-D John Adams
-
-#Q The terms ahimsa and satyagraha  are generally associated with whom?
-^ Mahatma Gandhi
-A Mahatma Gandhi
-B Angelina Jolie
-C Buddha
-D Indira Gandhi
-
-#Q Having in mind the mysterious background of Black Friday, it is quite natural that the TV series Friday the 13th were so popular. The main character, Jason, is one of the biggest celebrities in the world of horror movies. What is Jasons family name?
-^ Vorhees
-A Hardy
-B Vorhees
-C Christy
-D Burrell
-
-#Q In Thailand, pink is associated with what day of the week?
-^ Tuesday
-A Wednesday
-B Tuesday
-C Saturday
-D Friday
-
-#Q What is the name of a famous guarding monster in Greek Mythology?
-^ Cerberus
-A Cerberus
-B Golem
-C Hyde
-D Dagon
-
-#Q Which of these is a real event  in the history of the pencil?
-^ The discovery of graphite in Seathwaite, Burrowdale, England
-A The discovery of rubber in Malaysia in 1823
-B The discovery of lead in what is now Turkey, ca. 573 A.D.
-C The discovery that cedar wood has three times the tensile strength of any other wood
-D The discovery of graphite in Seathwaite, Burrowdale, England
-
-#Q How many engines does a B-52 Bomber have?
-^ 8
-A 2
-B 8
-C 4
-D 6
-
-#Q Which novel by Scottish writer Robert Louis Stevenson is set during the War of the Roses?
-^ The Black Arrow
-A The Master of Ballantrae
-B The Black Arrow
-C Strange Case of Dr Jekyll and Mr Hyde
-D Treasure Island
-
-#Q What was the name of the US Army Air Force B-29 bomber, that dropped the atomic bomb on Nagasaki, Japan on August 9, 1945?
-^ Bocks Car
-A Enola Gay
-B Bocks Car
-C General Belgrano
-D Memphis Belle
-
-#Q Which team won the second World Series between the National League and the American League?
-^ New York Giants
-A Pittsburgh Pirates
-B New York Giants
-C Providence Grays
-D New York Metropolitans
-
-#Q Which verb is defined as âto put forward a suitable person to incur the mudgobbling and deadcatting of the oppositionâ in Ambrose Bierceâs satirical book The Devils Dictionary
-^ Nominate
-A Nominate
-B Fire
-C Promote
-D Recommend
-
-#Q Which of these women was nicknamed The Iron Lady?
-^ Margaret Thatcher
-A Margaret Thatcher
-B Indira Gandhi
-C Imelda Marcos
-D Mother Teresa
-
-#Q The turquoise and poinsettia are symbols of this winter month.
-^ December
-A January
-B February
-C All of these
-D December
-
-#Q Who was the first  guest on The Tonight Show  when Johnny Carson was the host?
-^ Groucho Marx
-A Bette Midler
-B Bob Hope
-C Groucho Marx
-D Steve Allen
-
-#Q What would you be eating if you were served Angels on Horseback?
-^ Oysters wrapped in bacon
-A Prunes wrapped in bacon
-B Clams wrapped in ham
-C Oysters wrapped in bacon
-D Shrimp wrapped in chicken
-
-#Q What poet noted for his realistic depictions of rural life received four Pulitzer Prizes?
-^ Robert Frost
-A Robert Kelly
-B Robert Frost
-C Robert Browning
-D Robert L. Hass
-
-#Q What crime was the famous Casanova imprisoned for in 1755?
-^ Witchcraft
-A Theft
-B Witchcraft
-C Fraud
-D Adultory
-
-#Q What was the first American city to fluoridate its water system?
-^ Grand Rapids, Michigan
-A Grand Rapids, Michigan
-B San Miguel, California
-C Yonkers, New York
-D Colorado Springs, Colorado
-
-#Q What is Darlene Iskra famous for?
-^ She was the first woman to command a US Navy ship during a war.
-A She was the first female architect to design a skyscraper.
-B She was the first female winner of the Pulitzer Prize in Feature Writing
-C She was the first woman to command a US Navy ship during a war.
-D She was the first US female to demand the right to vote.
-
-#Q Under  which US President were the Barbary Wars fought?
-^ Thomas Jefferson
-A James K. Polk
-B Thomas Jefferson
-C William McKinley
-D Teddy Roosevelt
-
-#Q A shade of what color is the color called jazzberry jam?
-^ Red-violet
-A Mint green
-B Golden brown
-C Fuchsia
-D Red-violet
-
-#Q At wedding ceremonies in Iran, this object is placed between two candelabras on a spread, to represent  the brightly future of the couple.
-^ Mirror
-A Silver plate
-B Mirror
-C Lamp
-D Diamond ring
-
-#Q What is another name for Ursa Major?
-^ The Great Bear
-A The Great Bear
-B The Great Tiger
-C The Great Lion
-D The Great Boar
-
-#Q This modern-day European country, once ruled by Khan Asparuh, was acknowledged by the Byzantine Empire in 681.
-^ Republic of Bulgaria
-A Republic of Macedonia
-B Republic of Bulgaria
-C Republic of Romania
-D Czech Republic
-
-#Q Moe Berg was a professional baseball player, a catcher. Which one of these statements about him is correct?
-^ He was an international spy.
-A He  was the only catcher to catch three no hitters.
-B He was the last out in Don Larsens perfect game.
-C He was an international spy.
-D He was on base when Ruth hit home run number 60.
-
-#Q On TV, what was the name of Sergeant Prestons horse?
-^ Rex
-A Videl
-B Rex
-C Max
-D Hopper
-
-#Q What record label was established in 1978 and included New Order, The Durutti Column and Happy Mondays in its stable?
-^ Factory Records
-A Fall records
-B Fire Records
-C Factory Records
-D Fiction records
-
-#Q How many keys are on a piano?
-^ 88
-A 56
-B 80
-C 98
-D 88
-
-#Q What is true about President Bill Clintons official portrait?
-^ It is the first official Presidential portrait painted by an African-American.
-A He is portrayed as being right-handed instead of left-handed.
-B It is the first official Presidential portrait painted by an African-American.
-C It is the first official Presidential portrait  not painted by an American citizen.
-D It is the first official Presidential portrait that had to be redone because of mistakes.
-
-#Q What is the first name of Dr. Greene from the popular television series ER, played by actor Anthony Edwards?
-^ Mark
-A Peter
-B John
-C Richard
-D Mark
-
-#Q What is the name of the historic attack on Normandy on June 6, 1944, which was part of World War II military operations of the Allied Powers against Nazi Germany?
-^ Operation Neptune
-A Operation Overlord
-B Operation  Belgrani
-C Operation Barbarosa
-D Operation Neptune
-
-#Q Who is the first performer/band to have at least 36 Billboard Top Ten albums?
-^ The Rolling Stones
-A The Beatles
-B Elvis Presley
-C The Rolling Stones
-D Frank Sinatra
-
-#Q Scientists have proved that one of the health dangers, which ingesting sugar on a habitual basis involves, is the suppression of the activity of which system of the human body?
-^ Immune system
-A Sensory system
-B Immune system
-C Reproductive system
-D Cardiovascular system
-
-#Q Who is the first singer to have two singles that sold over 30 million copies worldwide?
-^ Bing Crosby
-A Bruce Springsteen
-B Yanni
-C Elton John
-D Bing Crosby
-
-#Q What magazine selects The Person of the Year?
-^ Time
-A Newsweek
-B Sports Illustrated
-C Time
-D Rolling Stones
-
-#Q Three of the listed singers are baritones. Who is the odd one?
-^ Roberto Alagna
-A Elvis Presley
-B Roberto Alagna
-C Robert Goulet
-D Frank Sinatra
-
-#Q Purple Haze is a song by what famous musician?
-^ Jimi Hendrix
-A John Lennon
-B Jim Morrison
-C Janis Joplin
-D Jimi Hendrix
-
-#Q The two female cats that share Joe Greys talents at sleuthing are Dulce and this cat.
-^ Kit
-A Lovelylace
-B Kit
-C Kaboodle
-D Amelia
-
-#Q Otto Lilienthal, the first person to make repeated successful gliding flights, died after an airplane accident on 10 August 1896. What were the last words he uttered moments before he passed away?        
-^ Sacrifices must be made
-A Sacrifices must be made
-B I am not dying in vain, I am dying in the name of progress
-C It was all worth it
-D I gave all I had
-
-#Q What was invented by Levi Spear Parmly?
-^ Dental floss
-A The jet engine
-B Dental floss
-C Blue Ray discs
-D The QWERTYU keyboard
-
-#Q In what 1960s ABC series do the characters attack, harass and wreak havoc on Field Marshal Rommels vaunted Afrika Korps?
-^ The Rat Patrol
-A The Rat Patrol
-B The Mod Squad
-C Gunsmoke
-D M.A.S.H
-
-#Q Which of the Bronte sisters wrote only one novel, which was published under the pseudonym Ellis Bell?
-^ Emily
-A Charlotte and Emily
-B Charlotte
-C Anne
-D Emily
-
-#Q Which of the three classical types of columns has its capital ornately decorated to look like acanthus leaves?
-^ Corinthian
-A Ionic
-B Tonic
-C Corinthian
-D Doric
-
-#Q Which of these is characteristic of Rabbit, a fictional character in the series Winnie the Pooh?
-^ Busy and responsible
-A Bouncing and confident
-B Gloomy and pessimistic
-C Ashamed of being small
-D Busy and responsible
-
-#Q According to urban legends that spread in 1997, people in this country began pumping air from a bicycle pump into their rectum resulting in their explosion.
-^ Thailand
-A The United States
-B Poland
-C Thailand
-D South Africa
-
-#Q Henry Wheeler Shaw is responsible for this eponym.
-^ josh
-A josh
-B trouser
-C scrimshaw
-D tuxedo
-
-#Q This bloody battle, a turning point in World War II, was won by the Soviets in 1943.
-^ Battle of Stalingrad
-A Battle of Leningrad
-B Battle of Stalingrad
-C Battle of Moscow
-D Battle of Kiev
-
-#Q What was Freddie Mercurys real name?
-^ Farroukh Bulsara
-A Frederick Von Messner
-B Farroukh Bulsara
-C Fernando Mercurio
-D Fredricio de la Massino
-
-#Q What did  Wilhelm Schickard invent?
-^ the first automatic calculator
-A the first automatic calculator
-B the pneumatic drill
-C celluloid
-D the integrated circuit
-
-#Q Rhode Island, the smallest US State, also has the shortest state motto. What is this one-word motto?
-^ Hope
-A Union
-B Freedom
-C Courage
-D Hope
-
-#Q What is lethologica?
-^ A psychological disease first identified as a serious condition by Carl Jung
-A Any  word used incorrectly in a sentence.
-B A physical disease in which the patient does not have enough energy to speak
-C A psychological disease first identified as a serious condition by Carl Jung
-D A religious practice involving saying certain Biblical names to counter a sin.
-
-#Q Over the years we have become accustomed to hearing the train whistle. Who invented the train whistle?
-^ George Washington Whistler
-A Thomas Jefferson
-B Edward Land
-C Thomas Alva Edison
-D George Washington Whistler
-
-#Q He won the 2000 Nobel Peace Prize for his work promoting peace and democracy.
-^ Kim Dae Jung
-A Kim Dae Jung
-B Jo El Karl
-C Leon Jouhaux
-D James Jarrod
-
-#Q Which famous hoax of the early twentieth century fooled many including Sir Arthur Conan Doyle?
-^ The Cottingley Fairies.
-A Will-o-the-Wisp
-B The Amherst haunting.
-C The Cottingley Fairies.
-D The Cock Lane ghost.
-
-#Q This Shakespearean play is referred to as The Scottish Play or The Scottish King by most actors and theater people since it is considered bad luck to mention the name of the play.
-^ Macbeth
-A King Lear
-B Othello
-C Macbeth
-D Hamlet
-
-#Q What does the term baseball diamond denote?
-^ Baseball field
-A An award
-B A female baseball player
-C Baseball field
-D A title given to the greatest baseball players
-
-#Q Shortly after WWII, the Centers for Disease Control and Prevention was founded in this city that hosted the 1939 premiere of Gone With the Wind.
-^ Atlanta, GA
-A Atlanta, GA
-B Nashville, TN
-C Birmingham, AL
-D Raleigh, NC
-
-#Q I sat back down on my bed and looked around my room. This triggered my autophobia. What was I afraid of?
-^ Being alone
-A Being late for work
-B Being alone
-C Dust
-D An unmade bed
-
-#Q Normal saline solution contains this percentage of salt (NaCl)?
-^ 0.9%
-A 0.9%
-B 9%
-C 4.5%
-D 1.3%
-
-#Q Which is the correct definition for oxter?
-^ the armpit
-A the armpit
-B having much snow
-C walrus ivory
-D to polish
-
-#Q Gollum was a marvel of computer graphics in The Lord of the Rings. What actor gave Gollum his movements?
-^ Andy Serkis
-A Andy Serkis
-B Eddie Deezen
-C Fat Joe
-D Savion Glover
-
-#Q What is known as the fear of electricity?
-^ Electrophobia
-A Eleutherophobia
-B Electrophobia
-C Emetophobia
-D Enetophobia
-
-#Q Lightning Mcqueen was the protagonist of what movie?
-^ Cars
-A BAR
-B Cars
-C Mcqueen Tales
-D DDA
-
-#Q The Hundred Years War -- a series of related conflicts between France and England, started in 1337 and lasted how many years?
-^ 116
-A 100
-B 115
-C 117
-D 116
-
-#Q What number does the Roman Numeral L represent?
-^ 50
-A 5
-B 5000
-C 50
-D 500
-
-#Q Who was the Greek god of wine?
-^ Dionysus
-A Hermes
-B Hephaestus
-C Dionysus
-D Zeus
-
-#Q I decided to return home, but when I walked in the front door there was a party in progress and my choreophobia caused me to panic yet again. What was I afraid of?
-^ Dancing
-A Balloons
-B Loud music
-C Dancing
-D Crowds
-
-#Q What does the e.e. in the name, e.e. cummings stand for?
-^ Edward Estlin
-A Edward Estlin
-B Edar Eastwood
-C Edward Elgar
-D Edgar Edward
-
-#Q In what year did the last veteran of the American Civil War die?
-^ 1958
-A 1944
-B 1949
-C 1958
-D 1936
-
-#Q Where was the  first museum in the USA located?
-^ Charleston, S.C.
-A Charleston, S.C.
-B Philadelphia, PA.
-C Boston, MA.
-D Augusta, Maine
-
-#Q Which of these statements is true about the way Michelangelo drew the snake in the Sistine Chapel?
-^ The snake is a woman
-A The snake is walking
-B The snake appears to be speaking
-C The snake is a woman
-D The snake has no fangs
-
-#Q Dr. Watson is the sidekick of Sherlock Holmes. Do you know his first name?
-^ John
-A Oscar
-B John
-C George
-D William
-
-#Q This monster, who is classified under the family, Homolycanth Ropus, really has a thing about silver bullets. By what other name do we know the character, Lawrence Talbort?
-^ The Wolfman
-A The Zombie
-B The Wolfman
-C The Beast
-D The Mummy
-
-#Q Which English coin represented one-twentieth of a pound?
-^ Shilling
-A Crown
-B Shilling
-C Farthing
-D Pence
-
-#Q The great medieval artist, Albrect Durer wrote a textbook in this subject.
-^ Geometry
-A Architecture
-B Civil Engineering
-C Cooking
-D Geometry
-
-#Q Who portrayed Adam Schiff, the Manhattan District Attorney in Law and Order?
-^ Steven Hill
-A Fred Dalton Thompson
-B Steven Hill
-C Dann Florek
-D Steve Zirnkilton
-
-#Q How many people die in the final scene of Shakespeares Hamlet?
-^ 4
-A 5
-B 0
-C 6
-D 4
-
-#Q One of my companion animals entered the bathroom and brought about my ailurophobia. What was I afraid of?
-^ Cats
-A Ferrets
-B Birds
-C Dogs
-D Cats
-
-#Q Which is the only US state famous for producing limburger cheese in the Chalet Cheese Co-op factory?
-^ Wisconsin
-A Minnessota
-B Wisconsin
-C New York
-D Ohio
-
-#Q Which was the first nation to become Christian?
-^ Armenia
-A Antioch
-B Romania
-C Armenia
-D Rome
-
-#Q Which of these groups was formed in Liverpool, England?
-^ The Beatles
-A The Bee Gees
-B The Beatles
-C The Kinks
-D The Rolling Stones
-
-#Q What was the name of the sleazy lawyer in the musical and movie Chicago?
-^ Billy Flynn
-A Rudy Baylor
-B Billy Flynn
-C Pete Drucker
-D Ted Buckland
-
-#Q Which planet is 5th from the sun?
-^ Jupiter
-A Jupiter
-B Saturn
-C Mars
-D Earth
-
-#Q Name all the Scandinavian countries.
-^ Sweden, Denmark, Norway, Iceland
-A Sweden, Norway, Denmark, Finland, Iceland, Lithuania
-B Sweden, Denmark, Norway, Finland
-C Sweden, Denmark, Norway, Finland, Iceland
-D Sweden, Denmark, Norway, Iceland
-
-#Q Doctor Zhivago is a character from a novel of the same name by Boris Pasternak. This is the historical background of the story in the book.
-^ Russian Revolution
-A The USSRs collapse
-B WWII
-C Russian Revolution
-D Brezhnevs reign
-
-#Q This very popular opera singer from Australia lived 1861-1931. She had two foods named after her.
-^ Nellie Melba
-A Grace Toff
-B Nellie Melba
-C Brigit Nielsen
-D Jenny Lind
-
-#Q Where was the worlds first modern electrically air-conditioned building located?
-^ San Antonio, Texas
-A San Antonio, Texas
-B Rome, Italy
-C New York, New York
-D Barcelona, Spain
-
-#Q What is the name of Toyotas first widely available gas-electric hybrid car?
-^ Prius
-A Celica
-B Camry
-C Insight
-D Prius
-
-#Q What famous Israeli liqueur comes in a genie shaped bottle and has a distinctive chocolate/orange flavor?
-^ Sabra
-A Sabra
-B Triple Sec
-C Cointreau
-D Grand Marnier
-
-#Q She is a very rude monster.  She sings with her mouth full. What is the name of the human flesh eating plant that sings Feed me Seymour. Feed me all night long.?
-^ Audrey II
-A Audrey II
-B Angel
-C Leech Woman
-D Christine
-
-#Q A kunik is an intimate way of greeting that involves pressing the nose and upper lip against the skin of the other person. What group of people is this form of greeting typically associated with?
-^ Eskimos
-A Pygmies in Central Africa
-B Eskimos
-C Native Americans in the US
-D Tasmanian Aborigines
-
-#Q He invented the idea of an ATM in the late 1930s and persuaded what is now Citicorp to give it a trial.
-^ Luther George Simjian
-A Luther George Simjian
-B James Goodfellow
-C Allen Bred
-D John Shepherd-Barron
-
-#Q Peladophobia is the fear of this type of people.
-^ balding people
-A balding people
-B sexual predators
-C gang members
-D trash collectors
-
-#Q Which is the largest active volcano on Earth?
-^ Mauna Loa
-A Mount Rainier
-B Mount Etna
-C Mauna Loa
-D Merapi
-
-#Q They were a group of landed nobility in Prussia  and Eastern Germany. Their name comes from the German for young lord. They formed several aristocratic political groups in Germany.
-^ Junkers
-A Jurrsia
-B Jongres
-C Junkers
-D Junists
-
-#Q On the sitcom Third Rock  from the Sun, John Lithgow plays Dick Solomon. What is his occupation on Earth?
-^ Professor of Physics
-A Advertising writer
-B Professor of Anthropology
-C Professor of Physics
-D Unemployed
-
-#Q The name Ethan was the fourth most popular baby name of 2006, and means what?
-^ Strong, optimistic
-A Shepherd
-B Strong, optimistic
-C Intelligent, wise
-D Of the forest
-
-#Q Tom Hanks co-starred in the TV program Bosom Buddies with this fine actor/juggler.
-^ Peter Scolari
-A Christopher Knight
-B Peter Scolari
-C Steve Zahn
-D Tom Everett Scott
-
-#Q Which Hall of Fame is located in Cleveland, Ohio?
-^ Rock and Roll
-A Hockey
-B Rock and Roll
-C Basketball
-D Ohio
-
-#Q According to GlobalNet UK, less than what percentage of 500 Chinese cities surveyed have clean air?
-^ 1%
-A 15%
-B 24%
-C 30%
-D 1%
-
-#Q Who is the creator of the first steam locomotive?
-^ Richard Trevithick
-A Richard Trevithick
-B Ronald Von Heldenberger
-C Robert Fulton
-D Robert Watts
-
-#Q On the Canadian 2 dollar bill, what flag flies over the parliament building?
-^ US flag
-A US flag
-B British Flag
-C UN flag
-D French Flag
-
-#Q This word can mean a social upstart or a social climber.
-^ Rastaquouere
-A Selcouth
-B Zabern
-C Pronk
-D Rastaquouere
-
-#Q What American Idol finalist was born on March 25, 1984, in Los Angeles, California?
-^ Katharine McPhee
-A Elliott Yamin
-B Jennifer Hudson
-C Katharine McPhee
-D Kelly Clarkson
-
-#Q This soul singer recorded the song Dock of the Bay  in 1967,  three days prior to his death in a plane crash.
-^ Otis Redding
-A Bob Dylan
-B Otis Redding
-C Paul Banks
-D Neil Sedaka
-
-#Q Who is Cat Woman?
-^ Selina Kyle
-A Samantha Wayne
-B Pam Isley
-C Sarah Connor
-D Selina Kyle
-
-#Q What musician is often referred to as The Man in Black?
-^ Johnny Cash
-A Seal
-B Will Smith
-C Johnny Cash
-D Prince
-
-#Q Dr. Mary Edwards Walker was the first American women to be awarded what?
-^ The Congressional Medal of Honor
-A The Congressional Medal of Honor
-B The Nobel Peace Prize
-C The Pulitzer Prize
-D The Nobel Prize in Medicine
-
-#Q Who was the first official Postmaster General of the United States?
-^ Samuel Osgood
-A Ulmer Pierce Smith
-B John Jay
-C Samuel Osgood
-D Ben Franklin
-
-#Q Pink is the color of what ribbon?
-^ Breast Cancer Awareness ribbon
-A AIDS Awareness ribbon
-B Ovarian Cancer Awareness ribbon
-C Breast Cancer Awareness ribbon
-D Tuberculosis Awareness ribbon
-
-#Q We all know that when arrested you must be Mirandized. Of what crime or crimes was Mr. Miranda accused?
-^ Rape and kidnapping
-A Murder
-B Murder and rape
-C Grand theft
-D Rape and kidnapping
-
-#Q Two earthquakes with epicenter in northeast Arkansas, caused landslides and geological changes along the Mississippi River. On what date did these two earthquakes take place?
-^ December 16, 1811
-A April 27, 1815
-B July 23, 1809
-C August 12, 1823
-D December 16, 1811
-
-#Q What shade of the blue color is also called angel blue?
-^ Light blue
-A Light blue
-B Cerulean
-C Cyan
-D Ultramarine
-
-#Q What type of insect is the Orange Tip?
-^ Butterfly
-A Grasshopper
-B Ladybug
-C Moth
-D Butterfly
-
-#Q Name the country below which is NOT located in South America.
-^ Panama
-A Surinam
-B Chile
-C Panama
-D Colombia
-
-#Q The national flag of what country consists of a light blue field with a single white star in the center?
-^ Somalia
-A Greece
-B Somalia
-C Sudan
-D Singapore
-
-#Q The first shoes made on separate lasts for left and right shoes were made in this city.
-^ Boston
-A Milan
-B Rochester
-C Southhampton
-D Boston
-
-#Q In computer jargon, what is FTP?
-^ a way to transfer files
-A a programming language
-B a popular Internet service provider
-C a way to transfer files
-D a type of e-mail
-
-#Q What do we call a storage place for bees?
-^ Apiary
-A A bee zoo
-B Apiary
-C Asterciary
-D Aviary
-
-#Q What King of England was nicknamed the Lionheart because of his reputation as a brave military leader and warrior?
-^ Richard I of England
-A Richard I of England
-B Richard III of England
-C William I of England
-D Henry II of England
-
-#Q Who provided the voices of the characters in the Radio Program Amos n Andy from 1928 to 1960?
-^ Freeman Gosden and Charles Correll
-A Pranklin Pierce and John Pierce
-B Amos Rogers and Andrew Brown
-C Freeman Gosden and Charles Correll
-D John Paul and George Ringo
-
-#Q This standup comedian became famous as the large Massachusetts man attacked by a mugger in the next to last episode of Seinfeld.
-^ John Pinette
-A Eric Bana
-B John Caponera
-C Jimmy Pardo
-D John Pinette
-
-#Q He was the first person nominated for the Oscar for Producer (Best Picture), Director, Actor and Screenwriter for the same movie.
-^ Orson Welles
-A John Huston
-B Otto Preminger
-C William Wyler
-D Orson Welles
-
-#Q Norwegian inventor, Johan Vaaler was granted a patent in Germany, in 1899, for the invention of what?
-^ The paperclip
-A The paperclip
-B The dry cell battery
-C The stapler
-D Carbon paper
-
-#Q On January 24, 1984, the Macintosh personal computer was introduced to the world by Apple Inc. How did the Macintosh brand get its name?
-^ It was named after an apple cultivar.
-A The name was formed from the first letters of the Apple team members who invented it.
-B They named it after its creators late grandfather.
-C It was named after an apple cultivar.
-D It was named after its creator.
-
-#Q This device, named Missing Link,  was invented by twin sisters Kelli and Vanessa Dunn.
-^ The remote control locator
-A The remote control locator
-B The bookshelf speakers
-C The 56K modem
-D The microphone
-
-#Q This country was formerly known as the Republic of Upper Volta. On August 4, 1984, President Thomas Sankara gave it a new name which means the land of upright people.
-^ Burkina Faso
-A Burundi
-B Kyrgyzstan
-C Burkina Faso
-D Djibouti
-
-#Q The show Mad Money aired CNBC cable/satellite TV channel on Monday, March 14, 2005 with what host?
-^ Jim Cramer
-A Jim Cramer
-B Joel Kramer
-C Jack Aronsohn
-D Jim Aronsohn
-
-#Q Who directed the 1931 musical comedy Le Million, in which the storyline centers on a lottery ticket?
-^ Rene Clair
-A Ernest Lubitsch
-B Josef von Sternberg
-C Charlie Chaplin
-D Rene Clair
-
-#Q What is the largest sea in the world?
-^ South China Sea
-A Caribbean Sea
-B Mediterranean Sea
-C Bering Sea
-D South China Sea
-
-#Q What does antepenultimate mean?
-^ second from last
-A next to last
-B last
-C middle
-D second from last
-
-#Q Which if these is an area in Iraq, and a pilgrimage place for some Muslims?
-^ Karbala
-A Tikrit
-B Mosul
-C Basra
-D Karbala
-
-#Q Which two American cities boast statues of Popeye the Sailor?
-^ Crystal City, Texas and Chester, Illinois
-A Crystal City, Texas and Chester, Illinois
-B Petaluma, California and Palm City, Florida
-C Wiley, Texas and East St. Louis, Illinois
-D Eureka, California and Kingsville, Texas
-
-#Q To which of these countries are the Sami people not indigenous?
-^ Denmark
-A Denmark
-B Finland
-C Russia
-D Sweden
-
-#Q An early version of this instrument was invented by Bartolomeo Cristofori of Florence, who was employed by the Medici family.
-^ The piano
-A The piano
-B The crane
-C The steam drill
-D The plow
-
-#Q What NASA astronauts made the first untethered space walk in history in 1984?
-^ Bruce McCandless II and Robert L. Stewart
-A Terence T. Henricks and Bruce E. Melnick
-B Aleksandr Balandin and Vladimir Dzhanibekov
-C Anna Lee Fisher and Frederick D. Gregory
-D Bruce McCandless II and Robert L. Stewart
-
-#Q In the film The Hunt For Red October, what was the unique quality of the Russian submarine Red October?
-^ It was built with a revolutionary stealth propulsion system called the caterpillar drive,
-A It was a laser guided sub that tracks 24 targets at the same time.
-B It was built with a revolutionary stealth propulsion system called the caterpillar drive,
-C Its stealth armor confuses the enemy sonar
-D None of these
-
-#Q This word can mean to jump straight up or a foolish and/or weak person.
-^ Pronk
-A Zaber
-B Pronk
-C Clouth
-D Phenalk
-
-#Q How many bones does a shark have?
-^ 0
-A 0
-B 103
-C 206
-D 100
-
-#Q How do you say snow in French?
-^ neige
-A neige
-B vent
-C soleil
-D pluie
-
-#Q Which is the only state whose legal system is not based upon English Common Law?
-^ Louisiana
-A Hawaii
-B Alaska
-C Texas
-D Louisiana
-
-#Q What kind of object does the term black hole refer to in physics?
-^ A collapsed star
-A A collapsed star
-B All of these
-C A space storm
-D A gap between time and space
-
-#Q What is the title of the movie in which Marilyn Monroe famously sings the song Diamonds Are a Girls Best Friend?
-^ Gentlemen Prefer Blondes
-A The Prince and the Showgirl
-B Some Like It Hot
-C Gentlemen Prefer Blondes
-D How to Marry a Millionaire
-
-#Q This number is usually associated with the unknown and the bad luck. A fear of this number is known as triskaidekaphobia.
-^ 13
-A 6
-B 13
-C 9
-D 666
-
-#Q If the world were a village of 1000 people, how many would own an automobile?
-^ 70
-A 425
-B 200
-C 70
-D 350
-
-#Q What were the first names of the comedy team of Abbot and Costello?
-^ Bud and Lou
-A Abbot and Bob
-B Dean and Jerry
-C Bob and Ray
-D Bud and Lou
-
-#Q Which of these is not among the reasons for which most pencils are yellow?
-^ To copy the style of the first pencils made in the USA
-A To show that they come from China
-B To make them easier to see on a desk top
-C To show that they are top quality
-D To copy the style of the first pencils made in the USA
-
-#Q What country in Southeast Asia changed its name to Myanmar?
-^ Burma
-A Laos
-B Cambodia
-C Ethiopia
-D Burma
-
-#Q What type of rock is pumice?
-^ Igneous
-A Igneous
-B Sedimentary
-C Metamorphic
-D Conglomerate
-
-#Q For over 1000 years most people believed that the sun circled the Earth. The  scientific basis for this  came from the book The Almagest written by this thinker.
-^ Ptolemy
-A Aristarchus
-B Hipparchus
-C Aristotle
-D Ptolemy
-
-#Q The calendula, or marigold and the opal are the symbols of this month.
-^ October
-A November
-B October
-C February
-D June
-
-#Q When did the first balloon flight in the USA take place?
-^ 1793
-A 1839
-B 1793
-C 1855
-D 1903
-
-#Q The character played by which of these actors/actresses did not survive in the disaster movie The Towering Inferno?
-^ Robert Wagner
-A Steve McQueen
-B Susan Blakely
-C Paul Newman
-D Robert Wagner
-
-#Q This was the ninth most popular 2006 male baby name. Its origin is not exactly known, but it does come from a Roman family name and it has been suggested that is was derived from the Greek word for flower.
-^ Anthony
-A Anthony
-B Michael
-C Thomas
-D Carlos
-
-#Q What is the largest city in California?
-^ Los Angeles
-A Sacramento
-B Long Beach
-C Los Angeles
-D San Diego
-
-#Q German chemist Martin Klaproth discovered uranium in what year?
-^ 1789
-A 1891
-B 1938
-C 1789
-D 678
-
-#Q Which Hall of Fame is located in Oklahoma City, Oklahoma ?
-^ Cowboy Hall of Fame
-A Sooner Hall of Fame
-B Cowboy Hall of Fame
-C College Football hall of Fame
-D Oil Industry Hall of Fame
-
-#Q Who sang on the first million selling record?
-^ Enrico Caruso
-A Thomas Alva Edison
-B Louis Armstrong
-C Frank Sinatra
-D Enrico Caruso
-
-#Q Why was a performance by Bob Dylan interrupted in 1998?
-^ A shirtless man with the words Soy Bomb written on his chest leapt on stage.
-A A shirtless man with the words Soy Bomb written on his chest leapt on stage.
-B His lyrics did not pass the decency level required by CBS Television.
-C Tom Petty had not made it into the stage in time to play the musical bridge in the song.
-D The show ran 15 minutes over and ABC Television had gone to the evening news.
-
-#Q The Freedom of the Seas was the largest cruise ship for 2007. It is owned by Royal Caribbean. Which statement is NOT true about this ship?
-^ It is about as tall as the CN Tower.
-A It displaces about 160,000 tons.
-B It can carry 3,634 passengers.
-C It is about 1,112 feet (340 m) long by 184 feet (56 m) wide.
-D It is about as tall as the CN Tower.
-
-#Q Who won the first chess tournament in the USA?
-^ Paul Morphy
-A Adolph Anderssen
-B John Marshall
-C Paul Morphy
-D Henry  Bird
-
-#Q A man walks up to you and says Everything I say is a lie. Is he telling the truth or lying?
-^ He is lying.
-A He is lying.
-B none of these
-C He is telling the truth.
-D not enough information
-
-#Q In 1957 Major John Glenn, Jr. set an air speed record for the trip from California to New York. How long did the trip take?
-^ 3 hours 23 minutes 8.4 seconds
-A 3 hours 23 minutes 8.4 seconds
-B 2 hours 19 minutes 4.8 seconds
-C 1 hours 21 minutes 4.8 seconds
-D 1 hour 56 minutes 8.4 seconds
-
-#Q How old was Cio-Cio-San, a character in Giacomo Puccinis opera, Madame Butterfly ?
-^ 15
-A 15
-B 20
-C 19
-D 21
-
-#Q Which list contains the three species of Zebras?
-^ Grevys zebra, plains zebra, mountain zebra
-A gray zebra, red zebra, plains zebra
-B mountain zebra, savannah zebra, southern zebra
-C Garveys zebra, Darwins zebra, gray zebra
-D Grevys zebra, plains zebra, mountain zebra
-
-#Q Beethovens Fifth Symphony is divided into four movements. What is the name of the opening one?
-^ Allegro con brio
-A Allegro con brio
-B Scherzo: Allegro
-C Andante con moto
-D Allegro
-
-#Q There is no cure for this disease that is characterized by the death of muscle cells and tissue. Diagnosis is often based on the results of a muscle biopsy.
-^ Muscular dystrophy
-A Scoliosis
-B Multiple sclerosis
-C Cerebral palsy
-D Muscular dystrophy
-
-#Q If the world were a village of 100 people, how many would be female?
-^ 52
-A 60
-B 40
-C 52
-D 46
-
-#Q What was the original name of the melodramatic musical, West Side Story?
-^ East Side Story
-A War and Love
-B East Side Story
-C The Gangs of New York
-D Jets and Sharks
-
-#Q In the late 1980s which television station did Rosie ODonnell work for?
-^ VH1
-A CBS
-B MTV
-C ABC
-D VH1
-
-#Q What was used to help people hear before the hearing aid was invented?
-^ Ear Trumpet
-A Ear Headpiece
-B Ear Trumpet
-C Ear Windtrophy
-D Ear Microphone
-
-#Q A very common greeting in India is namaste or namaskar. What does it mean?
-^ I bow  to you.
-A I bow  to you.
-B I pray your family is complete.
-C May you be blessed.
-D How are  you?
-
-#Q Crop circles, the cause of many contending believes, were adapted by a creative Swedish company for this rather rational purpose.
-^ Advertisement
-A Crop fertilization
-B Advertisement
-C Conceptual modern art
-D Airplane navigation
-
-#Q The Big Ten Conference is a college athletic conference located in the northern United States.  It had this many members, as of the beginning of the new millennium.
-^ 11
-A 12
-B 9
-C 11
-D 10
-
-#Q How tall is Chicagoâs Sears Tower?
-^ 1453 ft (443 m)
-A 1095 ft (334 m)
-B 1811 ft (552 m)
-C 1211 Ft (369 m)
-D 1453 ft (443 m)
-
-#Q In 1986, this diamond found in a South African mine beat the record for the worlds largest faceted diamond.
-^ Golden Jubilee
-A Golden Jubilee
-B Second Star of Africa
-C Great Star of Africa
-D Centtenary
-
-#Q In which of these countries was foot binding practiced?
-^ China
-A Vietnam
-B India
-C Peru
-D China
-
-#Q Which English king was born in Pembroke Castle, Wales in 1457?
-^ Henry VII
-A Henry IV
-B Henry I
-C Henry VIII
-D Henry VII
-
-#Q Who was the first non-Muslim to make the journey from mecca to Medina?
-^ Richard Burton
-A Richard Burton
-B Robert Stanley
-C Ronald Kateman
-D Richard the Lion Hearted
-
-#Q What fictional character in a romantic drama were the following words addressed to: Open your eyes and look at me. No, I dont think I will kiss you. Although you need kissing badly. Thats whats wrong with you. You should be kissed, and often, and by someone who knows how.?
-^ Scarlett OHara (Gone with the Wind)
-A Ilsa Lund (Casablanca)
-B Scarlett OHara (Gone with the Wind)
-C Allie Hamilton (The Notebook)
-D Rose DeWitt  (Titanic)
-
-#Q What type of animal is Old Yeller featured in the 1957 classic film Old Yeller?
-^ Dog
-A Panther
-B Dog
-C Grizzly Bear
-D Mountain Lion
-
-#Q This tiny sovereign state, with a territory of about 0.44 square kilometres, is the smallest country in the world.
-^ Vatican City
-A Vatican City
-B Andorra
-C San Marino
-D Monaco
-
-#Q Francis Galton, half-cousin of Charles Darwin is credited with doing what, to tremendously help law enforcement agencies?
-^ Being the first to use fingerprint  identification
-A Using his knowledge of insects to tell times of death
-B Aiding in the capture of top British criminals
-C Being the first to use fingerprint  identification
-D Developing the earliest form of DNA testing
-
-#Q The color called pistachio is a shade of this general color.
-^ Green
-A Green
-B Brown
-C Red
-D Blue
-
-#Q What percentage of women do not wear the correct bra size?
-^ 50-75%
-A 50-75%
-B 20-40%
-C 30-40%
-D 10-15%
-
-#Q What was the name of Alices cat in Alice in Wonderland?
-^ Dinah
-A Cheshire
-B Dinah
-C Dapple-Kit
-D Rumpleteaser
-
-#Q What common drink was first named the âEsteemed Brain Tonic and Intellectual Beverageâ?
-^ Coca Cola
-A Coca Cola
-B Tab
-C Dr Pepper
-D Sprite
-
-#Q Steven Spielbergs movie, The Color Purple,  was nominated for 11 Academy Awards, how many did it actually win?
-^ 0
-A 5
-B 3
-C 0
-D 8
-
-#Q Clark Gable was in the Army  Air Corps during World War II. Who signed his discharge  papers?
-^ Ronald Reagan
-A Hap Arnold
-B John Marshall
-C Ronald Reagan
-D George Patton
-
-#Q Of all the symphonies regularly performed, which is the longest?
-^ Mahlers Symphony #3 in D minor
-A Stravinskys #14 in B sharp major
-B Hayden Symphony #78 in C major
-C Mahlers Symphony #3 in D minor
-D Beethovens #9 in G minor
-
-#Q Trepanation is a term that denotes making a hole in this part of the body.
-^ Skull
-A Hand
-B Skull
-C Eyelid
-D Foot
-
-#Q What is the origin of the popular feminine names Susanna, Susan, Sue, Suzie, Sanna?
-^ Persian
-A Greek
-B Persian
-C Hebrew
-D Old Germanic
-
-#Q This 2002 television series followed the lives of 3 families over 4 generations. The Keys, the Crawfords, and the Clarkes were all somehow linked with various alien encounters over the years and the culmination of all this was the birth of Allison Clarke played by Dakota Fanning.
-^ Taken
-A War of The Worlds
-B Taken
-C Heroes
-D V
-
-#Q Which US President invented the baseball seventh inning stretch?
-^ Taft
-A Hoover
-B Taft
-C Wilson
-D Harding
-
-#Q In the world of airplane technology, what does LOT stand  for?
-^ Low Observational Technology
-A Long Operational Technology
-B Lengthy Oppositional Technology
-C Low Observational Technology
-D Light Opposing Technology
-
-#Q The fear of the fatal date is called this.
-^ Paraskevidekatriaphobia
-A Paraskevidekatriaphobia
-B Aphenphosmphobia
-C Chronomentrophobia
-D Coitophobia
-
-#Q This concept was popularized in Dostoevskys Notes from the Underground, Pushkins Eugene Onegin and in many of the works of Turgenev.
-^ The Superfluous Man
-A The Super-Tribe
-B The Superfluous Man
-C The Total Man
-D The Super Race
-
-#Q In this movie Eminem plays the main character, whose name is Jimmy B-Rabbit Smith, Jr.
-^ 8 Mile
-A Torrance Rises
-B The Wash
-C 8 Mile
-D The Slim Shady Show
-
-#Q Hairy man-apes seem to be everywhere. Which of these names is not used for them?
-^ Hairyman
-A Yowie
-B Yeti
-C Sasquatch
-D Hairyman
-
-#Q What do the children do with their obese mothers dead body in the 1993 drama movie Whats Eating Gilbert Grape?
-^ Burn it along with the house
-A Lift it with a helicopter
-B Desert it
-C Bury it in the back yard
-D Burn it along with the house
-
-#Q One of these actors did not star in the 1971 movie A Clockwork Orange.
-^ Warren Brown
-A Michael Bates
-B Patrick Magee
-C Warren Brown
-D Malcolm McDowell
-
-#Q Loch Ness is the largest body of water in which huge geologic fault?
-^ Great Glen
-A Great Glen
-B Scotia
-C Augustus
-D Highlands
-
-#Q The word abacus derives from a Hebrew word, meaning this.
-^ Dust
-A Movement
-B Sky
-C Dust
-D Wood
-
-#Q What name was given to the monster created in Mary Shelleys classic novel subtitled The Modern Prometheus?
-^ The monster didnt have a name.
-A The monster didnt have a name.
-B Frankenstein
-C Dr. Jekyll
-D Victor
-
-#Q This country music singer known for his songs about family and religion, had his most success with song writing.  Writing songs such as Forever and Ever Amen by Randy Travis, When You Say Nothing At All by Keith Whitley and Love Can Build a Bridge by the Judds.  Who is this singer/songwriter?
-^ Paul Overstreet
-A Paul Overstreet
-B Mark Chestnutt
-C Alan Jackson
-D George Strait
-
-#Q Which is an example of a spoonerism?
-^ It is kisstomery to cuss the bride.
-A Round and round the ragged rock the ragged rascal ran.
-B Able was I ere I saw Elba.
-C He is at  the pineapple of his career.
-D It is kisstomery to cuss the bride.
-
-#Q Approximately how fast can a sneeze travel?
-^ 100 miles per hour
-A 500 miles an hour
-B 100 miles per hour
-C 100 feet per hour
-D 50 feet an hour
-
-#Q What type of topaz is the gemstone of Texas?
-^ Blue topaz
-A Imperial topaz
-B Orange topaz
-C Mystic topaz
-D Blue topaz
-
-#Q The Mars family were the richest American family of 1988, according to Fortune magazine.  They named one of their most successful products after their horse, who was named what?
-^ Snickers
-A Snickers
-B Bounty
-C MM
-D Corny
-
-#Q This Major League Baseball player, whose uniform with #42 was retired on April 15, 1997 by Major League Baseball, became the first African-American to be inducted into the Baseball Hall of Fame.
-^ Jack Roosevelt Robinson
-A Rosy Grier
-B Jack Roosevelt Robinson
-C Jim Brown
-D Jesse Owens
-
-#Q Name the first cartoon cat that was created for the screen.
-^ Felix
-A Felix
-B Puddy Tat
-C Rumple Teaser
-D Katsenjammer
-
-#Q A Tattoo is a wound. It oozes for a couple of days after it has been made. This is not recommended for you to do after you get a tattoo.
-^ Swim and sunbathe
-A Swim and sunbathe
-B Wash it soap
-C Eat hot food
-D Cover it with clothes
-
-#Q Name the actor who starred in the 2007 drama movie There Will Be Blood.
-^ Daniel Day-Lewis
-A Kevin Spacey
-B Sean Penn
-C Keanu Reeves
-D Daniel Day-Lewis
-
-#Q The oldest surviving violin, date-stamped on the inside, is the Charles IX, made in 1564 by which luthier?
-^ Andrea Amati
-A Antonio Stradivari
-B Pietro Guarneri
-C Andrea Amati
-D Andrea Guarneri
-
-#Q The first Soviet nuclear ballistic submarine was called K-(this number).
-^ 19
-A 18
-B 17
-C 19
-D 21
+#Q Where is the Hockey Hall of Fame located?
+^ Toronto, Canada
+A Colorado Springs, Colorado
+B Toronto, Canada
+C Goshen, New York
+D Oklahoma City, Oklahoma
+
+#Q U.S. antitrust lawyers took Microsoft to court claiming that the company tried to use its monopolistic power to destroy this computer language.
+^ JAVA
+A JAVA
+B LINUS
+C LOTUS
+D COBOL
+
+#Q A pure diamond is colorless, but extremely rare. This is the color shade that most diamonds have.
+^ Yellow
+A Gray
+B Yellow
+C Blue
+D Green
+
+#Q This lawyer-turned senator, who has the power of flight without machinery, is a character on Heroes.
+^ Nathan Petrelli
+A Nathan Petrelli
+B Andy Pasdar
+C Clark Bennett
+D Gabriel Gray
+
+#Q Which of the following battles was not fought during World War Two?
+^ Battle of Jutland
+A Battle of Guadalcanal
+B Battle of Kursk
+C Battle of Jutland
+D Battle of Tobruk
+
+#Q By the end of what week does an unborn fetus start to develop fingerprints?
+^ 18th
+A 16th
+B 18th
+C 15th
+D 20th
+
+#Q Which actor plays a 121 years old character who tells a news reporter about his life with the Indians and the battle of Little Big Horn?
+^ Dustin Hoffman
+A Robert Duvall
+B Gene Hackman
+C Sir Laurence Olivier
+D Dustin Hoffman
+
+#Q Who wrote the book To Kill a Mockingbird?
+^ Harper Lee
+A James Baldwin
+B Harper Lee
+C Norman Mailer
+D Mark Twain
+
+#Q Excluding Englands cities, which city built the first subway in Europe?
+^ Budapest
+A Rome
+B Paris
+C Budapest
+D Barcelona
 
 #Q Who was the long-suffering character from the Bibles Old Testament?
 ^ Job
@@ -1678,72 +68,282 @@ B Job
 C Set
 D Uri
 
-#Q In the US, a record can be certified diamond, if it sells this number of copies.
-^ 10 million
-A 50 million
-B 10 million
-C 5 million
-D 20 million
+#Q In The Hitchhikers Guide to the Galaxy there are several references to a super-intelligent shade of the color blue, called this.
+^ Hooloovoo
+A Cyan
+B Volo-loco
+C Hooloovoo
+D Gobo
 
-#Q Where does the name Kansas come from?
-^ from the indigenous people of that area of the USA
-A from the Chinook word for the area
-B from an Apache word meaning small rivers
-C from the indigenous people of that area of the USA
-D from a Huron word meaning long space
+#Q This statesman, born in Houghton Hall, Norfolk in 1676, is generally regarded as the first Prime Minister of Great Britain.
+^ Robert Walpole
+A David Gladstone
+B Henry Cavendish
+C Benjamin Disraeli
+D Robert Walpole
 
-#Q What is the more common name for the superfood Vaccinium oxycoccos?
-^ Cranberry
-A Cranberry
-B Cauliflower
-C Courgette
-D Cress
+#Q The popular female names Alice, Alicia and Alisha, all mean what?
+^ Nobility
+A Spite
+B Whole
+C Incarnation
+D Nobility
 
-#Q What album is considered to be the first rap record?
-^ Sugar Hill Gangss Rappers Delight
-A Public Enemys Fight the Power
-B Ike Turners Jet  88
-C Sugar Hill Gangss Rappers Delight
-D Yannick Bruynoghes Big Bills Rap
+#Q This force prevents anything from escaping black holes.
+^ Gravity force
+A Centripetal force
+B Nuclear force
+C Centrifugal force
+D Gravity force
 
-#Q The famous fictional modern detective Philip Marlowe was played by many actors over the years, from Humphrey Bogart to Elliot Gould.  Can you name the author who created him.
-^ Raymond Chandler
-A Dashiell Hammett
-B Raymond Chandler
-C Mickey Spilane
-D Cornell Woolrich
+#Q This actor, whose autobiography was called My Wicked Wicked Ways, starred in the movies Adventures of Robin Hood (1938), Istanbul (1957) and They Died with Their Boots On (1941).
+^ Errol Flynn
+A Claude Rains
+B Errol Flynn
+C Anthony Quinn
+D George Reeves
 
-#Q Which youthful musician(s) is/are associated with the 1980s albums Killing Joke and Whats THIS for...!?
-^ Martin Youth Glover
-A Paul Young
-B Martin Youth Glover
-C Musical Youth
-D Neil Young
+#Q What title did Sarah Ferguson assume upon marrying Queen Elizabeth IIs second son, Prince Andrew?
+^ Duchess of York
+A Duchess of Edinburgh
+B Princess Royal
+C Duchess of York
+D Princess of York
 
-#Q Jonathan Larson based his rock musical on the opera La Boheme. What rock musical about young artists and musicians and their struggle, hopes and fears made it to # 2 on Entertainment Weeklys New Classics List?
-^ Rent
-A Hair
-B The Heidi Chronicles
-C Jersey Boys
-D Rent
+#Q According to modern geological theories, there was only one continent about 200 million years ago. What do geologists call it?
+^ Pangaea
+A Panthalyssia
+B Pannotia
+C Pangaea
+D Rodinia
 
-#Q Complete the title of this 1990 film, starring Tom Hanks: ....Versus the Volcano.
-^ Joe
-A Gus
-B Joe
-C Pat
-D Tom
+#Q Who is Hiroo Onoda?
+^ The last Japanese casualty from World War II
+A The last Japanese casualty from World War II
+B The founder of Mazda
+C This is the real name of Tojo.
+D The Japanese fisherman who first sees Godzilla in the movie of the same name
 
-#Q In what country is the presidential residence called The Blue House?
-^ South Korea
-A South Korea
-B Argentina
-C Greece
-D France
+#Q The Mississippi is the longest North American river. The Missouri is the second. What is the third longest?  
+^ Rio Grande
+A Arkansas
+B Rio Grande
+C Colorado
+D Hudson
 
-#Q The exploration of the Loch Ness Monster is related to which field of study?
-^ Cryptozoology
-A Phycology
-B Ornithology
-C Mycology
-D Cryptozoology
+#Q Who played Clark Kent/Superman in the 1948 Superman movie?
+^ Kirk Alyn
+A Jack Larsen
+B George Reeves
+C Christopher Reeves
+D Kirk Alyn
+
+#Q On the popular TV show The Honeymooners, Ralph worked as a bus driver for this fictional company.
+^ Gotham Bus Company
+A Cityline Bus Company
+B Red and Tan Bus Company
+C Metro Bus Company
+D Gotham Bus Company
+
+#Q This filmmaker, famous for directing Runaway Train and Tango  Cash, is the brother of Academy Award-winning director Nikita Mikhalkov.
+^ Andrey Konchalovsky
+A Roman Polanski
+B Andrey Konchalovsky
+C Andrei Tarkovsky
+D Sergei Mikhalkov
+
+#Q What was the first jet fighter to hit Mach 3.2?
+^ MIG 25 Foxbat
+A Lockheed f-17-Eagle
+B F-15 Falcon
+C MIG 25 Foxbat
+D F-22 Raptor
+
+#Q What British singer recorded her biggest hit, Downtown in 1964?
+^ Petula Clark
+A Myleene Klass
+B Amy Winehouse
+C Petula Clark
+D Lulu
+
+#Q Three of these are not real bodies of water; which one is?
+^ North Sea
+A North Sea
+B Northwest Sea
+C South Sea
+D Southeast Sea
+
+#Q How many English words (not proper nouns) begin with dw?
+^ 4
+A 3
+B 6
+C 4
+D 5
+
+#Q The USA owns a territory in the Pacific called  The Commonwealth of the Northern Mariana Islands. What is its capital city?
+^ Saipan
+A Pago Pago
+B Saipan
+C Agana
+D Charlotte Amalie
+
+#Q Sarah Jessica Parkers popular character Carrie Bradshaw writes a weekly column called Sex and the City for this newspaper.
+^ The New York Star
+A The New York Glamour
+B The New York Fashionista
+C The New York Observer
+D The New York Star
+
+#Q Sugar is important for the proper function of which of these bodily systems?
+^ Nervous system
+A Cardiovascular system
+B Endocrine system
+C Nervous system
+D Digestive system
+
+#Q Between the 1920s and 1940s, the pink color was considered appropriate for this group of people, but later it became popular with others too.
+^ Boys
+A Boys
+B Babies
+C Young women
+D High-class people
+
+#Q Over the course of the complete works of William Shakespeare, the bard uses this many different words.       
+^ 29,066
+A 29,066
+B 101,009
+C 3030
+D 15,400
+
+#Q The first professional sports organization in the USA was formed in this city.
+^ Baltimore
+A Boston
+B Baltimore
+C Charleston
+D Cleveland
+
+#Q Which line of the palm is traditionally examined first by palm readers?
+^ Heart line
+A Heart line
+B Life line
+C Sun line
+D Mercury line
+
+#Q Measured from base to peak, what is the worlds highest mountain?
+^ Mauna Kea
+A Chimborazo
+B Mauna Kea
+C K2
+D Mt. Everest
+
+#Q How many continents are owned by only one nation?
+^ 1
+A 0
+B 2
+C 3
+D 1
+
+#Q Having in mind the mysterious background of Black Friday, it is quite natural that the TV series Friday the 13th were so popular. The main character, Jason, is one of the biggest celebrities in the world of horror movies. What is Jasons family name?
+^ Vorhees
+A Hardy
+B Vorhees
+C Christy
+D Burrell
+
+#Q What term means fear of fish?
+^ Ichthyophobia
+A Iatrophobia
+B Ideophobia
+C Ichthyophobia
+D Iophobia
+
+#Q During this year, the USA had three different Presidents.
+^ 1841
+A 1841
+B 1864
+C 1844
+D 1973
+
+#Q The Bermuda Triangle has been responsible for the disappearances of this number of planes and ships, which have been lost till the end of the 20th century.
+^ 66
+A 78
+B 66
+C 52
+D 113
+
+#Q Wilhelm Kolff invented what device?
+^ Dialysis machine
+A Dialysis machine
+B Football helmet
+C Linotype machine
+D PET scan
+
+#Q What did United States President Ronald Reagan say on the radio during a voice check on August 11, 1984?     
+^ We begin bombing in five minutes.
+A I wanna tell my mama I love her.
+B We begin bombing in five minutes.
+C I must tell you, Im wearing white-red-and-blue underpants today.
+D Wait, do I speak now? Is this thing on?
+
+#Q Television beamed their fairytale wedding to over 270 million viewers on July 29, 1981. Sadly, on August 28, 1996 a divorce was granted to the Peoples Princess  and her once Prince Charming. Who was the Princess referring to when she stated in an interview on the BBC, There were three of us in the marriage, so, it was a bit crowded.?
+^ Camilla Parker Bowles
+A Wallis Warfield Simpson
+B Camilla Parker Bowles
+C Tiggy Legge-Bourke
+D Alice Keppel
+
+#Q What kind of movie is the 1988 British film The Fruit Machine, also known as Wonderland in the United States?
+^ Thriller movie
+A Animated movie
+B A biographical account
+C Comedy movie
+D Thriller movie
+
+#Q Which of these plants was believed to scare off vampires and keep them at bay?
+^ Wild rose
+A Hyacinth
+B Wild rose
+C Dandelion
+D Parsley
+
+#Q Which insect would a myrmecophobic person want to stay away from?
+^ ants
+A moths
+B ants
+C bees
+D cockroaches
+
+#Q The famous Japanese cherry trees were planted in Washington, D.C., around the Tidal Basin at the request of which US First Lady?
+^ Helen Taft
+A Betty Ford
+B Anna Eleanor Roosevelt
+C Helen Taft
+D Lou Henry Hoover
+
+#Q What country is the largest consumer of gold in the world?
+^ India
+A South Africa
+B India
+C United Arab Emirates
+D China
+
+#Q Name the author of the spy thrillers The Bourne Identity, The Bourne Supremacy and The Bourne Ultimatum, which were adapted into movies starring Matt Damon.
+^ Robert Ludlum
+A Robert J. Sawyer
+B Robert Kerr
+C Robert Coover
+D Robert Ludlum
+
+#Q Who was the first pitcher in major league baseball history to strike out over 3000 batters but to have less than 1000 bases on balls?
+^ Ferguson Jenkins
+A Ferguson Jenkins
+B Don Newcombe
+C Sandy Koufax
+D Nolan Ryan
+
+#Q This is the total number of books in the New Testament of the Holy Bible.
+^ 27
+A 27
+B 57
+C 37
+D 17

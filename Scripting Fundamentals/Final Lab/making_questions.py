@@ -1,10 +1,10 @@
-# This is a temporary script used to sort a list of questions from GitHub database of trivia questions,
-# (https://github.com/uberspot/OpenTriviaQA) containing 1k+ questions, into 250 questions with 4
-# multiple choice answers to be used in the main .py file.
+# Automation script to get 50 random questions from GitHub database of trivia questions,
+# (https://github.com/uberspot/OpenTriviaQA) to be used in main program.
 
 import random
 
-#First, I pasted the entire list of questions into 'questionlist.txt'
+#First, paste the entire list of questions into 'questionlist.txt'
+
 fin = open(f"questionlist.txt", encoding="utf-8")  
 full_questions = fin.read().split("\n\n")
 questions = []
@@ -14,9 +14,6 @@ for q in full_questions:
 
 random.shuffle(questions)
 
-print(len(questions))
-
-for i in range(250):  #Print the 250 randomly selected questions, and copy/paste them into a new .txt file under 'triviaQuestions'
+for i in range(50):  #Print questions, and copy/paste them into .txt file under 'triviaQuestions'
     print(questions[i]) 
     print()
-

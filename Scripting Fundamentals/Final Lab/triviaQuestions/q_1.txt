@@ -1,1749 +1,351 @@
-#Q This is the largest island on Earth and one third of it is a national park.
-^ Greenland
-A Greenland
-B Madagaskar
-C Australia
-D Alaska
+#Q This planet is slightly smaller than Earth and its closest neighbor (excluding the Moon).
+^ Venus
+A Venus
+B Uranus
+C Mars
+D Saturn
 
-#Q Which of the following doctors is least likely to ever be on call?
-^ Emergency Physician
-A General Surgeon
-B Anesthesiologist
-C Emergency Physician
-D Family Practitioner
+#Q Which word means the study of drug action?
+^ pharmacology
+A enology
+B pharmacology
+C chirology
+D physiognosy
 
-#Q As you calculate more and more decimal places for the mathematical constant pi, you will eventually reach Feynmans Point.  Which one of these most accurately defines Feynmans Point?
-^ The place where the decimal value of pi shows three 9s in a row
-A The place where the decimal value of pi shows three 9s in a row
-B The decimal place where we have five nines in a row
-C The decimal place where we have six zeros in a row
-D The last decimal place we know
+#Q How many recognized constellations are there in Earthâ€™s entire view?
+^ 88
+A 244
+B 88
+C 106
+D 33
 
-#Q The parallel sides of a trapezoid are 5 inches and 11 inches long. The height of the trapezoid is 4 inches. What is the area of the trapezoid?
-^ 32 square inches
-A 32 square inches
-B 256 inches
-C 64 square inches
-D 20 square inches
+#Q In  April 28, 2001, this famous American multimillionaire became the first space tourist.
+^ Dennis Tito
+A Mark Shuttleworth
+B Charles Simonyi
+C Gregory Olsen
+D Dennis Tito
 
-#Q Between 1997 and 2006, there were how many reported deaths from lightning?
-^ 437
-A 393
-B 437
-C 750
-D 825
+#Q In a 1976 thriller, as Sir Laurence Oliviers character drills into Dustin Hoffmans characters unanesthesied tooth, he asks Hoffmans character this question.
+^ Is it safe?
+A Is it safe?
+B Will they come?
+C Where are the jewels?
+D Where?
 
-#Q How many nucleotides of DNA does it take to encode a single amino acid in a given protein?
-^ 3
-A 10
-B 3
-C 25
-D 1
+#Q You might not be successful at exterminating microbes - they have been around this long.
+^ 3.8 billion years
+A 5 billion years
+B 3.8 billion years
+C 7 billion years
+D 3 billion years
 
-#Q Which of the following is a normal post-prandial blood sugar?
-^ Less than 140 mg/dl (7.8 mmol/L)
-A Less than 140 mg/dl (7.8 mmol/L)
-B Less than 125 mg/dl (6.9 mmol/L)
-C Less than 160 mg/dl (8.9 mmol/L)
-D Less than 200 mg/dl (11.1 mmol/L)
+#Q What does this equation describe?  y=A(sin) wt, where A is the amplitude and t is the time.
+^ Simple harmonic motion
+A The tangent of the angle x
+B The cosine of the angle w
+C Linear motion
+D Simple harmonic motion
 
-#Q Which of these would not cause a muscle cramp?
-^ being overweight
-A dehydration
-B low blood sugar
-C extreme cold
-D being overweight
+#Q What is the main difference between fungi and plants when cell structure is considered?
+^ Fungi do not have cellulose in their cell walls
+A Fungi do not have cellulose in their cell walls
+B Fungal cells contain membrane-bound nuclei
+C Fungi lack ribosomes
+D Fungi lack mitochodria
 
-#Q Which is the highest layer of the Earthâ€™s atmosphere?
-^ Exosphere
-A Iconosphere
-B Ectosphere
-C Exosphere
-D Endosphere
+#Q Albert Einstein asserted that the energy of a photon is proportional to what in his study of the photoelectronic effects?
+^ Its frequency
+A Its mass
+B Its speed
+C Its volume
+D Its frequency
 
-#Q Which mathematician proved that every angle can be trisected?
-^ No one ever could
-A Aristarcus
-B Euclid
-C No one ever could
-D Gauss
+#Q Which quasar is the brightest as seen from Earth?
+^ 3C 273
+A PSR0031-07
+B PKS0405-123
+C OQ 172
+D 3C 273
 
-#Q The State Childrens Health Insurance Program (SCHIP) was primarily designed to do what?
-^ Provide health insurance to children who do not qualify for Medicaid
-A Provide additional health insurance to children who are receiving Medicaid
-B Provide health insurance to disabled children
-C Provide health insurance to older children
-D Provide health insurance to children who do not qualify for Medicaid
+#Q Electrooculography is a medical procedure which inspects the potential of which bodily organ?
+^ Retina
+A Retina
+B Inner ear
+C Adrenal glands
+D Taste buds
 
-#Q Osteology is an important part of physical and forensic anthropology. What does an osteologist study?       
-^ bones
-A skulls
-B blood
-C dead  bodies
-D bones
+#Q Urticaria is a relatively common form of allergic reaction, that causes red skin welts. Which is the other term which refers to this skin ailment?
+^ Hives
+A Hives
+B Chicken pox
+C Shingles
+D Eczema
 
-#Q This technique is used to relax soft tissue. It is done using both hands, exercising light pressure.        
-^ Effleurage
-A Tapotement
-B Friction
-C Petrissage
-D Effleurage
-
-#Q The so-called space of Disse is located in this internal organ of the human body.
-^ Liver
-A Liver
-B Spleen
-C Pancreas
-D Kidney
-
-#Q Which of these television networks came first?
-^ NBC
-A NBC
-B CBS
-C ABC
-D Fox
-
-#Q On the Internet, who or what is a server?
-^ The computer on which the programs of a web site run
-A The person who serves the hors doeuvres.
-B The computer on which the programs of a web site run
-C The person who serves the customers of an Internet Service Provider
-D The program which controls a web page
-
-#Q What is the science of colors called?
-^ Chromatics
-A Chromatics
-B Chromatology
-C Colorology
-D Coloritics
-
-#Q Control of the Ganges River, sacred to some people, has been much disputed between which two nations?       
-^ India and Bangladesh
-A India and Bangladesh
-B India and Myanmar
-C India and Pakistan
-D India and China
-
-#Q With regard to Medicare Part D, what is the donut hole?
-^ The donut hole is the coverage gap during which the patient is responsible for all drug costs.
-A The donut hole is the coverage gap for patients who eat donuts.
-B The donut hole is the coverage gap for patients between Medicaid age and Medicare age.
-C The donut hole is the coverage gap during which the patient is responsible for all drug costs.
-D The donut hole is the loss of health insurance to patients whose diets are unhealthy.
-
-#Q This device is used for dispersing light, reflecting it or refracting it.
-^ prism
-A sphere
-B monocle
-C prism
-D lens
-
-#Q Approximately how much paper does the average American use in one year?
-^ 580 pounds
-A One  ton ( 2000 pounds)
-B 3,400 pounds
-C 1,500 pounds
-D 580 pounds
-
-#Q This place, popular as the center of the Whiskey rebellion, is the worlds first nuclear powered city.       
-^ Pittsburgh, Pennsylvania
-A San Diego, CA
-B Baltimore
-C Pittsburgh, Pennsylvania
-D Washington, D.C.
-
-#Q How long are the intestines of an average adult? (large and small)
-^ approx 8-9 meters (26-29.5 feet)
-A approx 1-2 meters (3-6.5 feet)
-B approx 19-20 meters (62-65 feet)
-C approx 8-9 meters (26-29.5 feet)
-D approx 15-16 meters (49-52.5 feet)
-
-#Q To which of these groups of substances do the B vitamins belong?
-^ Water-soluble
-A Fat-soluble
-B Alcohol-soluble
-C Non-soluble
-D Water-soluble
-
-#Q This defect of Earths atmosphere, caused by industrial pollution, lets more radiation reach the surface of our planet.
-^ The Ozone Hole
-A The Greenhouse Hole
-B The Smoke Hole
-C The Ozone Hole
-D Smog Tear
-
-#Q Which of these animals has lost the ability to synthesize vitamin C?
+#Q What can microexpressions, a type of tiny fleeting facial expressions, help you understand about the person you are talking with?
 ^ All of these
-A Guinea pigs
-B Most bat species
-C All of these
-D All simians
-
-#Q What impressive physical characteristic did Charles Darwin possess, which made the Bank of England use his image for the ten pound note in 2000?
-^ Large beard
-A Distinctive eyes
-B Very big ears
-C Unique nose
-D Large beard
-
-#Q The discovery of cosmic object 2003 UB313 caused much stir in astronomers circles. Its discoverers declared 2003 UB313 to be what?
-^ The tenth planet in the Solar system
-A The tenth planet in the Solar system
-B A new galaxy
-C A possible black hole near the edge of the Solar system
-D A planetary system with signs of intelligent life
-
-#Q In what country did Charles Darwin experience an earthquake, leading him to form a theory on the movements of the Earths crust?
-^ Chile
-A Australia
-B France
-C South Africa
-D Chile
-
-#Q Skin consists of how many basic layers?
-^ 3
-A 2
-B 5
-C 3
-D 4
-
-#Q Which of the following is a major source of iron, which helps carry oxygen to the tissues?
-^ Raisins
-A Broccoli
-B Raisins
-C Lemons
-D Tomatoes
-
-#Q This is a delicacy made from certain species of fish eggs, most notably the sturgeon.
-^ Caviar
-A Blintz
-B Coffee
-C Caviar
-D Baklava
-
-#Q What does HAND mean in instant messaging language?
-^ have a nice day
-A hot always, never dull
-B handsome and nearly divine
-C have a nice day
-D had a neat dream
-
-#Q In 1938 Doug Corrigan set out on a flight from New York to California. What nickname did he get after the flight?
-^ Wrong Way Corrigan
-A Day/Night  Corrigan
-B California DreaminCorrigan
-C Wrong Way Corrigan
-D All-the-Way Corrigan
-
-#Q The Fallopian tubes are part of this system in the human body.
-^ Reproductive system
-A Digestive system
-B Reproductive system
-C Urinary system
-D Respiratory system
-
-#Q Valtrex (valacyclovir) treats which one of the following conditions?
-^ Genital herpes
-A Pityriasis alba
-B Genital herpes
-C HPV (genital warts)
-D Syphilis
-
-#Q This type of alternative medicine is based on the assumption that if large amounts of a certain substance cause symptoms of illness, then small amounts of this same substance can alleviate symptoms by activating the bodyâ€™s self-healing abilities.
-^ Homeopathy
-A Reiki
-B Ozone Therapy
-C Homeopathy
-D Hellerwork Bodywork
-
-#Q Because of the lack of atmosphere, the craters on most celestial bodies from the solar system remain preserved for hundreds of millions or billions of years. The largest known crater within the solar system is located on which natural satellite?
-^ The Moon
-A The Moon
-B Titan
-C Deimos
-D Io
-
-#Q Transcription is the process of creating what from the DNA template?
-^ RNA
-A RNA
-B Fatty Acids
-C Protein
-D A Double Helix
-
-#Q Which game show was hit by a scandal in 1958?
-^ Twenty-One
-A Twenty-One
-B Jeopardy
-C The $64,000 Challenge
-D The $64,000 Question
-
-#Q Quickly calculate 95^2 (i.e. 95X95). What is the result?
-^ 9025
-A 810025
-B 8125
-C 9025
-D 987,654,321
-
-#Q What does the Davson-Danielli cell model look like?
-^ Two layers of proteins sandwich a phospholipid bilayer
-A Two layers of proteins sandwich a phospholipid bilayer
-B There are no proteins, only a phospholipid bilayer
-C Proteins and phospholipids are structured in a checkerboard pattern
-D Proteins are embedded in a phospholipid bilayer
-
-#Q What happened to the tropical coral reefs during the 1998 and 2004 El Nino weather phenomenons?
-^ Many of them were bleached or even killed
-A Many of them were bleached or even killed
-B Some of them exploded
-C They all thrived
-D Nothing as they were all deep underwater
-
-#Q Venus is the third brightest object in the sky after the Sun and what other object?
-^ The Moon
-A Proxima Centuri
-B Aldeberan
-C Sirius
-D The Moon
-
-#Q Which of these statements is NOT true about Pluto?
-^ It is the largest object of the Solar Systems asteroid belt.
-A It is a dwarf-planet.
-B It is a binary planet.
-C It is a member of the Kupier belt.
-D It is the largest object of the Solar Systems asteroid belt.
-
-#Q For which of these global tendencies in nature are fungi responsible?
-^ Decline of amphibian populations
-A Water poisoning
-B Decline of tree populations
-C Decline of amphibian populations
-D Global warming
-
-#Q Charles Darwin had a passion for this popular hobby, which was introduced to him by his cousin William Darwin Fox.
-^ Collecting beetles
-A Collecting herbs
-B Collecting beetles
-C Painting
-D Fowling
-
-#Q What does the number of neutrons in the nucleus of an atom determine?
-^ The isotope of the element
-A The isotope of the element
-B The bonds the element forms
-C The charge of the ions of the element
-D The element itself
-
-#Q If a computer system displays less memory than what is installed, what are the most likely causes for this discrepancy? ( example: a system comes with 2 GB of RAM installed but system info displays 1896 MB of RAM)      
-^ There are a full 2 GB of ram installed, however other devices (video card etc) have been designated a portion of the system RAM to function.
-A There are a full 2 GB of ram installed, however other devices (video card etc) have been designated a portion of the system RAM to function.
-B System has 2 separate 1 GB sticks installed to equal 1896 MB of Ram. If a single 2B stick was installed it would read correctly.
-C RAM measurements are similar to the hard drive discrepancy in that a GB definition difference exists between the manufacturer and the operating system.
-D The manufacturer rounds up to the measurement to the nearest GB for ease of sale. The Operating system reads the actual amount of the chip(s).
-
-#Q Saltiness is a taste sensation produced most strongly by which of the following chemical compounds?
-^ Sodium chloride
-A Cesium
-B Sodium chloride
-C Potassium chloride
-D Rubidium
-
-#Q 2007 marked what approximate number of people living on our planet?
-^ 6,600,000,000
-A 60,000,000,000
-B 660,000,000,000
-C 6,600,000,000
-D 6,600,000,000,000
-
-#Q What star is closest to the sun?
-^ Proxima Centauri
-A Procima Beta
-B Proxima Centauri
-C Alpha Centauri
-D Proxima Alpha
-
-#Q Which Solar System celestial bodys revolution around the Sun takes 248 years?
-^ Pluto
-A Saturn
-B Pluto
-C Neptune
-D Uranus
-
-#Q What famous 19th century nurse gained the moniker Lady with the lamp during the Crimean War?
-^ Florence Nightingale
-A Molly Pitcher
-B Florence Nightingale
-C Carrie Nation
-D Mary Mallon
-
-#Q Which organelle makes up the cells translational apparatus that translates Messenger RNA (mRNA) into polypeptide chains?
-^ Ribosome
-A Lysosome
-B Mitochondrion
-C Ribosome
-D Golgi apparatus
-
-#Q How many times can an electromagnetic wave travel around the world in a single second?
-^ 7
-A 7
-B 3
-C 5
-D 1
-
-#Q What Greek mythological figure flew too close to the sun with his wings made of wax?
-^ Icarus
-A Pasiphae
-B Ariadne
-C Daedalus
-D Icarus
-
-#Q Why do two patients sometimes have appointments with the same doctor at the same time?
-^ Because of no-shows
-A Because the doctors time is more valuable than the patients time
-B Usually due to a scheduling error
-C Because of no-shows
-D To make the patients angry
-
-#Q In medical terms, what is a CVA?
-^ A stroke
-A An aneurysm
-B A type of accountant
-C A heart attack
-D A stroke
-
-#Q This substance is naturally present in water. It keeps the enamel strong and can stop or even reverse the process of tooth decay.
-^ Fluoride
-A Nitrite
-B Nitrate
-C Chlorine
-D Fluoride
-
-#Q What is the closest point to the sun in the Earths orbit called?
-^ Perihelion
-A Aphelion
-B Summer Solstice
-C Autumnal Equinox
-D Perihelion
-
-#Q Which of the following Solar System planets are designated as gas planets?
-^ All of these
-A Saturn
-B All of these
-C Neptune
-D Jupiter and Neptune
-
-#Q What percentage of the Earths surface is covered by water?
-^ Roughly 70%
-A Exactly 50%
-B Roughly 25%
-C Roughly 50%
-D Roughly 70%
-
-#Q Marijuana is known by many names, including all of these but one. Which is the odd name?
-^ Janu
-A Mary Jane
-B Weed
-C Pot
-D Janu
-
-#Q Which is the correct pairing?
-^ oneirology - the study of dreams
-A symbology - the study of percussion instruments
-B oncology - the study of microbes
-C graminology - the study of grammar
-D oneirology - the study of dreams
-
-#Q The term ethology, which refers to the study of animal behaviour, derives from a Greek word, which means what?
-^ Custom
-A Behaviour
-B Custom
-C Life cycle
-D Environment
-
-#Q What sign flew over the school of Aristotle?
-^ Let no one unfamiliar with geometry enter
-A Know Thyself
-B Es Will De garnish helfen
-C Let no one unfamiliar with geometry enter
-D All for Knowledge
-
-#Q In a list of numbers what, is the mode?
-^ The number seen most frequently
-A The number seen most frequently
-B The number of items in the list
-C The biggest number minus the smallest number
-D The middle number
-
-#Q What did alchemists associate the planets with?
-^ Metals
-A Women
-B Animals
-C Metals
-D Dreams
-
-#Q This person wrote HTTP, the language in which browsers and web servers communicate.
-^ Tim Berners-Lee
-A Steve Jobs
-B Bill Gates
-C Tim Berners-Lee
-D Douglas Engelbart
-
-#Q In Internet parlance, what is a cookie?
-^ Something stored on the client computer by a web pages program
-A Something stored on the client computer by a web pages program
-B Something tasty on a web page
-C Something made up (or cooked) on a web page
-D A portion of a program governing a web page
-
-#Q What does the poppy flower symbolize in many cultures as well as in art?
-^ Death
-A Death
-B Sleep
-C Oblivion
+A Their real attitude towards the topic
+B Their emotional state
+C Whether they are telling the truth or not
 D All of these
 
-#Q With the passage of the Marijuana Tax Act, the United States effectively banned recreational and medicinal use of cannabis. What year was this act adopted?
-^ 1937
-A 1945
-B 1937
-C 1972
-D 1965
+#Q The gravitational force on the surface of the Sun is greater than the gravitational force on Earths surface. If you weigh 180 lbs or 80 kg on Earth, what would your weight be on the Sun?
+^ 5022 lbs (2270 kg)
+A 440 lbs (200 kg)
+B 1100 lbs (500 kg)
+C 5022 lbs (2270 kg)
+D 2770 lbs (1260 kg)
 
-#Q This animals evolutionary lineage is the best documented and the most clearly understood.
-^ Horse
-A Human
-B Horse
-C Dog
-D Shark
+#Q What is heavy water made of ?
+^ Two deuterium atoms and one oxygen atom
+A Two hydrogen atoms and two oxugen atoms
+B Two deuterium atoms and one oxygen atom
+C Two oxygen atoms and one hydrogen atom
+D Three hydrogen atoms and one oxygen molecule.
 
-#Q A pharmacist was compounding a mixture for a topical antibiotic. Using the apothecary system, how many pounds did he make if the end product resulted in having twenty-four 3.5 ounce tubes?
-^ 7 pounds
-A 6.5 pounds
-B 5.25 pounds
-C 6 pounds
-D 7 pounds
+#Q Which of the following is not a property of light?
+^ Viscosity
+A Frequency
+B Polarization
+C Intensity
+D Viscosity
 
-#Q To which continent are common daisies native?
-^ Europe
-A All of these
-B North America
-C Asia
-D Europe
+#Q This tasteless, colorless and odorless chemical element makes up most of the Suns volume (approx. 92%).      
+^ Hydrogen
+A Chromium
+B Magnesium
+C Oxygen
+D Hydrogen
 
-#Q In which part of the digestive system are the so-called Brunners glands located?
-^ Duodenum
-A Stomach
-B Colon
-C Small intestine
-D Duodenum
+#Q Fungi and their products are involved in the process of production of which of these goods?
+^ All of these
+A Detergents
+B All of these
+C Opiates
+D Antibiotics
 
-#Q Which animal can be connected to a computer USB port?
-^ Mouse
-A Dog
-B Mouse
-C Rat
-D Cat
+#Q In 1952, this disease struck the U.S. and became the worst epidemic in the nations history at that time.     
+^ Polio
+A Small Pox
+B Malaria
+C Whooping Cough
+D Polio
 
-#Q 123facts.com is a great site, isnt it? But do you know what the .com part stands for?
-^ Commercial
-A Competition
-B Composition
-C Commercial
-D Communication
+#Q Which of these is a movie about a mathematician who develops a formula that predicts the prices of stock markets?
+^ The Bank
+A The Bank
+B The Puzzle
+C The Formula
+D The Tricks
 
-#Q Which of these will our Sun eventually become?
-^ Planetary Nebula
-A Neutron Star
-B Black Hole
-C Emission Nebula
-D Planetary Nebula
+#Q The Hubble Space Telescope in orbit around the Earth has become one of the most important telescopes in the history of astronomy since its launch in 1990. It doesnt work in which one of these wavelength regimes?
+^ Radio
+A Optical
+B Ultraviolet
+C Near-infrared
+D Radio
 
-#Q Which of these represents the locus of points, the sum of whose distances from two given points is equal?   
-^ An ellipse
-A An ellipse
-B A parabola
-C A circle
-D A hyperbola
+#Q Trans-fats are definitely unwholesome. Which of these foods is poorest in trans fatty acids?
+^ sunflower oil
+A margarine
+B vegetable shortenings
+C sunflower oil
+D cookies
 
-#Q Orin Scivello is the name of a fictional dentist in this movie that was made into a play. Steve Martin portrayed him in the movie remake.
-^ Little Shop of Horrors
-A Oz
-B Little Shop of Horrors
-C My Family
-D Wicked
-
-#Q Which of the following is not a function of the pericardium?
-^ Receives blood returning to the heart from the superior and inferior vena cava
-A Keeps the heart contained in the chest cavity
-B Limits heart motion
-C Prevents the heart from over-expanding when blood volume increases
-D Receives blood returning to the heart from the superior and inferior vena cava
-
-#Q Venus is named after the Roman Goddess of what?
-^ Love
-A Truth
-B Lust
-C Love
-D Beauty
-
-#Q These are compounds that help protect cells from free radicals.
-^ antioxidants
-A calories
-B phytochemicals
-C nutrients
-D antioxidants
-
-#Q An ancient Chinese book called The Inner Canon of Huangdi recommends breathing exercises, massage of the skin and flesh, and exercises of hands and feet as a remedy for complete paralysis, chills, and fever. Who was the author of this ancient book?
-^ The Yellow Emperor
-A Yu the Great
-B Emperor Yao
-C The Red Emperor
-D The Yellow Emperor
-
-#Q Although Newtons and Einsteins theories are generally widely accepted and used in many fields of science, there are some researchers who have developed alternative theories of gravity. Which of the following is one of these theories?
-^ Brans-Dicke Theory
-A Special Relativity Theory
-B Electromagnetic Theory
-C Quantum Field Theory
-D Brans-Dicke Theory
-
-#Q Which of these most accurately explains the controversial issue of  false memories?
-^ Memories formed under the influence of misleading suggestions and clues
-A Memories formed under the influence of misleading suggestions and clues
-B None of these
-C Memories lacking coherent and logical rationale
-D Memories causing false sensations
-
-#Q Who was the first person to study the shape of a raindrop in 1898?
-^ Philipp Lenard
-A Philipp Drimsev
-B Philipp Lenard
-C Allton Kertsky
-D Raymond Hasdroff
-
-#Q What is the symbol for Sulfur?
-^ S
-A Sf
-B Su
-C S
-D Sl
-
-#Q The giant sub atomic particle collider, capable of reproducing the big bang conditions, is located in which research facility?
-^ CERN
-A NASA
-B CERN
-C None of these
-D KAOS
-
-#Q How much blood does the average adult human have?
-^ 10-12 pints (5-6 liters)
-A 10-12 pints (5-6 liters)
-B 10-12 gallons (38-45 liters)
-C 10-12 quarts (10-11 liters)
-D 4-8 pounds (2-4 kg)
-
-#Q Which is the largest planet in the Solar System?
+#Q Which planet was named after the ancient Romansâ€™ king of the gods?
 ^ Jupiter
 A Mars
-B Saturn
-C Venus
-D Jupiter
+B Jupiter
+C Neptune
+D Saturn
 
-#Q A piece of wood floating on the ocean has what kind of buoyancy?
-^ Positive buoyancy
-A None of these
-B Neutral buoyancy
-C Negative buoyancy
-D Positive buoyancy
+#Q Which of the following is not a fluid?
+^ All of these are fluids.
+A Air
+B All of these are fluids.
+C Oil
+D Helium
 
-#Q The process of photosynthesis is carried out by which of these major cell organelles?
-^ Chloroplasts
-A Mitochondria
-B Ribosomes
-C Chloroplasts
-D Vacuoles
+#Q This medical condition is characterized by subsequent decay of body tissues, caused by infection or thrombosis or lack of blood flow.
+^ Gangrene
+A Scleroderma
+B Gangrene
+C Tinea
+D Impetigo
 
-#Q Chop Suey, a pasta dish consisting of short noodles, was originally made and served in which country?       
-^ USA
-A Thailand
-B USA
-C China
-D Vietnam
-
-#Q The clavicle is the bone that connects your upper arm to the rest of your body via your shoulder. What is the clavicle more commonly known as?
-^ the collar bone
-A the shoulder bone
-B the collar bone
-C the neck bone
-D the shin bone
-
-#Q Who thought of the name iPod?
-^ Vinnie Chieco
-A Jonathan Ive
-B Tony Fadell
-C Steve Jobs
-D Vinnie Chieco
-
-#Q Why is Blue Ray better than Red Ray/Laser?
-^ It can read more memory.
-A It is stronger.
-B It gets damaged less.
-C It can read more memory.
-D It has more memory.
-
-#Q What is the chemical symbol for Vanadium?
-^ V
-A V
-B Va
-C Vn
-D Vd
-
-#Q Qigong, which is recommended in traditional Chinese medicine, is what type of exercise?
-^ Breathing
-A Wrestling
-B Weightlifting
-C Breathing
-D Swimming
-
-#Q What was the supposed reason for Charles Darwins health problems that started in 1837?
-^ Overwork
-A Allergy
-B Depression
-C A mysterious disease that he caught during his first voyage
-D Overwork
-
-#Q Rain below what pH is considered acid rain?
-^ 5.6
-A 5.6
-B 6.5
-C 6.8
-D 7.5
-
-#Q What does BTDT mean in instant messaging language?
-^ been there, done that
-A but I thought you didnt tell
-B boy thats dirty talk
-C been there, done that
-D better than doing time
-
-#Q What continent are tigers native to?
-^ Asia
-A South America
-B Africa
-C Europe
-D Asia
-
-#Q Name the longest bone in the body.
-^ Femur
-A Femur
-B Fibula
-C Tibia
-D Humerus
-
-#Q Which is the first US national antismoking coalition, formed in 1964?
-^ National Interagency Council on Smoking and Health
-A Action on Smoking and Health
-B National Interagency Council on Smoking and Health
-C None of these
-D National Clearinghouse for Smoking and Health
-
-#Q What is the symbol for Gold?
-^ Au
-A Au
-B Ao
-C G
-D Gd
-
-#Q Who was the first person to fly solo nonstop around the world in a balloon?
-^ Steve Fossett
-A Heinrich Kubis
-B Steve Fossett
-C Richard Rutan
-D John Alcock
-
-#Q Which of these processes does the cactus perform only at night?
-^ Transpiration
-A Circulation
-B Transpiration
-C Photosynthesis
-D Reproduction
-
-#Q Which domain is used by European Union institutions?
-^ .eu
-A .ue
-B .ee
-C .eu
-D .ec
-
-#Q What does a convex mirror do?
-^ It deceases the size
-A It increases the size
-B None of these
-C It widens the size.
-D It deceases the size
-
-#Q In what part of the apple are the toxic compounds cyanogenic glycosides found?
-^ Seeds
-A Seeds
-B Flowers
-C Skin of the fruit
-D Leaves
-
-#Q The word buck is used for what male animal?
-^ All of these
-A Antelope
-B All of these
-C Deer
-D Rabbit
-
-#Q The carbonyl chemical group in substances evokes the sensation of what taste?
-^ Sweet
-A Sour
-B Sweet
-C Chilly
-D Bitter
-
-#Q How long do you need to boil an egg for it to be considered hard boiled?
-^ 10 -11 minutes
-A 10 -11 minutes
-B 5 - 6 minutes
-C 30 minutes
-D 1 hour
-
-#Q How many natural satellites does Jupiter have?
-^ 63
-A 18
-B 56
-C 63
-D 60
-
-#Q How do the Korean, the Japanese and the Chinese call Jupiter?
-^ Wood star
-A Iron fist
-B Wood star
-C Ice cube
-D Fire ball
-
-#Q Which of these medical terms means difficulty in swallowing.
-^ dysphagia
-A dyspepsia
-B dysuria
-C dyspnea
-D dysphagia
-
-#Q What is the speed of light in vacuum?
-^ 300 000 km/s
-A 500 000 km/s
-B 300 000 km/s
-C 200 000 km/s
-D 400 000 km/s
-
-#Q The phenomenon that leads individual consumers and producers to equilibrium with the market is defined by which term in economics?
-^ The invisible hand
-A The invisible hand
-B The free-rider problem
-C The price ceiling
-D Government regulations
-
-#Q Which of the following historical sites did not serve as a kind of observatory in the past?
-^ The Great Sphinx of Giza, Egypt
-A Abu Simbel, Egypt
-B The Great Sphinx of Giza, Egypt
-C Stonehenge, Great Britain
-D Kokino, Republic of Macedonia
-
-#Q The fingerprints of the baby begin forming in this week of pregnancy. The baby also starts grasping and sucking its thumb at this time.
-^ 18th
-A 21st
-B 35th
-C 18th
-D 10th
-
-#Q Which one of the following is indicative of Direct Disc Labeling capabilities?
-^ LightScribe
-A LightScribe
-B SATA 3.0Gb/s
-C Sharpie enabled
-D DL DVDÂ±RW/CD-RW
-
-#Q It has been proved that drinking only bottled water can have this effect on your health.
-^ Increase in dental problems
-A Increase in body fat
-B Increase in weight
-C Increase in dental problems
-D Increase in heart disease
-
-#Q Why do travelers to La Paz, Bolivia, often become ill as soon as they arrive?
-^ Because of the altitude
-A Because of the high temperature
-B Because of the humidity
-C Because of the soil quality
-D Because of the altitude
-
-#Q What was the occupation of TV personality Harry Volkman?
-^ TV weatherman
-A TV weatherman
-B TV variety show host
-C TV news caster
-D TV game show host
-
-#Q Labeling of nutrition contents is required for most prepared foods. In the US, the Food and Drug Administration, the government agency responsible for regulating food, drugs, and cosmetic products, requires that a product labeled low fat contain what maximum amount of fats?
-^ No more than 3 grams per serving
-A No more than 3 grams per serving
-B Less than 1 gram per serving
-C Less than 5 grams per serving
-D No more than 15% of the servings calories from fat
-
-#Q In the USA, obesity is the second leading cause of preventable death after this one.
-^ Smoking
-A Stress
-B Drugs
-C Pollution
-D Smoking
-
-#Q Which line contains only names of people who have or had AIDS?
-^ Magic Johnson, Isaac Asimov
-A Jim Morrison, Bob Marley
-B Magic Johnson, Isaac Asimov
-C Tony Richardson, Kurt Cobain
-D Freddie Mercury, Jimi Hendrix
-
-#Q What type of conic section would this mathematical equation produce: (x^2)/4+(y^2)/9=81?
-^ Ellipse
-A Line
-B Circle
-C Ellipse
-D Ray
-
-#Q This monastic egghead pioneered the study of genetics, which eventually explained the mechanisms of speciation through genetic mutation. Who is the â€œfather of modern genetics?â€
-^ Gregor Mendel
-A James Watson
-B Gregor Mendel
-C Jean-Baptiste Lamarck
-D Francis Crick
-
-#Q Which of the following asteroids is the only one visible to the naked eye?
-^ Vesta
-A Davida
-B Vesta
-C Ceres
-D Pallas
-
-#Q What type of anatomical structures does the Circle of Willis consist of?
-^ Arteries
-A Arteries
-B All of these
-C Veins
-D Neurons
-
-#Q Charles Darwin was neglecting his studies at the University of Edinburgh, so his father sent him to Cambridge to get a Bachelor of Art degree, as the first step towards what profession?
-^ Priest
-A Teacher
-B Medical doctor
-C Priest
-D Artist
-
-#Q About how much of an adult humans body is water?
-^ 60%
-A 40%
-B 60%
-C 30%
-D 70%
-
-#Q How many types of blood vessels are there?
-^ 4
-A 5
-B 6
-C 7
-D 4
-
-#Q Two cards are randomly selected from a regular 52-card deck. What are the odds that they are both red?      
+#Q Two cards are randomly selected from a regular 52-card deck. What are the odds that they are both red?       
 ^ 25 out of 102
 A 1 in 4
 B 25 out of 102
 C 1 in 2
 D 1 in 26
 
-#Q Who was the first US President to address the nation on TV?
-^ Truman
-A Hoover
-B Truman
-C Eisenhower
-D FDR
-
-#Q How often does Halleys comet appear?
-^ Every 76 years
-A Every 100 years
-B Every 30 years
-C Every 25 years
-D Every 76 years
-
-#Q What term is used to designate a hurricanes calm, low-pressure center around which winds of high velocity spin?
-^ Eye
-A Outer rim
-B Eye wall
-C Rain bands
-D Eye
-
-#Q Who was the pilot of SpaceShipOne, the spaceplane that completed the first privately funded human spaceflight?
-^ Mike Melvill
-A Mike Melvill
-B Peter Siebold
-C Doug Shane
-D Brian Binnie
-
-#Q During this year, Einstein had three incredible papers published in the physics journals, and obtained his doctoral degree.
-^ 1905
-A 1905
-B 1912
-C 1907
-D 1929
-
-#Q Internet Explorer, Opera and Mozilla are examples of what?
-^ Web browsers
-A Internet service providers
-B Hypertext transfer protocols
-C Web browsers
-D Search engines
-
-#Q What type of glands are the Glands of Montgomery?
-^ Sebaceous glands
-A Lacrimal glands
-B Sebaceous glands
-C Sudoriferous glands
-D Salivary glands
-
-#Q How long is one day on planet Earth?
-^ About 24 hours
-A About 26 hours
-B About 24 hours
-C About 36 hours
-D About 22 hours
-
-#Q What conic section is used to describe electromagnetic waves?
-^ Parabolas
-A Points
-B Lines
-C Ellipses
-D Parabolas
-
-#Q How many continents are generally considered to be there on Earth?
-^ 7
-A 4
-B 6
-C 5
-D 7
-
-#Q The term encephalon, defined as the brain of a vertebrate, derives from a Greek word which means what?      
-^ In the head
-A In the mind
-B Forehead
-C In the backbone
-D In the head
-
-#Q The main purpose of the observatory located on the north shore of Big Bear Lake in the San Bernardino Mountains, California is studying what?
-^ The Sun
-A Pulsars
-B Black holes
-C The Moon
-D The Sun
-
-#Q http://www.123facts.com/ is referred to as this.
-^ URL
-A TCP
-B WAP
-C URL
-D USB
-
-#Q The lightest baby weighed this much.
-^ 9.87 ounce (280 g)
-A 17.63 ounce (500 g)
-B 0.70 ounce (20 g)
-C 3.88 ounce (110 g)
-D 9.87 ounce (280 g)
-
-#Q Which of these parts of the Sun is the warmest?
-^ Corona
-A Corona
-B Photosphere
-C Prominences
-D Chromosphere
-
-#Q The Moon is changing its position it relation to the Earth. In what way?
-^ Moving away
-A Getting closer
-B Moving along the Earths Y axis
-C Moving away
-D Moving along the Earths X axis
-
-#Q Which show was the first to have an episode which dealt with abortion?
-^ Maude
-A Room 222
-B All in the Family
-C Good Times
-D Maude
-
-#Q In 1956, Tennessee businessman David Flexer had this great idea.
-^ Show movies on airline flights
-A Have airlines transport packages on long  flights
-B Show movies on airline flights
-C Build a supersonic airplane
-D Have floatation devices aboard airline flights
-
-#Q Earthquakes that occur at the boundaries of tectonic plates are called interplate. The less frequent type of earthquakes, called this, occur in the interior of the lithospheric plates.
-^ Intraplate
-A Innerplate
-B Non-interplate
-C Ultraplate
-D Intraplate
-
-#Q Which of these is the study of knowledge?
-^ epistimology
-A rheology
-B epistimology
-C pulicology
-D dialitology
-
-#Q What food results in negative calories when eaten?
+#Q In which of the following areas are cacti used?
 ^ All of these
-A Carrots
-B Celery
-C All of these
-D Radishes
-
-#Q The Vision for Space Exploration is the U. S. space program was announced on January 14, 2004 by President George W. Bush. According to this program, the moon will be explored by manned missions by what year?
-^ 2020
-A 2010
-B 2011
-C 2020
-D 2025
-
-#Q What does actinology study?
-^ The study of the effect of light on chemicals
-A fruits and seeds
-B clouds
-C ants
-D The study of the effect of light on chemicals
-
-#Q This chemical element is the final element produced by stellar nucleosynthesis and the heaviest element which does not require a supernova for its formation.
-^ Iron
-A Lead
-B Carbon
-C Oxygen
-D Iron
-
-#Q The Peking Man is an example of what species of the genus Homo?
-^ Homo erectus
-A Homo sapiens
-B Pithecanthropus
-C Homo erectus
-D Homo habilis
-
-#Q The ileum is located in this part of the body.
-^ Small Intestine
-A Small Intestine
-B Spinal cord
-C Brain
-D Large intestine
-
-#Q When you study calculus, you usually also study this branch of geometry.
-^ Analytic geometry
-A Bolyai geometry
-B Discrete geometry
-C Analytic geometry
-D Riemannian  geometry
-
-#Q Given the equation C=pi*D. What does the C and the D stand for?
-^ The circumference and diameter of a circle
-A The circumference and diameter of a circle
-B The electrical capacitance and the electrical dipole
-C The circular radius and the diopter distance
-D The cranial area and the circumspectum
-
-#Q What kind of fractions are 4/4, 9/8, and 7/4?
-^ Improper fractions
-A Proper fractions
-B Improper fractions
-C Similar fractions
-D Dissimilar fractions
-
-#Q How many vertebrae make up the thoracic region of the spinal column?
-^ 12
-A 5
-B 7
-C 10
-D 12
-
-#Q The International Nuclear Events Scale, used to signify the grade of nuclear accidents, has how many levels?
-^ 7
-A 6
-B 7
-C 3
-D 10
-
-#Q This mental illness, classified by Emil Kraepelin in 1887, is characterized by persistent disorders in the perception or expression of reality.  A person who suffers from this disease may have delusions, hallucinations, disorganized or catatonic behavior.
-^ Schizophrenia
-A Autism
-B Huntingtons Disease
-C Schizophrenia
-D Dementia
-
-#Q Guess the missing number from the following sequence: 12, 24, 48, ___, 120, 240, 264?
-^ 96
-A 80
-B 60
-C 96
-D 72
-
-#Q What is the common shape of large single-vortex tornadoes?
-^ Wedge tornadoes
-A Funnel tornadoes
-B Stovepipe tornadoes
-C Rope tornadoes
-D Wedge tornadoes
-
-#Q Name the anastomotic loop of vessels near the base of the brain.
-^ Circle of Willis
-A Zygomatic Process
-B Thoracic Circulation
-C Portal Circulation
-D Circle of Willis
-
-#Q What is the difference between a balloon and a zeppelin?
-^ A zeppelin has a rigid frame around the balloon containing the gases.
-A A balloon can only go up and down; it cannot go East-West or left-right.
-B A zeppelin has a pilot or pilots below the gas filled chamber.
-C A zeppelin has a rigid frame around the balloon containing the gases.
-D A zeppelin is filled with specific gases rather than hot air.
-
-#Q What does the scientific term virga mean?
-^ Rain that never hits Earth
-A The effect on Mars that makes it appear as if water was on Mars
-B Rain that never hits Earth
-C The salt that remains after sea water has been desalinated
-D Water that has undergone desalination
-
-#Q Fats are a highly concentrated source of energy. It is estimated that one gram of fat provides how many calories?
-^ 9 kcal
-A 7 kcal
-B 20 kcal
-C 4 kcal
-D 9 kcal
-
-#Q Which is the only stable chemical element whose atom can contain no neutrons at all in its nucleus?
-^ Hydrogen-1
-A Oxygen-1
-B Hydrogen-1
-C There is no such element.
-D Helium-3
-
-#Q Which of the following components of the atom is not considered an elementary particle?
-^ Proton
-A Proton
-B Quark
-C Electron
-D Gluon
-
-#Q What is perihelion?
-^ the orbital point of the closest approach to the sun
-A the orbital point of the closest approach to the sun
-B the orbital point of greatest distance from the sun
-C the darkening of the moon when it moves through the Earths shadow
-D any planet visible in the sky just after sunset
-
-#Q Pi Day is celebrated by many lovers of the mathematical constant, Ï€, on what date?
-^ March 14th
-A May 5th
-B January 13th
-C December 3rd
-D March 14th
-
-#Q Select the incorrect statement.
-^ Over 80 % of an elephants tusk is visible-the rest lies inside the gums.
-A Over 80 % of an elephants tusk is visible-the rest lies inside the gums.
-B Aside from the elephant, the walrus has the largest tusks.
-C The tusks of a male elephant grow about 18 cm a year.
-D Biologists have found that the tooths weight and its need for muscular development has greatly influenced the development of the mammalian skull.
-
-#Q Where is the femoral artery located?
-^ Thigh
-A Thigh
-B Uterus
-C Calf
-D Along the spinal column
-
-#Q Which art term is also used to refer to dependencies between computer applications or processes?
-^ Choreography
-A Choreography
-B Screenplay
-C Directing
-D Libretto
-
-#Q Saturn is the Roman name of which Greek deity?
-^ Kronos
-A Styx
-B Ourobouros
-C Kronos
-D Pan
-
-#Q What is the name of the property used in this addition equation: 12 + 0 = 12?
-^ Identity property
-A Associative property
-B Distributive property
-C Commutative property
-D Identity property
-
-#Q St Marks Basilica, a prominent example of Byzantine architecture, is located in which Italian city?
-^ Venice
-A Milan
-B Rome
-C Venice
-D Florence
-
-#Q Which of the following abbreviations pertains to a diagnosis?
-^ ICD-9 Code
-A EM Code
-B CPT Code
-C ICD-9 Code
-D G-code
-
-#Q Which of the following disorders is not of the Endocrine System?
-^ Parkinsons Disease
-A Parkinsons Disease
-B Hyperthyroidism
-C Diabetes
-D Osteoporosis
-
-#Q Which of these statements about the effect of specialization and trade on the market is most accurate?      
-^ It causes the consumption of more and better goods.
-A It causes an increase in production.
-B It boosts purchasing ability of the consumers.
-C It causes the consumption of more and better goods.
-D It affects World economics as a whole.
-
-#Q What is referred to as the solar apex?
-^ the direction the Sun travels through space
-A the highest point the Sun reaches during the day
-B the warmest day of the year as measured on the equator
-C the direction the Sun travels through space
-D the highest UV reading taken from the earths surface
-
-#Q From what disease did former U.S. President James K. Polk die in 1849?
-^ Cholera
-A Cholera
-B Chicken Pox
-C Malaria
-D Flu
-
-#Q What traditional Chinese food is believed to improve the skin and the function of the spleen, and to promote appetite?
-^ Bird nest
-A Sharkfin soup
-B Bird nest
-C Miso soup
-D Bamboo
-
-#Q What do we call the ratio of a circles circumference to its diameter?
-^ Pi
-A i
-B e
-C Pi
-D log(x)
-
-#Q If you are in South Central or South Western Pennsylvania and order dippy eggs, what popular way are you ordering your egg to be cooked?
-^ Over Easy
-A Omelette
-B Poached
-C Over Easy
-D Hard Boiled
-
-#Q Which word refers to a sound caused by abnormal or pathological heart valves?
-^ Murmur
-A Aneurysm
-B Murmur
-C Wheezing
-D Beat
-
-#Q What does psephology study?
-^ elections
-A African snakes
-B dreams
-C elections
-D poetry
-
-#Q This species, considered to have colonized almost every landmass on Earth, is studied by myrmecology.       
-^ ants
-A bees
-B ants
-C flies
-D hornets
-
-#Q What does ludology study?
-^ video games
-A video games
-B postcards
-C wine
-D the moon
-
-#Q What is the speed of light in free space?
-^ 186,282 miles per second (~300,000 km/s)
-A 155,342 miles per second (~250,000 km/s)
-B 186,282 miles per second (~300,000 km/s)
-C 124,274 miles per second (~200,000 km/s)
-D 93,205 miles per second (~100,000 km/s)
-
-#Q In what way is this popular sentence connected to the constant, pi: Sir, I send a rhyme excelling in sacred truth and rigid spelling.
-^ It is a mnemonic device for the approximate value of pi.
-A The value of pi is encoded in the position of each letter in the alphabet.
-B It is a mnemonic device for the approximate value of pi.
-C It is the beginning of a long poem describing the history of pi.
-D It was written by Albert Einstein when he first discovered the irrationality of pi.
-
-#Q The first recorded successful operation to separate a pair of conjoined twins took place in this year.      
-^ 1689
-A 1889
-B 1976
-C 1689
-D 1989
-
-#Q These compounds are emitted by plants and form gasses, which can be smelled.
-^ Aromatics
-A Vapors
-B Odors
-C Aromatics
-D Oils
-
-#Q If you needed a good source of iron, this food would be the best.
-^ Liver
-A Peas
-B Broccoli
-C Salt
-D Liver
-
-#Q A woodcutter chopped down enough trees to have 896 cubic feet of firewood. How many cords did he chop?      
-^ 7
-A 6
-B 4
-C 7
-D 5
-
-#Q What does ADSL stand for?
-^ Asymmetrical Digital Subscriber Line
-A Asymmetrical Digital Subscriber Line
-B Asynchronous Digital Subscriber Line
-C Asynchronous Dial-up Subscriber Line
-D A Darn Slow Lan
-
-#Q One of the most basic characteristics of our memory is the ability to forget, which is considered to be this type of function.
-^ Adaptive function
-A Developing function
-B Adaptive function
-C Cognitive function
-D Protective function
-
-#Q How long does it take for a platypus egg to develop completely and hatch?
-^ 28 days of internal formation and 10 days of external incubation
-A 28 days of internal formation and 10 days of external incubation
-B 15 days of internal formation and 35 days of external incubation
-C 24 hours of internal formation and 15 days of incubation
-D The eggs develop within 7 days in the mothers uterus and the babies are hatched almost immediately after laying
-
-#Q What is Calores Montes?
-^ a range of mountains on Mercury
-A a large crater on Mercury
-B a tall mountain on Mercury
-C a volcano on Mercury
-D a range of mountains on Mercury
-
-#Q The human facial skull consists of double as well as single bones. Which of the following bones is not a facial bone?
-^ Calcaneus
-A Zygomatic bone
-B Calcaneus
-C Vomer bone
-D Mandible
-
-#Q What chemical compound is commonly known as vitamin C?
-^ Ascorbic acid
-A Acetylsalicylic acid
-B Ascorbic acid
-C Aminobenzoic acid
-D Hyaluronic acid
-
-#Q The Moons diameter is approximately this long.
-^ 2,154 miles (3,476 km)
-A 2,796 miles (4,500 km)
-B 2,154 miles (3,476 km)
-C 5,567 miles (8,960 km)
-D 7,145 miles (11,500 km)
-
-#Q One type of hair on the human body is called vellus hair. Where is it located?
-^ All over the body
-A On the pubic bone
-B All over the body
-C On fingers and toes
-D On the scalp
-
-#Q Which probe became the first probe to visit Mercury in 1974?
-^ Mariner 10
-A Mariner 8
-B Mariner 9
-C Mariner 10
-D Venera 11
-
-#Q In which time zone(s) would you find the state of Florida?
-^ Eastern and Central
-A Central
-B Central and Mountain
-C Eastern
-D Eastern and Central
-
-#Q All of the following medications are contraindicated during pregnancy, EXCEPT which one?
-^ Nitrofurantoin
-A Tetracycline
-B Valproic Acid
-C Nitrofurantoin
-D Methotrexate
-
-#Q What is the symbol for Niobium?
-^ Nb
-A Ni
-B N
-C Nb
-D No
-
-#Q When does a transit of Mercury occur?
-^ when the planet Mercury passes between the Earth and the Sun
-A when the planet Mercury passes between the Earth and the Sun
-B when the planet Mercury has an object pass between it and the Earth
-C None of these
-D when the planet Mercury reaches maximum apparent distance from the Sun
-
-#Q What actress won the Academy Award for Best Actress for the portrayal of Loretta Castorini in the romantic comedy Moonstruck?
-^ Cher
-A Olympia Dukakis
-B Sophia Loren
-C Cher
-D Meryl Streep
-
-#Q This pollutant causes inflammation of the lungs, impaired breathing, coughing, chest pain, nausea, and throat irritation and permanent damage to lung tissue in long term exposure.
-^ Smog
-A Smog
-B Greenhouse gas
-C Carbon dioxide
-D Ozone
-
-#Q How many years does it take for the planet Uranus to orbit the Sun once?
-^ 84
-A 104
-B 64
-C 84
-D 44
-
-#Q In which year was Albert Einstein born?
-^ 1879
-A 1869
-B 1899
-C 1889
-D 1879
-
-#Q Which wall is used for computer protection in the Internet or other networks?
-^ Firewall
-A Firewall
-B Wooden wall
-C Brickwall
-D Protective wall
-
-#Q On January 19, 2006 NASA launched the unmanned mission New Horizons to explore Pluto, on a one-way trip of how many years?
-^ 9
-A 4
-B 9
-C 15
-D 13
-
-#Q How many genes does the human DNA contain?
-^ About 80 000
-A About 200 000
-B About 80 000
-C About 8 000
-D About 20 000
-
-#Q Which of these is a medical term that refers to crying?
-^ Lacrimation
-A Humoring
-B Lactation
-C Lacrimation
-D Blepharitis
-
-#Q In what country was the modern safety pin created?
-^ United States
-A United States
-B Italy
-C France
-D China
-
-#Q The most complete Australopithecus skeleton, dubbed Lucy,  was found in 1974.  She was 1.10m (3 7) tall and weighed about 30kg (66lbs).  Anthropologists named the skeleton after this Lucy.
-^ Lucy from The Beatles song Lucy in the Sky with Diamonds
-A Lucille Ball from the TV show I Love Lucy
-B Lucy of Lucy Clothing Manufacturers
-C Lucy from The Beatles song Lucy in the Sky with Diamonds
-D Actress Lucy Liu
-
-#Q You should expect this, if fish jump out of the water while the weather is nice.
-^ Rain
-A Rainbows
-B Extreme heat
-C Lightning storm
-D Rain
-
-#Q Which of these medical conditions is caused by the ricin found in castor beans?
-^ All of these
-A Death
+A Building / construction
 B All of these
-C Severe diarrhea
-D Long term organ damage
+C Cooking
+D Medicine
 
-#Q Which two of these are produced when an acid and a base are mixed together?
-^ water and a salt
-A water and a salt
-B water and another base
-C HCl and NaOH
-D water and another acid
+#Q Which of the following people is generally at the highest risk of suicide?
+^ A divorced, unemployed man living alone
+A A depressed housewife with a disabled child
+B An anxious stockbroker
+C A divorced, unemployed man living alone
+D A single mother with 4 children who is on welfare
 
-#Q How many different chemicals can be found in marijuana?
-^ More than 400
-A 150
-B Less than 5
-C More than 400
-D 200
+#Q Which of these is classified on the Hamilton-Norwood scale?
+^ male hair loss
+A fatigue
+B male hair loss
+C blood pressure
+D headache
 
-#Q This gland is shaped like a butterfly and helps regulate energy in the body.
-^ thyroid
-A parathyroid
-B thyroid
-C adrenal
-D thymus
+#Q In the US, Medicare Part B is primarily coverage for which of the following?
+^ Non-hospital services
+A Hospital admissions
+B Medications
+C Non-hospital services
+D Dialysis
 
-#Q Which of the following patients should have the lowest goal low-density lipoprotein?
-^ A 30-year-old woman with type 2 diabetes
-A A 60-year-old man with erectile dysfunction and a family history of coronary artery disease
-B A 30-year-old woman with type 2 diabetes
-C A 55-year-old man with colon cancer
-D A 50-year-old cigarette-smoking woman with familial hypercholesterolemia
+#Q This Swedish botanist and physician, considered one of the fathers of modern ecology, initiated the method of binomial classification.
+^ Carolus Linnaeus
+A Alfred Nobel
+B Carolus Linnaeus
+C Nils Gabriel Sefstrom
+D Johan August Arfwedson
 
-#Q Health specialists still argue about the maximum daily salt intake. But it is for sure that if you overdose on salt, it may affect your health negatively. What is likely to happen if you add too much salt in your diet? 
-^ All of these
-A All of these
-B It can cause neurological problems
-C It may bring you high blood pressure
-D It can lead to electrolyte disturbance
+#Q Who developed a punch card that was used with mechanical tabulating machines in the 1890 U.S. Census?        
+^ Dr. Herman Hollerith
+A Dr. Herman Hollerith
+B John Napier
+C Joseph Marie Jacquards
+D Blaise Pascal
 
-#Q The Lunar seas are actually plains of gabbro and this rock. The same rock is also a main component of the surface of Mars.
-^ Basalt
-A Basalt
-B Obsidian
-C Andesite
-D Granulite
+#Q This device is pretty useful if you have to walk a mile in the dark.
+^ Mobile LED Light
+A Mobile LED Light
+B Bluetooth Car Handset
+C Mobile UV Money Detector
+D Lithium Battery
 
-#Q Myorrhexis is a very painful condition and can occur when you overexert. What is characteristic of this condition?
-^ Rupture or tearing of a muscle.
-A Softening of a bone.
-B A vertebra is out of its joint or is dislocated
-C Rupture or tearing of a muscle.
-D Degeneration of cartilage.
+#Q Until what century was alchemy considered a serious science in Europe?
+^ 16th century
+A 14th century
+B 13th century
+C 18th  century
+D 16th century
 
-#Q What is the name of the pigment that determines the color of human skin?
-^ Melanin
-A Melamine
-B Melanin
-C Antocian
-D Melatonin
+#Q What is the condition of having a unibrow called?
+^ Synophrys
+A Monobrowphism
+B Uniphys
+C All of these
+D Synophrys
 
-#Q What is the smallest basic particle of matter?
-^ Atom
-A Atom
-B Mass
-C Volume
-D Molecule
+#Q Which sitcom aired on ABC from 1952 to 1966 after a ten-year run on radio?
+^ Ozzie and Harriet
+A Friends
+B The Simpsons
+C Frasier
+D Ozzie and Harriet
 
-#Q This is the year in which the worlds first nuclear power plant generating electricity for commercial use was officially connected to the Soviet power grid.
-^ 1954
-A 1954
-B 1956
-C 1953
-D 1955
+#Q What is the nearest star to the Sun?
+^ Proxima Centuori
+A Deneb
+B Vega
+C Proxima Centuori
+D Polaris
 
-#Q This English mathematician, logician and cryptographer is widely regarded as the father of modern computer science.
-^ Alan Turing
-A Alan Turing
-B Max Newman
-C Ada Lovelace
-D John Atanasoff
+#Q What father-daughter film stars as on-screen father and daughter Moses and Addie in the movie Paper Moon?    
+^ Ryan ONeal and Tatum ONeal
+A None of these
+B Paul Newman and Nell Potts
+C Ryan ONeal and Tatum ONeal
+D Henry Fonda and Jane Fonda
 
-#Q Which was the first soap opera broadcast on an American television network?
-^ Faraway Hill
-A Faraway Hill
-B Halls of Ivy
-C Love of Life
-D Love of Ivy
+#Q Which planet of the Solar System has been nicknamed The Red Planet?
+^ Mars
+A Mercury
+B Mars
+C Neptune
+D Venus
 
-#Q What is the origin of the word cactus?
-^ Greek
-A Portuguese
-B German
-C Mexican (Spanish)
-D Greek
+#Q What unit is used in the metric system for measuring time?
+^ the second
+A the second
+B the Ohm
+C the grad
+D the cell phone
 
-#Q A fungus of the Armillaria ostoyae genus, discovered in the Malheur National Forest in the Strawberry Mountains of eastern Oregon, U.S. is often cited as which of these?
-^ The largest living organism
-A The oldest living organism
-B The largest living organism
-C The fastest-growing living organism
-D The smallest living organism
+#Q Three of these snakes produce venom, lethal to humans.  Which one does not?
+^ Desert Kingsnake
+A King Cobra
+B Desert Kingsnake
+C Mamba
+D Rattlesnake
 
-#Q What does ZZZ mean in Internet slang?
-^ tired or bored
-A zz top is great
-B tired or bored
-C zero, zilch, zip
-D theres a bee in my house
+#Q How many hours approximately does an eggshell formation take in an average laying hen?
+^ About 20 hours
+A About 48 hours
+B About 5 hours
+C About 20 hours
+D Less than 2 hours
 
-#Q How many fluid ounces do 48 quarts equal?
-^ 1,536
-A 1,563
-B 1,536
-C 1,635
-D 1,653
+#Q Which planet was named after the Roman god of war?
+^ Mars
+A Uranus
+B Mercury
+C Mars
+D Saturn
 
-#Q In nature, fungi are known tp form symbiotic relationships with which of these organisms?
-^ All of these
-A Plants
-B Algae
-C Insects
-D All of these
+#Q Cloning and the boundless possibilities it offers is a challenging topic for scriptwriters imagination. All but one of these science fiction movies involve cloning in their plots.
+^ The Green Mile
+A Jurassic Park
+B The 6th Day
+C The Green Mile
+D The House of the Scorpion
 
-#Q You have a string that is 120 inches. You must use this to enclose a shape of maximum area. What shape should  you form?
-^ A circle of circumference 120 inches
-A A square of 60 inches on each side
-B A square of 30 inches on each side
-C A circle of circumference 120 inches
-D A triangle of 30 inches on each side
+#Q This is the microscope part in which the lens is located.
+^ Ocular or eyepiece
+A Objectives
+B Body tube
+C Ocular or eyepiece
+D Mirror
 
-#Q Where in the human body is the Golgi organ located?
-^ In tendons
-A In tendons
-B Within the brain
-C Within the cell
-D In the eye
+#Q Despite its natural origins, this food is particularly bad for your teeth; it is sticky and contains concentrated fruit sugar.
+^ Dried fruits
+A Puree
+B Chocolate Milk
+C Dried fruits
+D Juice
 
-#Q These two additive primary colors should be combined in order to get the color yellow.
-^ Green and red
-A Green and red
-B Blue and green
-C White and red
-D Red and blue
+#Q Which of these companies recycled old sneakers to make tennis courts?
+^ Nike
+A Banta
+B Nike
+C Adidas
+D Reebok
 
-#Q In their third generation computers flourished, thanks Jack St. Clair Kilbys and Robert Noyces independent invention.  What did they invent?
-^ integrated circuit (or microchip)
-A the transistor
-B the first computer program
-C integrated circuit (or microchip)
-D computer memory
+#Q Who was the President of the United States at the time when Apollo 11 landed on the Moon?
+^ Richard Nixon
+A John F. Kennedy
+B Lyndon B. Johnson
+C Gerald Ford
+D Richard Nixon
+
+#Q Lipitor and Zocor are two popular brand names which fall under what class of cholesterol lowering drugs?     
+^ Statins
+A Statins
+B Citrates
+C Hydrochlorides
+D Aminoketones
+D Aminoketones
+D Aminoketones
+
+#Q The planet Jupiter orbits the Sun at an average distance of how many kilometers?
+^ 778,000,000
+A 77,800,000
+B 778,000
+C 778,000,000
+D 7,780,000

@@ -7,10 +7,9 @@
 There is a .txt file for each category, and the questions come from a database of trivia questions
 found on the GitHub repository 'OpenTriviaQA' by user uberspot (link: https://github.com/uberspot/OpenTriviaQA).
 
-For each category, I pasted the entire list of 1k+ questions into a temporary txt file, 
-and then made a temporary Python script (making_questions.py) to sort them into questions 
-with 4 multiple choice answers. I then pulled 250 random questions from the list, and put 
-them into a .txt file under 'triviaQuestions' to be used in the game. '''
+For each category I used 50 questions from OpenTriviaQA. I made an automation script 'making_questions.py'
+to randomly select questions out of the list. This way I could have a wide variety of questions without
+using the full list (which is much to large). '''
 
 import random
 
@@ -95,7 +94,7 @@ def get_questions():
 
     random.shuffle(questions)  #Randomize order of questions
     
-    #User chooses how many question the quiz will be.
+    #User chooses how many questions the quiz will be.
     quizlen = 0
     while quizlen not in [1, 2, 3]:
         try:

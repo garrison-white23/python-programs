@@ -1,471 +1,51 @@
-#Q Which novel by Thomas Hardy had the subtitle A Pure Woman, which shocked Victorian readers?
-^ Tess of the dUrbervilles
-A Tess of the dUrbervilles
-B The Hand of Ethelberta
-C The Return of the Native
-D Emma
+#Q Which short story is listed with the WRONG author?
+^ The Devils Advocate-John Grisham
+A The Devil and Daniel Webster-Stephen Vincent  Benet
+B The Spinoza of Market Street-Isaac Bashevis Singer
+C Babylon Reconstructed-F. Scott Fitzgerald
+D The Devils Advocate-John Grisham
 
-#Q This complex Shakespearean character, who is a villain at one point and a victim at another, demanded a pound of flesh and rendered no mercy.
-^ Shylock
-A Horatio
-B Tubal
-C Antonio
-D Shylock
+#Q This is a quote from a novel in which the action takes place in a mental institution: âYou have to laugh at the things that hurt you just to keep yourself in balance, just to keep the world from running you plumb crazy.â  Name the novel.
+^ âOne Flew Over the Cuckooâs Nestâ
+A âOne Flew Over the Cuckooâs Nestâ
+B Lost in the Funhouse
+C Something Happened
+D The Winter of Our Discontent
 
-#Q Who is the Pretty Committees second in command in the book The Clique?
-^ Dylan
-A None of these
-B Massie
-C Dylan
-D Alicia
+#Q Dying is an art like everything else. I do it so it feels like hell. I do it so it feels real.
+^ Sylvia Plath
+A Gregory Corso
+B Anne Sexton
+C Emily Dickenson
+D Sylvia Plath
 
-#Q On Friday 13th in 2006, American author Lemony Snicket released his last book of A Series of Unfortunate Events, featuring the Baudelaire children. How many books does the series contain?
-^ 13
-A 12
-B 14
-C 13
-D 11
+#Q Who is the murderer in Agatha Christies The Tragedy at Marsdon Manor?
+^ The widow of the dead man
+A The lover of the dead mans wife
+B The widow of the dead man
+C It is a suicide
+D The brother of the dead man
 
-#Q What branch of the military did Edgar Allan Poe enlist in?
-^ US Army
-A Marines
-B Air Force
-C Coast Guard
-D US Army
-
-#Q The Catcher in the Rye follows Holden Caulfields experiences in this city in the days following his expulsion from a fictional school in Pennsylvania.
-^ New York City
-A Philadelphia
-B New York City
-C Boston
-D Los Angeles
-
-#Q Who wrote the novel Dr. Zhivago which was banned in the Soviet Union until 1988?
-^ Boris Pasternak
-A Ivan Gogol
-B Boris Pasternak
-C William F. Buckley
-D Leon Trotsky
-
-#Q Which great movie ends with this line: Victory is Ours!?
-^ Duck Soup
-A Dr. Strangelove
-B Duck Soup
-C The Battleship Potempkin
-D The Great Dictator
-
-#Q This quote is from a novel which focuses on the myth of hedonism: âThe only way to get rid of a temptation is to yield to it. Resist it, and your soul grows sick with longing for the things it has forbidden to itself, with desire for what its monstrous laws have made monstrous and unlawful.â  Name the novel.
-^ The Picture of Dorian Gray
+#Q In Seinfeld, Jerry was accused of having this book overdue at the New York Public Library for over 15  years. It was banned in the USA from the 1930s until the 1950s.
+^ The Tropic of Cancer
 A Lady Chatterleys Lover
-B The Picture of Dorian Gray
-C A Portrait of the Artist As a Young Man
-D Ulysses
+B Moll Flanders
+C O
+D The Tropic of Cancer
 
-#Q Who lost the list of passwords for the Gryffindor tower in Harry Potter and the Prisoner of Azkaban?        
-^ Neville Longbottom
-A Dean Thomas
-B Neville Longbottom
-C Ron Weasley
-D Padma Patil
+#Q Which 20th century poet wrote the phrase Candy is Dandy, But Liquor is Quicker?
+^ Ogden Nash
+A Ogden Nash
+B James Dickey
+C Dylan Thomas
+D Allen Ginsberg
 
-#Q What is the name of the main characters daemon in the novel The Golden Compass?
-^ Pantalaimon
-A Prantolemon
-B Pantalaimon
-C Prentaleman
-D Pancedelamon
-
-#Q The second door in the novel The Drawing of the Three leads to Odetta Holmes, a black woman who is involved with the civil rights movement. She has a split personality that leads to some interesting confrontations with her new companions. What is the label on the second door?
-^ The Lady of Shadows
-A The Twins
-B The Lady of Shadows
-C Good Lies in Dark Places
-D The Darkness of Detta
-
-#Q I saw the best minds of my generation destroyed by madness, starving, hysterical, naked
-^ Allen Ginsburg
-A Maye Swenson
-B Allen Ginsburg
-C Gregory Orr
-D Lawrence Ferlenghetti
-
-#Q In The Rime of the Ancient Mariner, what creature brings good luck to the ship and follows it out of the icebergs?
-^ An albatross
-A A dolphin
-B A whale
-C A seal
-D An albatross
-
-#Q In the novel The Clique, what school do the members of the Pretty Committee go to?
-^ OCD
-A DDR
-B OCD
-C WHMS
-D CCD
-
-#Q What did Hermione do to Ron before she stormed out of the charms classroom in Harry Potter and the Half-Blood Prince?
-^ She charmed little yellow birds to fly at Ron and peck him.
-A She charmed a desk to fly over to Ron.
-B She charmed pencils to fly and poke Ron.
-C She charmed little yellow birds to fly at Ron and peck him.
-D She charmed a chair to fly across the room at Ron.
-
-#Q The Diary of a Madman
-^ Guy de Maupassant
-A Edgar Allan Poe
-B Allen Adler
-C Guy de Maupassant
-D Sheridan le Fanu
-
-#Q Which Shakespearean heroine is not correctly matched with the play in which she appears?
-^ Titania - Twelfth Night
-A Titania - Twelfth Night
-B The Three Witches - Macbeth
-C Beatrice - Much Ado About Nothing
-D Lady Capulet - Romeo and Juliet
-
-#Q In Phillip Pullmans The Subtle Knife, who does Lyra, the protagonist of the first book, meet first in the new world?
-^ Will
-A Angelica
-B Tullio
-C Moxie
-D Will
-
-#Q This economic term, derived from the name of a folklore hero, refers to income redistribution.
-^ Robin Hood effect
-A Robin Hood effect
-B King Arthur effect
-C Sir Galahad effect
-D Sir Lancelot effect
-
-#Q Which of the following authors is not a recipient of both the Pulitzer Prize and the Nobel Prize?
-^ Doris Lessing
-A Doris Lessing
-B Sinclair Lewis
-C William Faulkner
-D John Steinbeck
-
-#Q What did the crew of the ship in The Rime of the Ancient Mariner put around the Mariners neck to shame him? 
-^ The albatross
-A A noose
-B A sign that said Kick me
-C A rock tied to a rope
-D The albatross
-
-#Q Why was Hagrid missing in the beginning of Harry Potter and the Order of the Phoenix?
-^ He went hunting giants.
-A He went hunting unicorns.
-B He went looking for Dumbleodre.
-C He went looking for Sirius Black.
-D He went hunting giants.
-
-#Q In what Shakespearean comedy did Don John acknowledge, though I cannot be said to be a flattering honest man, it must not be denied but I am plain-dealing villain?
-^ Much Ado About Nothing
-A The Comedy of Errors
-B Much Ado About Nothing
-C The Taming of the Shrew
-D Measure for Measure
-
-#Q Stephen Kings novel The Gunslinger was written in five parts and published individually in which of the following?
-^ The Magazine of Fantasy and Science Fiction
-A Weird Tales
-B Playboy
-C Realms of Fantasy
-D The Magazine of Fantasy and Science Fiction
-
-#Q In Harry Potter and the Philosophers Stone, who gave Nearly-Headless Nick the rejection letter from the Headless Hunt?
-^ Sir Patrick Delaney-Podmore
-A Sir Delaney Patrick-Podmore
-B Sir Sturgis Podmore
-C Sir Patrick Delaney-Podmore
-D Sir Bloody Baron
-
-#Q In The Silmarillion, Morgoth was a corrupt Ainu, a servant of Iluvatar, responsible for much evil on Middle Earth. What was his original name?
-^ Melkor
-A Melion
-B Mordred
-C The Evil One
-D Melkor
-
-#Q Elizabeth Bennet, Mr. Darcy, Mr. Bennett, Charles Bingley and William Collins were characters in this novel.
-^ Pride and  Prejudice
-A Wuthering Heights
-B Great  Expectations
-C Pride and  Prejudice
-D Jane Eyre
-
-#Q What was the name of the first wife of fictional British Royal Navy officer Horatio Hornblower?
-^ Maria
-A Penny
-B Maggie
-C Mildred
-D Maria
-
-#Q Which elf did the Hobbits talk to on their way to Bree in the novel The Fellowship of the Ring?
-^ Gildor
-A Glorfindel
-B Finarfin
-C Gildor
-D Gil-Galad
-
-#Q Who wrote the epic poem The Rape of the Lock in 1714?
-^ Alexander Pope
-A John Milton
-B Alexander Pope
-C William Wordsworth
-D William Blake
-
-#Q Ralph, Piggy, Jack Merridew, Simon, Ron are characters in this novel.
-^ The Lord of the Flies
-A Lawdy, Lawdy, Miss Claudie
-B The Lord of the Flies
-C The Lord of the Ring
-D Lord Jim
-
-#Q She wrote her only best-seller novel bedridden, with a broken ankle only for her amusement, keeping it secret from her friends. Who is she?
-^ Margaret Mitchell
-A George Elliott
-B Jane Austen
-C Emily Bronte
-D Margaret Mitchell
-
-#Q Nadine Gordimer won the 1991 Nobel Prize in Literature but many of her works were banned in her  native country. What is her native country?
-^ The Union of South Africa
-A Romania
-B Belgium
-C The Soviet Union
-D The Union of South Africa
-
-#Q In which book by Mark Twain does the following phrase appear:  Lead us into temptation?
-^ The Man That Corrupted Hadleyburg
-A The Prince and the Pauper
-B A Connecticut Yankee in King Arthurs Court
-C The Man That Corrupted Hadleyburg
-D The Mysterious Stranger
-
-#Q A neurological condition, characterised by altered perceptions of body image and visual illusions, was named after this character from childrens literature.
-^ Alice in Wonderland
-A Pinocchio
-B Peter Pan
-C Alice in Wonderland
-D Peter Rabbit
-
-#Q Manfred Bloor is a character from which novel?
-^ Midnight for Charlie Bone
-A Midnight for Charlie Bone
-B Charmed Life
-C Shadowmancer
-D Mattimeo
-
-#Q What prize did John Steinbeck receive in 1962?
-^ Nobel Prize for Literature
-A New York Drama Critics Circle Award
-B Nobel Prize for Literature
-C Commonwealth Club of California Gold Medal for Best Novel by a Californian
-D Pulitzer Prize Fiction Award
-
-#Q Who coined the name Tribulation Force for the group portrayed in the second book of the series Left Behind? 
-^ Chloe
-A Rayford
-B Bruce
-C Chloe
-D Buck
-
-#Q Which student does Slughorn Horace NOT favour in the Harry Potter series?
-^ Ron
-A Harry
-B Ron
-C Zabini
-D Hermione
-
-#Q The Hellbound Heart
-^ Clive Barker
-A Clive Barker
-B Edgar Allan Poe
-C None of these
-D Richard Matheson
-
-#Q In the poem The Rime of the Ancient Mariner, the Ancient Mariner tells his tale to a person he pulls aside from what event?
-^ A wedding
-A A dance
-B A wedding
-C A play
-D A party
-
-What poet wrote these elegiac lines from âAdonaisâ in memoriam to John Keats, who died of T.B. at the tender age of only 24 years?
-^ Percy Bysshe Shelly
-A Lord Byron
-B Percy Bysshe Shelly
-C William Blake
-D William Wordsworth
-
-#Q Name the sequel to John Steinbecks 1945 book Cannery Row.
-^ Sweet Thursday
-A The Pearl
-B The Wayward Bus
-C East of Eden
-D Sweet Thursday
-
-#Q Which of the following Irish writers did not receive the Nobel Prize for Literature in the 20th century?    
-^ James Joyce
-A Seamus Heaney
-B Samuel Beckett
-C William Butler Yeats
-D James Joyce
-
-#Q Which great movie ends with these lines: O-Lan, you are the Earth.?
-^ The Good Earth
-A The Day the Earth Stood Still
-B Green Mansions
-C The Good Earth
-D Lost Horizon
-
-#Q This book by James Joyce was forbidden by the US authorities for 15 years, because it was considered obsene. The ban was lifted in 1933.
-^ Ulysses
-A Ulysses
-B Portrait of the Artist
-C Dubliners
-D Fanny Hill
-
-#Q Which playwright received the 1938 Academy Award for Writing Adapted Screenplay?
-^ George Bernard Shaw
-A John Boyd
-B George Bernard Shaw
-C Harold Pinter
-D John Osborne
-
-#Q During World War II John Steinbeck worked as a war correspondent for this newspaper.
-^ New York Herald Tribune
-A New York Herald Tribune
-B San Francisco Chronicle
-C The New York Times
-D Los Angeles Times
-
-#Q With what great French writer did Jules Verne establish a close friendship?
-^ Alexandre Dumas, Sr.
-A Alexandre Dumas, Sr.
-B George Sand
-C Stendhal
-D Alexandre Chatrian
-
-#Q From which Hans Christian Andersens fairy tale are the characters Kai and Gerda?
-^ The Snow Queen
-A The Steadfast Tin Soldier
-B The Red Shoes
-C The Little Mermaid
-D The Snow Queen
-
-#Q Which modern author created the character Ari Ben Canaan?
-^ Leon Uris
-A Saul Bellow
-B Albert Camus
-C Leon Uris
-D Chaim Potok
-
-#Q What object in the mens room does the author discuss in great detail in the novel The Mezzanine?
-^ The hand drying air machine.
-A The toilet handle.
-B The faucets on the sink.
-C The hand drying air machine.
-D The mirror above the sink.
-
-#Q The main character of this novel can make people disappear from existence with an effort of will.
-^ Stranger in a Strange Land
-A Steppenwolf
-B Stranger in a Strange Land
-C The Mote in Gods Eye
-D When the Bough Breaks
-
-#Q Which best describes the plot of the novel The Grapes of Wrath?
-^ A poor family lose their home and farm and  travel West looking for work.
-A A middle-class family lose their home and must move to the Southwest to get work and stability.
-B A poor familys city home is foreclosed and they must travel to the mid-west to get work.
-C A poor family lose their home and farm and  travel West looking for work.
-D A poor family move from their Texas ranch to get work in the agricultural areas of California.
-
-#Q In Harry Potter and the Philosophers Stone, before Harry went to fight Professor Quirrel and He-Who-Must-Not-Be-Named, Hermione helped him with a task that involved what?
-^ A set of potions sent from Professor Snape
-A A chess set by Professor Flitwick
-B An ancient textbook sent from Professor Binns
-C A set of potions sent from Professor Snape
-D A dragon sent from Hagrid
-
-#Q In the English poem The Rime of the Ancient Mariner, which dead crew member helped the Mariner pull on a rope after the crew rose from the dead?
-^ The Mariners nephew
-A The ships cook
-B The Mariners nephew
-C The captain of the ship
-D The Mariners best friend
-
-#Q What classic satirical novel by Jonathan Swift was banned in Ireland for being wicked and obscene?
-^ Gullivers Travels
-A A Journal to Stella
-B A Modest Proposal
-C Gullivers Travels
-D Robinson Crusoe
-
-#Q Which Shakespearean tragic hero had a run in with cannibals?
-^ Othello
-A Othello
-B Julius Caesar
-C Pericles
-D Hamlet
-
-#Q What are the names of the Three Kindreds of Elves in Toliens fictional universe?
-^ Vanya, Noldor , and Teleri
-A Tanya, Ronald, and Valeri
-B Noldor, Baldar, and Teleporn
-C Vanya, Noldor , and Teleri
-D Vanwe, Manwe, and Elwe
-
-#Q What popular musical was parodied by Terry Pratchetts 18th Discworld book, Maskerade?
-^ The Phantom of the Opera
-A Oklahoma
-B Cats
-C The Sound of Music
-D The Phantom of the Opera
-
-#Q In His Dark Materials trilogy, what can be the subtle knife used for?
-^ All of these
-A To cut windows between worlds.
-B All of these
-C To cut through anything, even metals, stones and souls.
-D To destroy The Authority.
-
-#Q At one point in the novel The Catcher in the Rye, Holden and his sister Phoebe seem to exchange roles as the catcher and the fallen. What is the Catchers symbol that Holden gives Phoebe?
-^ his hunting hat
-A his hunting hat
-B a gold ring
-C his diary
-D his fishing rod
-
-#Q In the book Inkspell, whose house do Meggie and her parents live in?
-^ Elinors house
-A A house that they own
-B Meggies aunts house
-C Meggies uncles house
-D Elinors house
-
-#Q The protagonist of which Thorne Smith novel has the ability to turn statues into living people?
-^ The Night Life of the Gods
-A The Glorious Pool
-B The Night Life of the Gods
-C Rain in the Doorway
-D Skin and Bones
-
-#Q A speaker who had a huge opinion of himself gave a long and boring speech after dinner. And then made the mistake of turning to Oscar Wilde, and asking him, How would you have delivered that speech? . What was Oscar Wildes reply?
-^ Under an assumed name
-A In a dress
-B Parcel post
-C Under an assumed name
-D I wouldnt have
-
-#Q Which of these is both the name of a fictional character and a pseudonym used by two co-writers of detective fiction?
-^ Ellery Queen
-A Mary Westmacott
-B Jack Higgins
-C Ellery Queen
-D Rosamund Smith
+#Q What movie does The Clique character Claire get a part in?
+^ Dial L for Loser
+A Dial P for Popular
+B Dial D for Dead
+C Dial L for Loser
+D Dial A for Alive
 
 #Q What do the initials T. S. stand for in the name of the famous poet T. S. Eliot?
 ^ Thomas Stearns
@@ -474,845 +54,250 @@ B Terry Stephens
 C Theodore Sallings
 D Thomas Stearns
 
-#Q Which of the following is one of the six novels by Agatha Christie, written under the pen name Mary Westmacott?
-^ Absent in the Spring
-A Murder on the Orient Express
-B The Body in the Library
-C Absent in the Spring
-D Death on the Nile
+#Q What Mark Twain book is the following quote from: Tom lost his temper.  I notice a person most always does thatâs got laid out in an argument. He told us to shut up.?
+^ Tom Sawyer Abroad
+A Innocents Abroad
+B Captain Stormfield Visists Heaven
+C Tom Sawyer Abroad
+D The Adventures of Tom Sawyer
 
-#Q Song of Susannah takes place mostly in our world, in New York and which other US State?
-^ Maine
-A Maine
-B Colorado
-C Illinois
-D Maryland
+#Q In the novel The Clique, what school do the members of the Pretty Committee go to?
+^ OCD
+A DDR
+B OCD
+C WHMS
+D CCD
 
-#Q While a student at Harvard, T. S. Eliot befriended this Spanish-born philosopher, essayist, poet, and novelist who wrote in Reason in Common Sense, Those who cannot remember the past, are condemned to repeat it.        
-^ George Santayana
-A Ezra Pound
-B Bertrand Russell
-C Alexis de Tocqueville
-D George Santayana
+#Q What kind of literary works did Hans Christian Andersen enjoy reading when he was a child?
+^ Dramatic works
+A Love stories
+B Gothic novels
+C Dramatic works
+D Poems
 
-#Q The main character of which novel by Thorne Smith is turned into a skeleton?
-^ Skin and Bones
-A Skin and Bones
-B Bats in the Belfry
-C Topper Takes a Trip
-D Did She Fall?
+#Q Which detective novel by Agatha Christie introduced Miss Marple to readers?
+^ The Murder at the Vicarage
+A The Murder at the Vicarage
+B Death On The Nile
+C Murder on The Orient Express
+D And Then There Were None
 
-#Q Al Franken is critical of this veteran news journalist, famous as managing editor of the Fox News Channel.  
-^ Brit Hume
-A Brit Hume
-B Rupert Murdoch
-C Tony snow
-D Fred Barnes
+#Q Humbert Humbert is the protagonist and narrator of which 1955 novel?
+^ Lolita
+A Lolita
+B The Awakening
+C In Cold Blood
+D Something Happened
 
-#Q The title of Ken Keseys novel One Flew Over the Cuckoos Nest is derived from which of the following?        
-^ a nursery rhyme
-A a country ballad
-B a nursery rhyme
-C a Shakespearean play
-D a short story by a friend of Keseys
+#Q Which of the following movies is a remake of a 1954 Japanese movie?
+^ The Magnificent Seven
+A The Seventh Sign
+B Se7en
+C The Magnificent Seven
+D Seven Sinners
 
-#Q Which of these poems was written by Lord George Gordon Byron?
-^ She Walks In Beauty
-A Ode To A Grecian Urn
-B My Lost Youth
-C She Was A Phantom Of Delight
-D She Walks In Beauty
+#Q What room does Harry Potter go to for his hearing in the 5th book of the series?
+^ Courtroom 10
+A Courtroom 10
+B Courtroom13
+C Courtroom 11
+D Courtroom 7
 
-#Q What Shakespearean play features a character who possesses magical powers?
-^ The Tempest
-A Hamlet
-B The Tempest
+#Q The Pulitzer Prize, established by newspaper publisher Joseph Pulitzer, is administered by  this American university.
+^ Columbia University
+A Columbia University
+B University of California, Berkeley
+C Princeton University
+D Harvard University
+
+#Q In which of William Shakespeares tragedies does a minor character disappear in Act III with no explanation given?
+^ King Lear
+A King Lear
+B Macbeth
 C Othello
+D Hamlet
+
+#Q What do George Bernard Shaw, William Butler Yeats, Rudyard Kipling and William Golding have in common?       
+^ All of them received the Nobel Prize in Literature.
+A They were all born in Ireland.
+B They were members of The Fabian Society - a British socialist intellectual movement.
+C All of them served in WWI.
+D All of them received the Nobel Prize in Literature.
+
+#Q Originally written in French, this 1949 Samuel Beckett play is about Vladimir and Estragon who expect a man, they barely know, to arrive.
+^ Waiting for Godot
+A Imaginary Friends
+B A Portrait of the Artist as a Young Man
+C Endgame
+D Waiting for Godot
+
+#Q In the Dark Tower series of books, Jake has a very special ability called The Touch. What is it?
+^ A kind of telekinesis
+A The power to turn things into gold
+B A kind of telekinesis
+C The power to kill by thought
+D The power to start fires
+
+#Q This 1857 collection of poems by Charles Baudelaire caused him to be convicted in France of offending the morals of the time, resulting in fines and the banning of 6 of the poems.
+^ The Flowers of Evil
+A Confessions of an English Opium-Eater
+B The Flowers of Evil
+C To the Reader
+D Artificial Paradises
+
+#Q The famous Wedding March is incorporated in the music that German composer Felix Mendelssohn wrote in 1842 for what Shakespeare play?
+^ A Midsummer Nights Dream
+A Romeo and Juliet
+B King Lear
+C Much Ado About Nothing
+D A Midsummer Nights Dream
+
+#Q What beverage did detective Nero Wolfe consume copious amounts of?
+^ Beer
+A Coffee
+B Beer
+C Tea
+D Fine wine
+
+#Q How many children did Mark Twain and his wife have?
+^ 3 daughters and one son
+A 3 daughters and one son
+B 4 sons
+C 2 sons and 2 daughters
+D 5 daughters
+
+#Q Who is the Pretty Committees second in command in the book The Clique?
+^ Dylan
+A None of these
+B Massie
+C Dylan
+D Alicia
+
+#Q Who killed Dumbledore in Harry Potter and the Half-Blood Prince?
+^ Professor Snape
+A Professor Binns
+B Lucius Malfoy
+C Professor Snape
+D Bellatrix Lestrange
+
+#Q As the novel Nicolae ends, which 2 members of the Tribulation Force are unaccounted for?
+^ Chloe and Amanda
+A Amanda and Buck
+B Chloe and Amanda
+C Chloe and Rayford
+D Chloe and Buck
+
+#Q Dorothy Parker worked for 4 magazines. Which list shows the correct order in which she worked for them?      
+^ Vogue, Vanity Fair, The New Yorker, Esquire
+A Vogue, Vanity Fair, The New Yorker, Esquire
+B Vanity Fair, Esquire, Vogue, The New Yorker
+C Esquire, Vanity Fair, The New Yorker, Vogue
+D The New Yorker, Vogue, Vanity Fair, Esquire
+
+#Q Which sister has an uncontrollable cough in the beginning of the novel Pride and Prejudice?
+^ Katherine
+A Lydia
+B Elizabeth
+C Mary
+D Katherine
+
+#Q What is the definition of the term dogberrysm, which is derived from Shakespeares play Much Ado About Nothing?
+^ the unintentional misuse of a word by confusion with one of similar sound, usually creating a comic effect    
+A a seemingly small but actually crucial weakness
+B trickery or deception
+C striving for power at the price of spiritual values
+D the unintentional misuse of a word by confusion with one of similar sound, usually creating a comic effect    
+
+#Q One of the major themes of this romantic comedy, incorporating mythological elements, is summed up in Lysanders comment, âThe course of true love never did run smoothâ.
+^ A Midsummer Nights Dream
+A The Tempest
+B Twelfth Night
+C Much Ado About Nothing
+D A Midsummer Nights Dream
+
+#Q In the final novel of The Dark Tower series, Jake, Roland and Oy travel to Maine in 1999 to do what important task?
+^ Save the life of Stephen King
+A Deliver a rose to Jakes dying mother
+B Open the Tet Corporation Tower
+C Close a tear between the worlds that was causing strange creatures to enter 1999
+D Save the life of Stephen King
+
+#Q How old was the prominent English poet John Keats when he died in 1821?
+^ 26 years old
+A 26 years old
+B 56 years old
+C 46 years old
+D 16 years old
+
+#Q What is wrong with Meggies mother in the novel Inkspell?
+^ She became mute.
+A She cannot hear.
+B She became mute.
+C She is mentally disable.
+D She is retarted.
+
+#Q Which of these best describes the plot line of the novel Turnabout by Thorne Smith?
+^ The husband and wifes bodies are magically interchanged.
+A A voodoo witch places a curse on a vain young man.
+B The husband and wifes bodies are magically interchanged.
+C A skeleton is returned to life.
+D A 17th century witch is transported to the 20th Century.
+
+#Q In a saloon, the gunslinger from Stephen Kings self-titled novel hears a crowd singing what tune that is well known in our world?
+^ Hey Jude
+A Rock Around the Clock
+B Oh My Darlin Clementine
+C Gimme Shelter
+D Hey Jude
+
+#Q Excluding the opening music, the intermission, and exit music, how long does the movie Gone with the Wind run?
+^ 222 minutes
+A 148 minutes
+B 127 minutes
+C 180 minutes
+D 222 minutes
+
+#Q According to many scholars, Miguel Cervantes penned the first modern novel. What is its title?
+^ Don Quixote
+A Don Quixote
+B The Iliad
+C The Impossible Dream
+D La Galatea
+
+#Q Driven by jealousy, anguish and ambition, this character from a history play by Shakespeare uttered the words, I am determined to prove a villain / and hate the idle pleasures of these days.
+^ Richard III
+A Henry V
+B King Lear
+C Claudius
 D Richard III
 
-#Q This post-World War II satirist wrote a popular anti-war novel, whose title has become a commonly used idiomatic phrase, referring to a a no-win situation or a double bind.
-^ Joseph Heller
-A Kurt Vonnegut
-B Ray Bradbury
-C George Orwell
-D Joseph Heller
-
-#Q Why did Al Franken choose to run as a Democrat according to Franken himself?
-^ They care more about the poor than the Republicans
-A Ann Coulter will never say she likes me again.
-B They care more about the poor than the Republicans
-C Rush is a Republican.
-D Paul Wellstone would have wanted me to do that.
-
-#Q This book was censored in 1985 in Cairo, Egypt as it contained obscene passages which posed a threat to the countrys moral fabric.
-^ Arabian Nights
-A Arabian Nights
-B Don Quixote
-C Analects
-D Brave New World
-
-#Q During the missile crisis of the 1960s, this book was banned in the USA and the UK.
-^ 1984
-A The Lotus Eaters
-B 1984
-C Brave New World
-D Down and Out in London and Paris
-
-#Q In the novel The Drawing of the Three, Roland tells his companions they are all essential members of his group, but uses a special word meaning one made from many or sharing the same destiny. What is that word?
-^ Ka-tet
-A Ka-lel
-B Ka-tet
-C Ka-zaa
-D Ka-boom
-
-#Q Which word means a set of two lines in a poem?
-^ couplet
-A iamb
-B caesura
-C bisody
-D couplet
-
-#Q What year were fictional characters Harry Potter and Ron Weasley born?
-^ 1989
-A 1990
-B 1982
-C 1989
-D 1985
-
-#Q This massive novel, consisting of 18 chapters, chronicles the events of one single day in the life of the protagonist Leopold Bloom.
-^ Ulysses
-A Ulysses
-B Finnegans Wake
-C Dubliners
-D A Portrait of the Artist as a Young man
-
-#Q What is the first name of Mary Shelleys character Frankenstein, who creates a humanoid creature by stitching together pieces of human corpses?
-^ Victor
-A Ernest
-B Volfgang
-C William
-D Victor
-
-#Q This pragmatic and opportunistic literary hero is attracted by the pretty and coquettish Scarlett OHara.    
-^ Rhett Butler
-A Oliver Mellors
-B Rhett Butler
-C Angel Clare
-D Gerald OâHara
-
-#Q Name the author of the 19th century novels A Captain at Fifteen, Around the World in 80 Days and Twenty Thousand Leagues Under the Sea.
-^ Jules Verne
-A Jules Verne
-B Arthur C. Clarke
-C Ray Bradbury
-D Isaac Asimov
-
-#Q In the beginning of Part 6 of The Rime of the Ancient Mariner, who is having a conversation with whom?      
-^ The First Voice and the Second Voice
-A The mariner and the Second Voice
-B The First Voice and the Second Voice
-C The mariner and the ghost
-D The albatross and the whale
-
-#Q In the novel Pet Semetary, what is the name of the Creeds cat that is buried and returns to life?
-^ Church
-A Jud
-B Church
-C Gage
-D Louis
-
-#Q What was the name of Hans Christian Andersens first story which was published in 1822?
-^ The Ghost at Palnatokes Grave
-A The Tinder Box
-B A Journey on Foot from Holmens Canal to the East Point of Amager
-C The Ghost at Palnatokes Grave
-D The Princess and the Pea
-
-#Q Which story is listed with the WRONG author?
-^ The Gift of Cochise-Leo G. Carroll
-A The Gift of Cochise-Leo G. Carroll
-B The Yellow Wallpaper-Charles Perkins Gilman
-C Eagles Over Croaked Creek-Max Brand
-D Dubliners-James Joyce
-
-#Q What Pulitzer Prize-winning novel, set during the Great Depression, was banned in some US States for vulgar language?
-^ The Grapes of Wrath
-A The Call of the Wild
-B The Grapes of Wrath
-C As I Lay Dying
-D The Sound and the Fury
-
-#Q This actress played the little girl, Amanda, in the horror movie Cats Eye.
-^ Drew Barrymore
-A Drew Barrymore
-B Alyssa Milano
-C Molly Ringwald
-D Patricia Benson
-
-#Q Name the movie that ends with the following line: Louis. I think this is the beginning of a beautiful friendship.
-^ Casablanca
-A Casablanca
-B The African Queen
-C The Maltese Falcon
-D Sahara
-
-#Q Which of these characters from the novel Pride and Prejudice is Elizabeth Bennets neighbour and friend?     
-^ Charlotte Lucas
-A Mrs. Hurst
-B Miss Bingley
-C Mrs. Gardner
-D Charlotte Lucas
-
-#Q Which philosopher-writer created a character who later renames himself to Prometheus?
-^ Ayn Rand
-A Nietzche
-B Ayn Rand
-C Albert Camus
-D Voltaire
-
-#Q Which novel by Jack London depicts the rise of a fascist-like regime in America?
-^ The Iron Heel
-A The Sea-Wolf
-B The Iron Heel
-C The Valley of the Moon
-D The Scarlet Plague
-
-#Q The fictional spice-drug Melange has a central role in which Sci-fi epic?
-^ DUNE
-A The Black Legion
-B The Pirates of Orion
-C War of the Worlds
-D DUNE
-
-#Q The protagonist of what movie is programmed to buy the novel The Catcher in the Rye whenever he sees it?    
-^ Conspiracy Theory
-A Gattaca
-B Conspiracy Theory
-C The Fifth Element
-D The Matrix
-
-#Q Into what creature did Mad Eye Moody turn Draco Malfoy in Harry Potter and the Goblet of Fire?
-^ A ferret
-A A rat
-B A ferret
-C A toad
-D A mouse
-
-#Q How many T-Rexes were there in the novel Jurassic Park?
-^ 2
-A 2
-B 3
-C 4
-D 1
-
-#Q Gwendolyn Brooks wrote all of the following poems except one. Can you find the odd one out?
-^ The Ballad of Sue Ellen Westerfield
-A We Real Cool
-B The Ballad of Sue Ellen Westerfield
-C Way Out Morgan
-D The Chicago Defender Sends A Man To Little Rock
-
-#Q Its translation into local languages was forbidden in Burma.
-^ The Bible
-A The Quran
-B The Cabala
-C Arabian Nights
-D The Bible
-
-#Q In the book The Gunslinger, a gas-pump is found in a tunnel under a mountain and is worshipped as a god. What is the gods name?
-^ Amoco
-A Amoco
-B Texaco
-C Opec
-D Elf
-
-#Q In the harbor of Copenhagen there is a statue of this enchanting character created by Hans Christian Andersen.
-^ The Little Mermaid
-A The Little Mermaid
-B The Little Match Girl
-C The Ugly Duckling
-D The Snow Queen
-
-#Q In what 1851 novel would you find the characters Ishmael, Captain Ahab, Queequeg and Starbuck?
-^ Moby Dick by Herman Melville
-A Voyage of the Dawn Treader by C. S. Lewis
-B Heart of Darkness by Joseph Conrad
-C Moby Dick by Herman Melville
-D The Jungle by Upton Sinclair
-
-#Q In which novel do the Duke and the King do their best to swindle god-fearin folk?
-^ Huckleberry Finn
-A A Connecticut Yankee in King Arthurs Court
-B Huckleberry Finn
-C A Tramp Abroad
-D The Mysterious Stranger
-
-#Q This comedy by Shakespeare, characterized by a lot of mix-ups and witty dialogue, involves two sets of identical twins.
-^ The Comedy of Errors
-A As You Like It
-B Taming of the Shrew
-C The Comedy of Errors
-D The Merchant of Venice
-
-#Q This movie is about a drifter, who works for a cruel boss at a textile mill, and comes across a mutated rat with no eyes or legs.
-^ Graveyard Shift
-A Cats Eye
-B Sometimes They Come Back
-C Pet Sematary
-D Graveyard Shift
-
-#Q In the novel Dolores Claiborne, what is the name of Dolores Claibornes daughter?
-^ Selena St. George
-A Selena Claiborne
-B Crystal Claiborne
-C Anita Claiborne
-D Selena St. George
-
-#Q Ahab, Ishmael, Starbuck, Stubb, Queequeg and Elijah were characters in this 1851 novel.
-^ Moby Dick
-A Eastern Voices
-B Genesis
-C The Satanic Episodes
-D Moby Dick
-
-#Q What was the name of Alexs guardian in the novel Ark Angel?
-^ Jack Starbright
-A Mrs. Jones
-B Alan Blunt
-C Jack Starbright
-D Diana Meacher
-
-#Q Which character of the book The Amber Spyglass sacrifices his/her life to save Lyra?
-^ Both Lord Asriel and Mrs. Coulter
-A Lord Asriel
-B Both Lord Asriel and Mrs. Coulter
-C Neither of them
-D Mrs. Coulter
-
-#Q In The Subtle Knifeâ Angelicaâs younger brother is Paolo. Who is her older brother?
-^ Tullio
-A Will
-B Oliver Payne
-C Asriel
-D Tullio
-
-#Q Which of the following does not happen with the protagonist in the novel, The Mezzanine?
-^ He eats a hamburger
-A He eats a hamburger
-B He rides an escalator.
-C He buys shoelaces at CVS.
-D He sits on a park bench across from the office.
-
-#Q In which novel by Thorne Smith do all the main characters end up in court before a totally befuddled judge? 
-^ all of these
-A Nightlife of the Gods
-B Topper
-C The Glorious Pool
-D all of these
-
-#Q H. G. Wells sci-fi novel The Island of Doctor Moreau focuses on experiments involving which of the following?
-^ vivisection
-A X-rays
-B potions
-C explosives
-D vivisection
-
-#Q This book tells the story of a pilot and a scientist on an air expedition to Greenland who have separate dreams of being two long-dead lovers.
-^ An Old Captivity
-A Eaters of the Dead
-B An Old Captivity
-C The Interpretation of Dreams
-D Lost Horizon
-
-#Q Which war is described in the novel Gone with the Wind?
-^ The Civil War
-A The war in Iraq
-B The war of 1812
-C The Revolutionary War
-D The Civil War
-
-#Q What were the names of William Shakespeares three children, two of whom were twins, a boy and a girl?       
-^ Susanna, Hamnet and Judith
-A Ophelia, Harry and Catherine
-B Anne, John and Susan
-C Susanna, Hamnet and Judith
-D Judith, Hamlet and Juliet
-
-#Q This romantic hero is obsessed with the beautiful Fermina Daza. He waits more than 50 years for her husband to die and declares his love for her.
-^ Florentino Ariza
-A Pedro Tercero
-B Esteban Trueba
-C Juvenal Urbino
-D Florentino Ariza
-
-#Q What is the name of the town, where Eragon from the self-titled book lives, until he becomes a dragon rider and makes his journey to the Varden?
-^ Carvahall
-A Tarnag
-B Teirm
-C Therinsford
-D Carvahall
-
-#Q What novel opens with this sentence: I was born in the year 1632 in the city of York, of a good  family thou not of that country, my father being from Bremen, who settled first at Hill.?
-^ Robinson Crusoe
-A A Tale of Two Cities
-B Kidnapped
-C The Count of Monte Cristo
-D Robinson Crusoe
-
-#Q Jake and Father Callahan travel to New York of 1999 and store the Wizards Glass known as Black Thirteen in a deposit box under which famous building?
-^ World Trade Center
-A World Trade Center
-B Chrysler Building
-C Empire State Building
-D Trump World Tower
-
-#Q How many actresses auditioned for the coveted role of Scarlett OHara?
-^ 1400
-A 1200
-B 150
-C 2500
-D 1400
-
-#Q Who wrote the collection of stories titled The Canterbury Tales?
-^ Geoffrey Chaucer
-A Edward Spenser
-B Sir Walter Raleigh
-C Geoffrey Chaucer
-D Christopher Marlowe
-
-#Q What two objects are used in the novel The Grapes of Wrath to symbolize evil?
-^ the tractor and the slot machine
-A the car and the bank
-B the telephone and the gun
-C the gun and the tractor
-D the tractor and the slot machine
-
-#Q Which of these books by Henry Miller was banned in the US in the 1930s due to sexually explicit content?    
-^ All of these
-A Black Spring
-B All of these
-C Tropic of Cancer
-D Tropic of Capricorn
-
-#Q Based on a 1983 book by Dick King-Smith, this 1995 Australian film directed by Chris Noonan was nominated for seven Academy Awards.
-^ Babe
-A Shine
-B Sophie
-C Crocodile Dundee
-D Babe
-
-#Q Jim, Marlowe, Stein, Sherif Ali, Rajah Tunka Allang and Gentleman Brown were characters in this novel.      
-^ Lord Jim
+#Q This highly symbolic story by Polish-born novelist Joseph Conrad served as a base for the movie Apocalypse Now.
+^ Heart of Darkness
 A Lord Jim
-B Darkest Passage
-C Eastern Visions
-D The Heart of Darkness
+B The Shadow Line
+C An Outcast of the Islands
+D Heart of Darkness
 
-#Q What novel by Jules Verne was used as a base for a 2008 3-D science fiction movie directed by Eric Brevig?  
-^ Journey to the Center of the Earth
-A From the Earth to the Moon
-B Twenty Thousand Leagues Under the Sea
-C Off on a Comet
-D Journey to the Center of the Earth
+#Q What house was Cho Chang in, as explained in Harry Potter and the Prisoner of Azkaban, Order of the Pheonix, and Goblet of Fire?
+^ Ravenclaw
+A Griffyndor
+B Slytherin
+C Hufflepuff
+D Ravenclaw
 
-#Q Ironically, the essay Areopagitica, which dealt with censorship, was banned in England. Who wrote  this essay?
-^ John Milton
-A Dr. William Bowlder
-B John Milton
-C Phillip Marlowe
-D Felton Edward Lewis
+#Q How does the book The Gunslinger by Stephen King begin?
+^ The man in black fled across the desert, and the gunslinger followed.
+A The Tower was the first thing Roland thought of when he woke and the last he thought of before sleep.
+B The man in black fled across the desert, and the gunslinger followed.
+C The gunslinger sighted, cocked the pistol and prepared to kill the man in black.
+D Roland looked up, the man in black was silhouetted against the sun.
 
-#Q In which story does Danl Webster appear as a leading character?
-^ The Celebrated Jumping Frog
-A The Celebrated Jumping Frog
-B The Prince and the Pauper
-C Innocents Abroad
-D Letters from the Earth
-
-#Q In Song of Susannah, Roland and Eddie travel to New York of 1977 in an attempt to buy a plot of land from which man?
-^ Calvin Tower, a bookstore owner
-A John Cullum, a retired businessman
-B Enrico Balazar, a gangster
-C Calvin Tower, a bookstore owner
-D Jack Andolini, a gangster
-
-#Q Which one of these poems from Walt Whitmans masterpiece collection Leaves of Grass was dedicated to U.S. President Abraham Lincoln?
-^ O Captain! My Captain!
-A O Captain! My Captain!
-B Out of the Cradle Endlessly Rocking
-C Song of Myself
-D I Sing the Body Electric
-
-#Q Which of these statements is NOT true about Harry Potter character Hermione Granger?
-^ She was named after J.K Rowlings best friend.
-A Her parents are dentists.
-B She was named after J.K Rowlings best friend.
-C She has bushy hair.
-D She passes her O.W.L.s
-
-#Q Dorothy Parker wrote movie reviews for which magazine?
-^ Vanity Fair
-A The New Yorker
-B Vanity Fair
-C Vogue
-D Esquire
-
-#Q This  type of  poem is usually a long poem that tells the story of a significant event or a significant persons life.
-^ Epic Poetry
-A Hokku
-B Lyric Poetry
-C Epic Poetry
-D Iamb
-
-#Q What was the popular rumor that circulated about Dick Franciss books?
-^ His wife wrote them.
-A He paid a ghostwriter to write them.
-B His son wrote them.
-C His wife wrote them.
-D They contained subliminal messages.
-
-#Q Which book includes the characters John Converse, Ray Hicks, Marge Converse?
-^ Dog Soldiers
-A Dog Soldiers
-B Day of the Locust
-C The Hearth
-D Day In Day Out
-
-#Q What is the name given to the mysterious disappearance of millions of people worldwide by Nicolae Carpathia in the Christian fiction book Left Behind?
-^ The Vanishings
-A The Vanishings
-B Doomsday
-C The Great Disappearance
-D The Rupture
-
-#Q Who does Lydia run away with in Jane Austins book Pride and Prejudice?
-^ Wickham
-A Bingley
-B Wickham
-C Darcy
-D Forster
-
-#Q How were the authors, writing under the pen names Ellis Bell, Acton Bell and Currer Bell, related?
-^ They were sisters.
-A They were sisters.
-B It was the same person.
-C They were brothers.
-D They were not related.
-
-#Q What romantic period author created the Byronic hero, Heathcliff?
-^ Emily Bronte
-A Lord Byron
-B Emily Bronte
-C Charlotte Bronte
-D Victor Hugo
-
-#Q The famous line In the room the women come and go, talking of Michelangelo is from the poem The Love Song of J. Alfred Prufrock by this influential 20th century poet.
-^ T. S. Eliot
-A W. H. Auden
-B Robert Browning
-C Robert Frost
-D T. S. Eliot
-
-#Q The name of Cruella de Vil from 101 Dalmatians is meaningful because:
-^ She wants the puppies for their fur
-A She actually likes cats and not dogs
-B She is the owner of the dalmatians
-C She doesnt give them any food
-D She wants the puppies for their fur
-
-#Q In the book All Creatures Great and Small, what was Angus Griers way of getting all the attention for himself?
-^ James would tell him that he was going to do something one way, then Grier would tell him to do it another way which would lead him doing it wrong, and then Grier did it the way James was going to at first.
-A James would tell him that he was going to do something one way, then Grier would tell him to do it another way which would lead him doing it wrong, and then Grier did it the way James was going to at first.
-B He treated James as a pack mule.
-C James killed the animal for Grier and while the owner would go crying, Grier would get a new animal that looked exactly alike and replace it and then pretend he had revived it.
-D He sacked James in front of lots of people and acted as if he were a runaway criminal.
-
-#Q In the desert I saw a creature naked, bestial. Squatting on the ground he held his heart in his hands and ate of it. I asked Is it good, friend? It is bitter--bitter he replied but I like it because it is bitter and because it is my heart.
-^ Stephen Crane
-A Stephen Crane
-B William Carlos Williams
-C Elizabeth Bishop
-D Hilda Doolittle
-
-#Q In a book that made the list of Five Memoir Shockers, which sports legend bragged that he had bedded 20,000 ladies?
-^ Wilt Chamberlain
-A Jim Brown
-B Wilt Chamberlain
-C Willie Shoemaker
-D Joe Namath
-
-#Q Which of the following books by John Steinbeck won a Pulitzer prize?
-^ The Grapes of Wrath
-A East of Eden
-B none of these
-C Of Mice and Men
-D The Grapes of Wrath
-
-#Q Which of these words best describes the attitudes of the novel The Grapes of Wrath?
-^ Pro-labor
-A Pro-labor
-B Pro-big business
-C Anti-union
-D Anti-American
-
-#Q What was the title of Dorothy Parkers first poetry collection?
-^ Enough Rope
-A The Fan
-B Resume
-C Enough Rope
-D Death  Taxes
-
-#Q Which story features a character named Jim Smiley who was responsible for one of the tallest tales of the Old West?
-^ The Celebrated Jumping Frog of Calaveras County
-A Roughing It
-B Innocents Abroad
-C The Celebrated Jumping Frog of Calaveras County
-D At Adams Tomb
-
-#Q Thorne Smiths Topper series consists of how many novels?
-^ Three
-A Four
-B Five
-C Two
-D Three
-
-#Q What book by Mark Twain does this quote come from: In mans heaven...it shall contain each and every thing that is repulsive to a man, and not a single thing he likes....it pays no compliment to the intellect...in fact never even mentions it. ?
-^ Letters From the Earth
-A Letters From the Earth
-B Roughing It
-C The Innocents Abroad
-D Huckleberry Finn
-
-#Q When he meets Stephen King, Roland the gunslinger hypnotises him.  What does Roland use to hypnotise people?
-^ A bullet
-A A bullet
-B A pendant in the shape of an eye
-C A watch
-D A pendulum
-
-#Q This film directed by Taylor Hackford was based on a novel by Andrew Neiderman and featured Keanu Reeves and Charlize Theron.
-^ The Devils Advocate
-A The Devils Advocate
-B Sweet November
-C Monster
-D The Long Walk Home
-
-#Q Why are the Wolves such a problem to the people of Calla Bryn Sturgis in the novel Wolves of the Calla?     
-^ They abduct one twin of a pair from a family whenever they appear.
-A They always beat the Bryn Sturgis soccer team when they visit.
-B They have awful table manners.
-C They come down from the mountains and kill all of the sheep, which are the main livestock in the area.       
-D They abduct one twin of a pair from a family whenever they appear.
-
-#Q In the book Breaking Dawn, how many children does Bella have?
-^ 1
-A 4
-B 1
-C 3
-D 0
-
-#Q In the book Twilight, Edward says he is 17, but admits he has been 17 for a while. In what year was he actually born?
-^ 1901
-A 1917
-B 1901
-C 1801
-D 1918
-
-#Q What game do the Cullens play in the thunderstorm in the novel Twilight?
-^ Baseball
-A Basketball
-B Football
-C Cricket
-D Baseball
-
-#Q Apart from writing a bestselling horror fiction, he also worked as an acting and business manager of Irvings Lyceum Theatre, London. Who is he?
-^ Bram Stoker
-A Nathaniel Hawthorne
-B James Joyce
-C William Hope Hodgson
-D Bram Stoker
-
-#Q What is the profession of Charles Todd in the novel In the Frame?
-^ Painter
-A Pilot
-B Painter
-C Architect
-D Jockey
-
-#Q Known as the âSage of Concordâ, what American Transcendentalist owned the land where Henry David Thoreau built his cabin near Walden Pond in Massachusetts?
-^ Ralph Waldo Emerson
-A Nathaniel Hawthorne
-B Herman Melville
-C Henry Wadsworth Longfellow
-D Ralph Waldo Emerson
-
-#Q What are Jakes final words to Roland in the novel The Gunslinger?
-^ Go then, there are other worlds than these.
-A How come I cant have a gun?
-B Well met, Sir
-C I have forgotten the face of my father
-D Go then, there are other worlds than these.
-
-#Q What animal was the main character in the horror movie Cujo?
-^ Dog
-A Snake
-B Alligator
-C Cat
-D Dog
-
-#Q How did the Mariners ship end up in the Antarctic Ocean in the poem The Rime of the Ancient Mariner?        
-^ It was blown south by a storm.
-A They were exploring the Antarctic.
-B The ships compass was broken.
-C It was blown south by a storm.
-D They were shipping supplies to Antarctica.
-
-#Q Ernest Hemingway belonged to this group of expatriate American writers, who lived in Paris from the end of World War I till the beginning of the Great Depression.
-^ The Lost Generation
-A The Lost Generation
-B The G.I. Generation
-C The Greatest Generation
-D The Missionary Generation
-
-#Q In this novel, the following words are said by the protagonist, Isadora Wing, who is in pursuit of liberation: âI was nobodyâs baby now. Liberated. Utterly free. It was the most terrifying sensation Iâd ever known in my life. Like teetering on the edge of the Grand Canyon and hoping youâd learn to fly before you hit the bottom. 
-^ Fear of Flying
-A A Good Man Is Hard to Find
-B Editha
-C Tropic of Cancer
-D Fear of Flying
-
-#Q What was John Steinbecks first published novel?
-^ Cup of Gold
-A Tortilla Flat
-B The Red Pony
-C Cup of Gold
-D The Pastures of Heaven
-
-#Q Which novel features the characters King Swishbert and Queen Olympia?
-^ Once upon a Marigold?
-A Once upon a Marigold?
-B The Star of Kazan
-C Dragons breath
-D The Frog Princess
-
-#Q What was the code name of the former head of the British Secret Service, who died of a heart attack a year prior to the events outlined in the book Tinker, Tailor, Soldier, Spy?
-^ Control
-A Chief
-B M
-C Control
-D C
-
-#Q In 1960 John Steinbeck set off on a trip around America, which he described in a book. What name did Steinbeck give to the vehicle he used during the trip?
-^ Rocinante
-A America
-B Rocinante
-C Charley
-D Don Quihote
-
-#Q Once in a kingdom called Delain, there was a king with two sons. Delain was a very old kingdom and it had had hundreds of kings, perhaps, even thousands... is the beginning of what book?
-^ The Eyes of the Dragon
-A The Stand
-B The Dark Tower I: The Gunslinger
-C The  Dark Tower IV: The Wizard and the Glass
-D The Eyes of the Dragon
-
-#Q What is the occupation of Hermiones parents in the Harry Potter books?
-^ Dentists
-A Dentists
-B Waiter/Waitress
-C Doctors
-D Teachers
-
-#Q What type of poison does Mrs. Merrowdene use in Agatha Christies short story Accident?
-^ Arsenic
-A Mouse poison
-B Arsenic
-C Lead
-D Atropine
-
-#Q During the Wrath of the Lamb, how does Tsion get separated from Buck in the novel Nicolae?
-^ The shelter Tsion is hiding in is caved in
-A Buck is arrested
-B The shelter Tsion is hiding in is caved in
-C Tsion is arrested
-D Buck gets lost looking for his wife
-
-#Q This 1971 Dr. Seuss book about a mossy,  bossy creature, the Once-ler and the Truffula trees has been banned by some schools and libraries for its anti-forestry industry content.
-^ The Lorax
-A The Butter Battle Book
-B Horton Hears a Who!
-C Fox in Socks
-D The Lorax
-
-#Q Which of these entries from the Oxford English dictionary is not a word created by Isaac Asimov?
-^ cyberspace
-A robotics
-B cyberspace
-C positronic
-D psychohistory
-
-#Q Which of these is not a science fiction novel co-written by Isaac Asimov and Robert Silverberg?
-^ The Shrouded Planet
-A The Ugly Little Boy
-B Nightfall
-C The Shrouded Planet
-D The Positronic Man
-
-#Q J. D. Salingers novel The Catcher in the Rye opens in the week before this major holiday.
-^ Christmas
-A Thanksgiving Day
-B Memorial Day
-C Christmas
-D Easter
-
-#Q In the film Gone with the Wind, when Rhett and Scarlett came back from their honeymoon they brought a gift for Mammy. What was it?
-^ Red silk petticoat
-A White silk nightgown
-B White silk petticoat
-C Red silk petticoat
-D Fur coat
-
-#Q What is Dean Koontzs middle name?
-^ Ray
-A Roy
-B He does not have a middle name.
-C Ray
-D Ron
-
-#Q Which of the following books, published in 1903, brought everlasting fame to Jack London?
-^ The Call of the Wild
-A White Fang
-B The Iron Heel
-C The Call of the Wild
-D The Sea-Wolf
-
-#Q What city does the typical family of four reside in in the classic story Tales of a Fourth Grade Nothing?   
-^ New York City
-A New York City
-B Chicago
-C Albuquerque
-D Boston
-
-#Q In the novel The Bishops Jaegers by Thorne Smith, what are the jaegers?
-^ Underwear
-A Animals
-B Paintings
-C Underwear
-D Communion wafers
-
-#Q In Ark Angel, after Force Three find out that the boy they captured is not Paul Drevin, but Alex Rider, they try to kill him by doing what?
-^ They lock Alex in a room and set the building aflame.
-A They lock Alex in a room and leave him there to starve to death.
-B They lock Alex in a room and leave a time bomb right outside.
-C They lock Alex in a room and weaken the supports of the building so that it falls down.
-D They lock Alex in a room and set the building aflame.
-
-#Q In this novel, an adult man is obsessed with a teenage girl.
-^ Lolita
-A Obsession
-B Rebecca
-C Lolita
-D Studio Sex
+#Q Name the headstrong and sharp-tongued woman whose feisty spirit is tamed by Petruccio in Shakespeares comedy The Taming of the Shrew?
+^ Katherina (Kate)
+A Ophelia
+B Bianca
+C Cordelia
+D Katherina (Kate)
 
 #Q Binding books with human hide was a common practice once. Why?
 ^ Because the narrative in the book was about the story of the hides owner
@@ -1321,278 +306,12 @@ B Because this sold the books more quickly than anything
 C Because the narrative in the book was about the story of the hides owner
 D Because it was fashionable at the time
 
-#Q The Antichrist; The Gay Science; Beyond Good and Evil; Thus Spoke Zarathustra
-^ Frederick Nietzche
-A none of these
-B Frederick Nietzche
-C Amari Baraka
-D Stephen King
-
-#Q In The Subtle Knife, what is the name by which the witches call Lyra, that if known by the wrong people, could mean her destruction?
-^ Eve
-A Metatron
-B Lillith
-C Eve
-D Baroch
-
-#Q What color shirt did Nero Wolfe invariably wear?
-^ Yellow
-A Pink
-B Yellow
-C White
-D Blue
-
-#Q Known as the Wildman of the Woods, this tragic hero, described in The Silmarillion, was cursed by Morgoth because his father refused to reveal the location of the secret Elvin kingdom of Gondolin.
-^ Turin
-A Turok
-B Tuor
-C Turgon
-D Turin
-
-#Q Cohen the Barbarian, the greatest hero that Discworld has ever produced, is about 90 years old. He thinks that which one of these is not one of the greatest things in life?
-^ A lovely bit of music
-A Good dentistry
-B Hot water baths
-C A lovely bit of music
-D Soft lavatory paper
-
-#Q To begin at the beginning: It is spring, moonless night in the small town is the opening of this literary work.
-^ Under Milk Wood
-A Of Mice and Men
-B Under Milk Wood
-C The Road Not Taken
-D The Inferno
-
-#Q Which of these series was not written by Isaac Asimov?
-^ Dune series
-A Foundation series
-B Dune series
-C Galactic Empire series
-D Robot series
-
-#Q During his round of questions in the novel Twilight, Edward asks Bella what her favourite gemstone is, to which she immediately answers Topaz, the colour of Edwards eyes. Until recently she would have given a different answer. What did her favourite gemstone use to be?
-^ Garnet
-A Ruby
-B Onyx
-C Amethyst
-D Garnet
-
-#Q Three men are given credit as directors of the movie Gone with the Wind. Which one of the following directors is not among them?
-^ Raoul Walsh
-A Sam Wood
-B Raoul Walsh
-C George Cukor
-D Victor Fleming
-
-#Q Paul Edgecomb is a character in which Stephen King story?
-^ The Green Mile
-A Misery
-B Dolores Claiborne
-C Graveyard Shift
-D The Green Mile
-
-#Q The books Eragon and Eldest are from which book series?
-^ Inheritance Trilogy
-A None of these
-B Legacy Trilogy
-C Ancient Trilogy
-D Inheritance Trilogy
-
-#Q In Harry Potter and the Philosophers Stone, what was the password to the Gryffindor tower during Halloween? 
-^ Pig snout
-A Pig snout
-B Fairy lights
-C None of these
-D Zebras tail
-
-#Q What is the essential element of a short story?
-^ A short period of time is covered.
-A The description of scenery  is used to paint a complete picture.
-B They open with a historic scene.
-C The complete description of  the main characters psyche is used to set  the scene.
-D A short period of time is covered.
-
-#Q In 1918, politician William Cabell Bruce won the Pulitzer Prize for the biography of this Founding Father.  
-^ Benjamin Franklin
-A Benjamin Franklin
-B Thomas Jefferson
-C John Adams
-D John Hancock
-
-#Q What is Stephen Kings first published novel?
-^ Carrie
-A Salems Lot
-B Carrie
-C The Stand
-D The Shining
-
-#Q Penetrating a Fresh Abyss
-^ David Payne, Jr.
-A David Payne, Jr.
-B Robert Haas
-C Robert Frost
-D Edgar Allan Poe
-
-#Q Stephen King wrote about half of this novel in room 217 of the Stanely Hotel in Colorado.
-^ The Shining
-A Misery
-B The Shining
-C Bag of Bones
-D Black House
-
-#Q When was Dorothy Parker born?
-^ August 1893
-A September 1900
-B August 1893
-C January 1899
-D June 1897
-
-#Q Often coming in at number one on 100 Best Novels of the 20th Century lists, what is the name of the James Joyce book that depicts a day in the life of Leopold Bloom?
-^ Ulysses
-A Dubliners
-B Ulysses
-C Finnegans Wake
-D A Portrait of the Artist as a Young Man
-
-#Q What was the title of Terry Pratchetts first published work, a short story printed in his school magazine?  
-^ The Hades Business
-A Night Dweller
-B Mort
-C The Carpet People
-D The Hades Business
-
-#Q Author Gabriel GarcÃ­a MÃ¡rquez stresses in this 1985 novel that love-sickness is a literal disease causing pain and other physical symptoms.
-^ Love in the Time of Cholera
-A Love in the Time of Cholera
-B Of Love and Other Demons
-C Walking with Liberty
-D One Hundred Years of Solitude
-
-#Q One of the most interesting characters introduced in Tribulation Force is Rabinnacal Scholar Tsion (pronounced Zee-own) Ben-Judah, who made a startling announcement to the whole world that put him and his family in jeopardy. What was his announcement?
-^ He believed Jesus was the promised Messiah.
-A He believed Jesus was the promised Messiah.
-B He believed Nicolae was the Messiah promised in the Torrah.
-C He believed Nicolae was the Anti-Christ.
-D He believed Nicolae would unite the world into a glorious utopia.
-
-#Q Published in 1937, this is Dr. Seusss first book. Its main character Marco is based on Marco McClintock, the son of Mike McClintock, Seuss editor, and Helene McClintock, to whom he dedicated the book.
-^ And to Think That I Saw It on Mulberry Street
-A Theres a Wocket in My Pocket!
-B And to Think That I Saw It on Mulberry Street
-C Horton Hatches the Egg
-D The Cat in the Hat
-
-#Q It is generally accepted that the Mark Twain House was designed to resemble which of these?
-^ a Mississippi riverboat
-A a tower
-B a medieval castle
-C a Gothic cathedral
-D a Mississippi riverboat
-
-#Q Name the witty nobleman who conveys to Dorian Gray his view of indulgent hedonism in one of Oscar Wildes most famous works?
-^ Henry Wotton
-A Henry Wotton
-B Basil Hallward
-C Alan Campbell
-D James Vane
-
-#Q Who portrayed Ashley Wilkes in the popular movie Gone with the Wind?
-^ Leslie Howard
-A Gary Cooper
-B Groucho Marx
-C Leslie Howard
-D Voctor Jory
-
-#Q What is the name of the mythical land that is the basis of Piers Anthonys most famous fantasy book series?  
-^ Xanth
-A Xanth
-B Dinotopia
-C Oz
-D Garran
-
-#Q What poet, noted for his realistic depictions of rural life, received four Pulitzer Prizes?
-^ Robert Frost
-A George Dillon
-B John Gould Fletcher
-C Wallace Stevens
-D Robert Frost
-
-#Q Which poet wrote the poems The Germ, Listen, A Word to Husbands, and Very Like a Whale?
-^ Ogden Nash
-A Ogden Nash
-B W. H. Auden
-C C. Day Lewis
-D Langston Hughes
-
-#Q What is The Western Star from Agatha Christies short story The Adventure of The Western Star?
-^ A jewel
-A A jewel
-B A ship
-C A stage play
-D A hotel
-
-#Q This romantic hero is a wealthy gentleman who at first feels superior to Elizabeth Bennet and ignores her. Later, however, he falls in love with her, which is a blow to his pride.
-^ Mr. Darcy
-A Colonel Forster
-B Paul Morel
-C Mr. Bingley
-D Mr. Darcy
-
-#Q Mother died today is the opening of this novel.
-^ The Stranger
-A Mother Courage and Her Children
-B Animal Farm
-C The Stranger
-D No Exit
-
-#Q Name the first novel of a popular series which has a main character named Twig.
-^ Beyond the Deep Woods
-A Pure dead magic
-B Wizard of Earthsea, A
-C Moorchild, The
-D Beyond the Deep Woods
-
-#Q In the Harry Potter series of books, this spell places enormous pressure upon its target and blasts a hole. 
-^ Deprimo
-A Deletrius
-B Deprimo
-C Defodio
-D Descendo
-
-#Q Which surly, jaded denizen of Ankh-Morpork, depicted by Terry Pratchett, is Commander of the Night Watch?   
-^ Samuel Vimes
-A Fred Colon
-B Samuel Vimes
-C Mustrum Ridcully
-D Lord Vetinari
-
-#Q FInish the popular quote by Mark Twain: ...each place has its advantages - heaven for climate and hell for...
-^ society.
-A seeing ones enemies.
-B punishment.
-C pleasure.
-D society.
-
-#Q In this 1954 Dr. Seuss book the moral of the story (and a repeated phrase throughout the book) is: a persons a person no matter how small. This was the first of two Seuss books starring this kind-hearted elephant.      
-^ Horton Hears a Who!
-A Hop on Pop
-B Theres a Wocket in My Pocket!
-C Horton Hears a Who!
-D Hooper Humperdink...? Not Him!
-
-#Q Mariel Hemingway is famous for playing the role of Tracy in what 1979 Woody Allen film?
-^ Manhattan
-A Star 80
-B Personal Best
-C The Contender
-D Manhattan
-
-#Q What does Miss Violet Marsh have to do in order to inherit her Uncle Andrews possessions in Agatha Christies story The Case of the Missing Will?
-^ Prove her wits
-A Cut her long beautiful hair
-B Live as a beggar for one month
-C Prove her wits
-D Remain unmarried for the rest of her life
+#Q What book in the popular Harry Potter series contains a chapter titled The Seven Potters?
+^ Harry Potter and the Deathly Hallows
+A Harry Potter and the Deathly Hallows
+B Harry Potter and the Order of the Phoenix
+C Harry Potter and the Half-Blood Prince
+D Harry Potter and the Chamber of Secrets
 
 #Q In the novel Nicolae, where is Amanda during The Wrath of the Lamb?
 ^ She is flying back to New Babylon when the wrath of the lamb occurs
@@ -1601,149 +320,30 @@ B She is on a ship when the wrath of the lamb occurs
 C She is on the ground when the wrath of the lamb occurs
 D She is flying back to New Babylon when the wrath of the lamb occurs
 
-#Q Finish this humors remark by Mark Twain: The report of my death was...
-^ an exaggeration.
-A an exaggeration.
-B based on rumor and hearsay.
-C a bit premature.
-D only wishful thinking.
+#Q Which sci-fi classic features the story of an alien invasion thwarted by earths microorganisms?
+^ War of the Worlds
+A Speaker for the Dead
+B Close Encounters
+C 2001: Space Odyssey
+D War of the Worlds
 
-#Q Angelo is a character from this famous play by William Shakespeare.
-^ Measure for Measure
-A As You Like It
-B Titus Andronicus
-C Measure for Measure
-D Macbeth
+#Q Return of the Native; Jude the Obscure; Far From the Madding Crowd
+^ Thomas Hardy
+A Thomas Hardy
+B William Faulkner
+C Rudyard Kipling
+D James Dickey
 
-#Q Which Faulknerian character confuses his mother with a horse?
-^ Jewel
-A Cash
-B Darl
-C Vardaman
-D Jewel
+#Q Which of the following banned the movie The Grapes of Wrath?
+^ Josef Stalin
+A Nikita Khrushchev
+B Charles de Gaulle
+C Josef Stalin
+D Adolf Hitler
 
-#Q Among the new characters introduced in the novel Nicolae is Mac Macullum.  What is Macs job?
-^ He is First Officer of the Condor 216
-A He is First Officer of the Condor 216
-B He is Minister of Propaganda for Nicolae Carpathia
-C He is a military advisor
-D He is employed as a peace keeper
-
-#Q Who took over the Fat Ladys job after she was scared out of her portrait in Harry Potter and the Prisoner of Azkaban?
-^ Sir Cadogan
-A Sir Cadogan
-B Trolls
-C Sirius Black
-D Sir Delaney Patrick-Podmore
-
-#Q Why talk of beauty? What could be more beautiful than these heroic happy dead who rushed like lions to the roaring slaughter? They did not stop to think--they died instead. Then shall the voice of liberty be mute?      
-^ E. E. Cummings
-A None of these
-B Allen Ginsberg
-C E. E. Cummings
-D Sharon Olds
-
-#Q Which author was not a reperesentative figure of the Harlem Renaissance, an African American cultural movement of the 1920s and early 1930s?
-^ Carl Sandburg
-A Carl Sandburg
-B ZoraNeale Hurston
-C Countee Cullen
-D Langston Hughes
-
-#Q Which American author is popularly known as the chronicler of the Jazz Age - the period between World War I and World War II?
-^ F. Scott Fitzgerald
-A Ernest Hemingway
-B John Dos Passos
-C John Steinbeck
-D F. Scott Fitzgerald
-
-#Q In which book by Mark Twain is Jim a major character?
-^ Huckleberry Finn
-A The Celebrated Jumping Frog of Calaveras County
-B Huckleberry Finn
-C The Adventures of Tom Sawyer
-D Puddnhead Wilson
-
-#Q What is the plant employed for the murder in Agatha Christies The Herb of Death?
-^ Foxglove
-A Thornapple
-B Hemlock
-C Foxglove
-D Belladonna
-
-#Q What was the name of Shakespeares theatre, where his acting company performed?
-^ The Globe Theater
-A The Theatre
-B The Oscar Theater
-C The Courtyard
-D The Globe Theater
-
-#Q Who wrote about the early whodunit archetype, inspector Auguste Dupin?
-^ Edgar Allan Poe
-A Georges Sands
-B Edgar Allan Poe
-C Washington Irving
-D Nathaniel Hawthorne
-
-#Q The former nurse Annie Wilkes is a character from which Stephen King story?
-^ Misery
-A Dolores Claiborne
-B Rose Madder
-C Firestarter
-D Misery
-
-#Q What famous poem by T. S. Eliot was considered offensive and upsetting because of its opening lines describing the dusky sky as a patient etherised upon a table.?
-^ The Love Song of J. Alfred Prufrock
-A The Hollow Men
-B The Love Song of J. Alfred Prufrock
-C The Waste Land
-D The Cocktail Party
-
-#Q What was Hagrid buying in Knockturn Alley?
-^ Flesh-Eating Slug Repellent
-A Flesh-Eating Slug Attractor
-B Fresh-Skin Slug Repellent
-C Flesh-Eating Ant Repellent
-D Flesh-Eating Slug Repellent
-
-#Q Which of these literary characters has a condition called dextrocardia (heart on the right side of the chest)?
-^ Dr. Julius No
-A Doctor Death
-B Dr. Jekyll
-C Dr. Moreau
-D Dr. Julius No
-
-#Q As I Lay Dying
-^ William Faulkner
-A Mark Twain
-B Edgar Rice Burroughs
-C none of these
-D William Faulkner
-
-#Q Entertainment Weeklys choice for the # 1book on the List of New Classics was the story of a father and son who trudge across an ashen American landscape in the wake of  some unnamed apocalypse, fighting off sexually predatory bandits, scavenging for food, uncovering charnel-house horror but always moving forward toward some mirage of a better future. What is the name of this post-apocalyptic novel by Cormac McCarthy?
-^ The Road
-A There Will Be Blood
-B No Country for Young Men
-C The Road
-D All the Pretty Horses
-
-#Q Who wrote The Passionate Sheppard to His Love in 1600?
-^ Christopher Marlowe
-A John Milton
-B Alexander Pope
-C Sir Walter Raleigh
-D Christopher Marlowe
-
-#Q Paul Sheldon and Annie Wilkes are characters in this novel.
-^ Misery
-A Day for Night
-B Cujo
-C The Long Green Mile
-D Misery
-
-#Q Holden Caulfields dream to be a catcher in the rye and to guard children playing in a rye field on the edge of a cliff is based on his mishearing of the poem Comin Through the Rye. What poet, known in Scotland as The Bard, wrote that poem?
-^ Robert Burns
-A Robert Burns
-B William Blake
-C Thomas Campbell
-D Lord Byron
+#Q In this novel, with the following sentences, David Lodge sums up the fact that his Catholic characters ceased to believe in the existence of hell: âAt some point in the nineteen-sixties, Hell disappeared. No one could say for certain when this happened. First it was there and then it wasnât.
+^ How Far Can You Go
+A The Remains of the Day
+B How Far Can You Go
+C The Bloody Chamber
+D The Silence in the Garden
