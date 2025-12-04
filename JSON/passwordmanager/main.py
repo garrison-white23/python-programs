@@ -28,11 +28,11 @@ def main_menu():
     choice = ""
     while choice not in ["1", "2", "3", "4", "5"]:
         choice = input('''
-    [1] Login
-    [2] Create new user
-    [3] Change username or password
-    [4] Delete user
-    [5] Quit \n>''')
+[1] Login
+[2] Create new user
+[3] Change username or password
+[4] Delete user
+[5] Quit \n>''')
         
     return choice
     
@@ -56,6 +56,8 @@ def create_user(data):
             break
 
     data[username] = pw
+    with open("data.json", "w") as f:
+        json.dump(data, f, indent=4)
 
 
 
@@ -63,7 +65,7 @@ def login(data):
     while True:
         user_check = input("\nEnter username: ")
         if user_check not in data.keys():
-            print("Invalid. Try again.")
+            print("User not found. Try again.")
         else:
             break
 
@@ -71,8 +73,12 @@ def login(data):
         pw_check = input("\nEnter password: ")
         if pw_check != data[user_check]:
             print("\nIncorrect password. Try again.")
-        else:
+        else: 
+            valid = True
             break
+
+    if valid:
+        return user_check
 
 
 def change_info(data):
@@ -83,9 +89,12 @@ def delete_user(data):
     pass
 
 
-def note_taker():
+def note_taker(user):
     print(input("\nUnder construction.\nPress Enter to return.\n"))
 
+
+if __name__ == "__main__":
+    main()
 
 
 
