@@ -1,5 +1,5 @@
 import json
-
+import getpass
 
 def main():
     with open("data.json", "r") as f:
@@ -18,8 +18,7 @@ def main():
         elif choice == "3":
             delete_user(data)
 
-    
-    print(input("\nGoodbye!\nPress Enter to close...\n"))
+    input("\nGoodbye!\nPress Enter to close...\n")
 
 
 def main_menu():
@@ -50,10 +49,10 @@ def create_user(data):
             continue
     
     if username.lower() != "back":
-        pw = input("Create password: ")
+        pw = getpass.getpass("Create password: ")
     
         while True:
-            pw_check = input("Confirm password: ")
+            pw_check = getpass.getpass("Confirm password: ")
             if pw_check != pw:
                 print("Invalid. Try again.")
             else:
@@ -77,7 +76,7 @@ def login(data):
             break
     if user_check.lower() != "back":
         while True:
-            pw_check = input("Enter password: ")
+            pw_check = getpass.getpass("Enter password: ")
             if pw_check.lower() == "back":
                 break
             elif pw_check != data[0][user_check]:
@@ -100,7 +99,7 @@ def delete_user(data):
             break
     if user_check.lower() != "back":
         while True:
-            pw_check = input("\nEnter password: ")
+            pw_check = getpass.getpass("\nEnter password: ")
             if pw_check.lower() == "back":
                 break
             elif pw_check != data[0][user_check]:
@@ -157,14 +156,12 @@ def note_taker(user, data):
             if delete-1 in range(len(data[1][user])):
                 choice = ""
                 while choice.lower() not in ["y", "n"]:
-                    choice = input(f"\n'{data[1][user][delete-1][:30]}...'\nAre you sure you want to delete this note? (Y/N):")
+                    choice = input(f"\n'{data[1][user][delete-1][:30]}...'\n\nAre you sure you want to delete this note? (Y/N):")
                     if choice.lower() == "y":
                         del data[1][user][delete-1]
                         print("\n*Note succesfully deleted*")
                         save(data)
-                    elif choice.lower() == "n":
-                        break
-                    else:
+                    elif choice.lower() != "n":
                         print("Invalid response. Please enter 'Y' or 'N'")
                 break
             else:
