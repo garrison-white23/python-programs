@@ -1,0 +1,59 @@
+JSON:
+
+import json
+
+JSON to Python dict:
+with open("data.json", "r") as f:
+ 	data = json.load(f)
+
+Python dict to JSON:
+with open("data.json", "w") as f:
+ 	json.dump(data, f, indent=4)
+
+Parse JSON from a string
+data = json.loads(json_string)
+
+Python to JSON string
+json_string = json.dumps(data, indent=2)
+
+CSV:
+
+import csv
+
+Read as list of dicts:
+with open("data.csv", newline="") as f:
+ 	reader = csv.DictReader(f)
+ 	rows = list(reader)
+
+*Each row becomes:
+{"name": "Alice", "age": "20", "city": "Columbus"}
+
+Read as rows (lists):
+with open("data.csv") as f:
+ 	reader = csv.reader(f)
+ 	for row in reader:
+ 		print(row)
+
+Writing CSV files:
+
+Write list of dicts:
+with open("output.csv", "w", newline="") as f:
+ 	fieldnames = ["name", "age", "city"]
+ 	writer = csv.DictWriter(f, fieldnames=fieldnames)
+
+writer.writeheader()
+writer.writerows(rows)
+
+Append new row:
+with open("data.csv", "a", newline="") as f:
+ 	writer = csv.writer(f)
+ 	writer.writerow(["Bob", 30, "Cleveland"])
+
+Common operations
+Filter rows:
+filtered = [r for r in rows if r["category"] == "Food"]
+
+
+API requests
+
+import requests

@@ -99,7 +99,7 @@ def delete_user(data):
             break
     if user_check.lower() != "back":
         while True:
-            pw_check = getpass.getpass("\nEnter password: ")
+            pw_check = getpass.getpass("Enter password: ")
             if pw_check.lower() == "back":
                 break
             elif pw_check != data[0][user_check]:
@@ -107,7 +107,7 @@ def delete_user(data):
             else: 
                 choice = ""
                 while choice.lower() not in ["y", "n"]:
-                    choice = input("\nAre you sure you want to delete this user? (Y/N):")
+                    choice = input("Are you sure you want to delete this user? (Y/N):")
                     if choice.lower() == "y":
                         del data[0][user_check]
                         del data[1][user_check]
